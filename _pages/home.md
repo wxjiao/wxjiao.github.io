@@ -1,5 +1,5 @@
 ---
-title: "Mrinmaya Lab - Home"
+title: "Mrinmaya's Lab - Home"
 layout: homelay
 excerpt: "Mrinmaya's Lab at ETH Zurich."
 sitemap: false
