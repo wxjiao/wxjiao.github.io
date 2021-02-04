@@ -60,7 +60,7 @@ We are a research group in the [Institute for Machine Learning](https://ml.inf.e
 
 We are located in the E floor of the [CAB building](https://ethz.ch/services/en/service/rooms-and-buildings/building-orientation/gebaeude.html?args0=CAB) in the [beautiful](https://www.zuerich.com/en) city of Zurich in Switzerland. We regularly exchange ideas and work with our neighbors in the [Rycolab](https://rycolab.io/), as well as with our colleagues in the [Institute for Machine Learning](https://ml.inf.ethz.ch/).
 
- **We are always looking for strong and motivated PhD students to join our research group. We are quite selective and only have around 1-2 positions every year.** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are always looking for strong and motivated PhD students to join our research group. However, we are quite selective and only have around 1-2 positions every year.** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 We are grateful for funding from the [ETH AI center](https://ai.ethz.ch/).
