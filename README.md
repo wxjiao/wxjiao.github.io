@@ -1,4 +1,4 @@
-# Mrinmaya Lab Website
+# Mrinmaya's Lab Website
 
 This is the website of our academic research group at ETH Zurich.
 
