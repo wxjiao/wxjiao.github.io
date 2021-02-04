@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group in the [Institute for Machine Learning](https://ml.inf.ethz.ch/) within the [Department of Computer Science](https://inf.ethz.ch/) at the [ETH Zurich](https://ethz.ch/). We build machine learning models for natural language processing, knowledge discovery and reasoning. We also work on problems in the intersection of natural language processing and education.
+We are a research group in the [Institute for Machine Learning](https://ml.inf.ethz.ch/) within the [Department of Computer Science](https://inf.ethz.ch/) at the [ETH Zurich](https://ethz.ch/). We are also part of the newly-founded [ETH AI center](https://ai.ethz.ch/). We build machine learning models for natural language processing, knowledge discovery and reasoning. We also work on problems in the intersection of natural language processing and education.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -58,7 +58,7 @@ We are a research group in the [Institute for Machine Learning](https://ml.inf.e
 
 
 
-We are located in the E floor of the [CAB building](https://ethz.ch/services/en/service/rooms-and-buildings/building-orientation/gebaeude.html?args0=CAB) in the [beautiful](https://www.zuerich.com/en) city of Zurich in Switzerland. We exchange ideas and work with our neighbors in the [Rycolab](https://rycolab.io/), as well as with our colleagues in the [Institute for Machine Learning](https://ml.inf.ethz.ch/).
+We are located in the E floor of the [CAB building](https://ethz.ch/services/en/service/rooms-and-buildings/building-orientation/gebaeude.html?args0=CAB) in the [beautiful](https://www.zuerich.com/en) city of Zurich in Switzerland. We regularly exchange ideas and work with our neighbors in the [Rycolab](https://rycolab.io/), as well as with our colleagues in the [Institute for Machine Learning](https://ml.inf.ethz.ch/).
 
  **We are always looking for strong and motivated PhD students to join our research group. We are quite selective and only have around 1-2 positions every year.** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
