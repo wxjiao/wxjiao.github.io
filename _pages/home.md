@@ -6,7 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group in the [Institute for Machine Learning](https://ml.inf.ethz.ch/) within the [Department of Computer Science](https://inf.ethz.ch/) at the [ETH Zurich](https://ethz.ch/). We are also part of the newly-founded [ETH AI center](https://ai.ethz.ch/). We build machine learning models for natural language processing, knowledge discovery and reasoning. We also work on problems in the intersection of natural language processing and education.
+We are a research group in the [Institute for Machine Learning](https://ml.inf.ethz.ch/) within the [Department of Computer Science](https://inf.ethz.ch/) at the [ETH Zurich](https://ethz.ch/). We are also part of the newly-founded [ETH AI center](https://ai.ethz.ch/).
+
+We build machine learning models for natural language processing, knowledge discovery and reasoning. We also work on problems in the intersection of natural language processing and education.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
