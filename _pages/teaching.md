@@ -1,5 +1,4 @@
-
----
+--
 title: "Mrinmaya's Lab - Teaching"
 layout: gridlay
 excerpt: "Mrinmaya's Lab -- Teaching NLU."
