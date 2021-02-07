@@ -1,6 +1,6 @@
 --
 title: "Mrinmaya's Lab - Teaching"
-layout: teaching
+layout: textlay
 excerpt: "Mrinmaya's Lab -- Teaching NLU."
 sitemap: false
 permalink: /teaching
