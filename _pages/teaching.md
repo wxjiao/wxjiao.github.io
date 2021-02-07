@@ -137,5 +137,5 @@ You can ask questions on  [piazza](https://piazza.com/ethz.ch/spring2021/263500
 |||
 |:--|:--|
 |Lecturer|[Mrinmaya Sachan](http://www.mrinmaya.io/)|
-|Teaching Assistants|Jiaoda Li, [Shehzaad Dhuliawala](https://people.cs.umass.edu/~sdhuliawala/), [Yifan Hou](https://yifan-h.github.io/)|
+|Teaching Assistants|[Jiaoda Li](https://rycolab.io/authors/jiaoda/), [Shehzaad Dhuliawala](https://people.cs.umass.edu/~sdhuliawala/), [Yifan Hou](https://yifan-h.github.io/)|
 |||
