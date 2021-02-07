@@ -7,7 +7,7 @@ permalink: /teaching
 ---
 
 # Computational Semantics for Natural Language Processing
-### <font color=gray>ETH Zürich, Spring Semester 2021: [Course catalog](http://www.vvz.ethz.ch/lerneinheitPre.do?semkez=2021S&lerneinheitId=154041&lang=en)</font>
+### <font color=gray>ETH Zürich, Spring Semester 2021</font>: [Course catalog](http://www.vvz.ethz.ch/lerneinheitPre.do?semkez=2021S&lerneinheitId=154041&lang=en)
 
 ## Course Description
 This course presents an introduction to Natural language processing (NLP) with an emphasis on computational semantics i.e. the process of constructing and reasoning with meaning representations of natural language text.
