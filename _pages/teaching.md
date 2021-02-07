@@ -1,9 +1,9 @@
 --
 title: "Mrinmaya's Lab - Teaching"
-layout: gridlay
+layout: teaching
 excerpt: "Mrinmaya's Lab -- Teaching NLU."
 sitemap: false
-permalink: /teaching/
+permalink: /teaching
 ---
 
 # Computational Semantics for Natural Language Processing
