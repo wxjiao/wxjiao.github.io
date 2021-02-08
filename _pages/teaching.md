@@ -30,7 +30,7 @@ The final assessment will be a combination of classroom participation, graded ex
 |Lecture|Description|Course Materials|Events|
 |:--|:--|:--|:--|
 |1|Introduction, The Distributional Hypothesis and Word Vectors|Suggested Readings:|Assignment 1 out|
-|||[1. Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)||
+|[Slide](https://n.ethz.ch/~jiaoli/download/lecture1_introduction.pdf)||[1. Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)||
 |||[2. Efficient Estimation of Word Representations in Vector Space (original word2vec paper)](http://arxiv.org/pdf/1301.3781.pdf)||
 |||[3. Distributed Representations of Words and Phrases and their Compositionality (negative sampling paper)](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)||
 |2|Word Vectors 2, Word Senses and Sentence Vectors|Suggested Readings:||
