@@ -51,7 +51,7 @@ ___
 |||[3. On the Dimensionality of Word Embedding.](https://papers.nips.cc/paper/7368-on-the-dimensionality-of-word-embedding.pdf)||
 |||[4. Word senses and Word embeddings chapter in Jurafsky and Martin](https://web.stanford.edu/)||
 |||||
-|Voluntary &nbsp; |Python, Pytorch and Tensorflow review session by TAs|Suggested Readings:||
+|Voluntary| &nbsp; Python, Pytorch and Tensorflow review session by TAs|Suggested Readings:||
 |||[1. Review of differential calculus](http://web.stanford.edu/class/cs224n/readings/review-differential-calculus.pdf)||
 |||Additional Readings:||
 |||[1. Natural Language Processing (Almost) from Scratch](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)||
@@ -130,8 +130,8 @@ ___
 |12|Language + {Knowledge, Vision, Action, Speech}|Suggested Readings:||
 |||||
 |13|Optional lecture: Analysis and Interpretability of Neural NLP|Suggested Readings:||
-|___|___|___|___|
-|___|___|___|___|
+|||||
+|||||
 ||Final project presentation (or poster session)|||
 ||Final project report submission|||
 
