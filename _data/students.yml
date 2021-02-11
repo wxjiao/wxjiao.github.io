@@ -9,14 +9,14 @@
 #  education4:
 
 - name: Adamos Solomou
-  photo: https://polybox.ethz.ch/index.php/s/oFy4rfvhZUSG482
+  photo: Adamos.jpeg
   info: MSc Student
   hobbies: Water polo, Cycling 
   number_educ: 1
   education1: Imperial College London (MEng)
 
 - name: Jiaoda Li
-  photo: https://drive.google.com/file/d/0B91CkGbiy91ANmhoLVJmcmJHQkU/view?usp=sharing
+  photo: Jiaoda.jpg
   info: Master Student
   hobbies: Movie, Table tennis, Museum
   number_educ: 2
@@ -24,14 +24,14 @@
   education2: BS City University of Hong Kong
 
 - name: Alessandro Stolfo
-  photo: https://drive.google.com/file/d/1w7_hPbqGw_K1bvFy1JmHTcWWN9MhboPe/view?usp=sharing
+  photo: Alessandro.jpg
   info: Master Student
   hobbies: Football, playing the drums
   number_educ: 1
   education1: BS Politecnico di Milano
 
 - name: Sankalan Pal Chowdhury
-  photo: https://www.mpi-sws.org/people/sankalan/Sankalan-Pal+Chowdhury.jpg
+  photo: Sankalan.jpg
   info: Intern
   hobbies: Singing
   number_educ: 1
