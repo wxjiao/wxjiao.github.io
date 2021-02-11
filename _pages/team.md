@@ -60,6 +60,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   {% endif %}
 
   </ul>
+  <i>Hobbies: {{ member.hobbies}}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
