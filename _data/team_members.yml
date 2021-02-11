@@ -25,14 +25,14 @@
 
 - name: Zhijing Jin
   photo: Zhijing.png
-  info: Collaborator; PhD Student at MPI
+  info: Collaborator, PhD Student at MPI
   hobbies: Hiking, hip hop dancing, meditation
   number_educ: 1
   education1: BS University of Hong Kong
 
 - name: Devendra Singh Sachan
   photo: Devendra.jpg
-  info: Collaborator; PhD student at Mila / McGill University
+  info: Collaborator, PhD student at Mila / McGill University
   hobbies: Long distance running
   number_educ: 2
   education1: MS Carnegie Mellon University
@@ -40,7 +40,7 @@
 
 - name: Zhao Meng
   photo: Meng.jpeg
-  info: Collaborator; PhD Student in D-ITET
+  info: Collaborator, PhD Student in D-ITET
   hobbies: Taking trains and planes
   number_educ: 2
   education1: MS ETH Zurich
