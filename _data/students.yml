@@ -8,37 +8,31 @@
 #  education3:
 #  education4:
 
-- name: Rebecca Gharibaan
-  photo: rock.jpg
-  info: Master student
-  email: R.Gharibaan@student.tudelft.nl
-  number_educ: 0
-  education1:
+- name: Adamos Solomou
+  photo: https://polybox.ethz.ch/index.php/s/oFy4rfvhZUSG482
+  info: MSc Student
+  hobbies: Water polo, Cycling 
+  number_educ: 1
+  education1: Imperial College London (MEng)
 
-- name: Rémi Claessen
-  photo: rock.jpg
-  info: Master student
-  email: remi.c60000@gmail.com
-  number_educ: 0
-  education1:
+- name: Jiaoda Li
+  photo: https://drive.google.com/file/d/0B91CkGbiy91ANmhoLVJmcmJHQkU/view?usp=sharing
+  info: Master Student
+  hobbies: Movie, Table tennis, Museum
+  number_educ: 2
+  education1: MS ETH Zürich
+  education2: BS City University of Hong Kong
 
-- name: Maialen Larrazabal Ortego
-  photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+- name: Alessandro Stolfo
+  photo: https://drive.google.com/file/d/1w7_hPbqGw_K1bvFy1JmHTcWWN9MhboPe/view?usp=sharing
+  info: Master Student
+  hobbies: Football, playing the drums
+  number_educ: 1
+  education1: BS Politecnico di Milano
 
-- name: Sergio Barquero Pierantoni
-  photo: rock.jpg
-  info: Master student
-  email: s.barquero.pierantoni@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
-
-- name: Evert Stolte
-  photo: rock.jpg
-  info: Master student
-  email: evert_3aug@hotmail.com
-  number_educ: 0
-  education1:
+- name: Sankalan Pal Chowdhury
+  photo: https://www.mpi-sws.org/people/sankalan/Sankalan-Pal+Chowdhury.jpg
+  info: Intern
+  hobbies: Singing
+  number_educ: 1
+  education1: BS IIT Delhi
