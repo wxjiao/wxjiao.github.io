@@ -22,7 +22,7 @@ We are located in the E floor of the [CAB building](https://ethz.ch/services/en/
  **We are always looking for strong and motivated PhD students to join our research group. However, we are quite selective and only have around 1-2 positions every year.** [(Please read this before sending us an email)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for funding from the [ETH AI center](https://ai.ethz.ch/).
+We are grateful for funding from [Haslerstiftung](https://haslerstiftung.ch/) and [ETH AI center](https://ai.ethz.ch/).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
