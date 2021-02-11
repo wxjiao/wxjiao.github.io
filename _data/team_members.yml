@@ -1,7 +1,7 @@
 - name: Mrinmaya Sachan
   photo: Mrinmaya.jpg
   info: Assistant Professor, ETH Zurich
-  hobbies: Tennis, Boardgames
+  Hobbies: Tennis, Boardgames
   number_educ: 3
   education1: BS IIT Kanpur
   education2: MS Carnegie Mellon University
@@ -10,7 +10,7 @@
 - name: Yifan Hou
   photo: Yifan.jpg
   info: PhD student
-  hobbies: Fitness, PC games, Cycling
+  Hobbies: Fitness, PC games, Cycling
   number_educ: 2
   education1: MS CUHK
   education2: BS HUST
@@ -18,7 +18,7 @@
 - name: Shehzaad Dhuliawala
   photo: Shehzaad.jpg
   info: PhD Student
-  hobbies: Reading, boardgames, hiking
+  Hobbies: Reading, boardgames, hiking
   number_educ: 2
   education1: MS UMass Amherst
   education2: BS VNIT Nagpur
@@ -26,14 +26,14 @@
 - name: Zhijing Jin
   photo: Zhijing.png
   info: Collaborator, PhD Student at MPI
-  hobbies: Hiking, hip hop dancing, meditation
+  Hobbies: Hiking, hip hop dancing, meditation
   number_educ: 1
   education1: BS University of Hong Kong
 
 - name: Devendra Singh Sachan
   photo: Devendra.jpg
   info: Collaborator, PhD student at Mila / McGill University
-  hobbies: Long distance running
+  Hobbies: Long distance running
   number_educ: 2
   education1: MS Carnegie Mellon University
   education2: BS IIT Guwahati
@@ -41,7 +41,7 @@
 - name: Zhao Meng
   photo: Meng.jpeg
   info: Collaborator, PhD Student in D-ITET
-  hobbies: Taking trains and planes
+  Hobbies: Taking trains and planes
   number_educ: 2
   education1: MS ETH Zurich
   education2: BS Peking University
