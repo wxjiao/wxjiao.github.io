@@ -26,6 +26,6 @@ We are grateful for funding from [Haslerstiftung](https://haslerstiftung.ch/) an
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ETH.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_INFK.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_INFK.png" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_AICENTER.png" style="width: 120px">
 </figure>
