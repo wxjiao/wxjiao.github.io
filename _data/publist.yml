@@ -1,5 +1,5 @@
 - title: "Clustering Contextualized Representations of Text for Unsupervised Syntax Induction"
-  image: cluster_bert.pdf
+  image: TiNHigh.png
   description: We jointly map contextualized text representations to a lower dimensional space and cluster them for syntax induction.
   authors: Vikram Gupta, Haoyue Shi, Kevin Gimpel and Mrinmaya Sachan
   link:
@@ -8,7 +8,7 @@
   highlight: 1
   
  - title: "Text-based RL Agents with Commonsense Knowledge: New Challenges, Environments and Baselines"
-  image: text_rl_aaai.pdf
+  image: TiNHigh.png
   description: We jointly map contextualized text representations to a lower dimensional space and cluster them for syntax induction.
   authors: Keerthiram Murugesan, Mattia Atzeni, Pavan Kapanipathi, Pushkar Shukla, Sadhana Kumaravel, Gerald Tesauro, Kartik Talamadupula, Mrinmaya Sachan and Murray Campbell
   link:
