@@ -25,7 +25,7 @@ We are located in the E floor of the [CAB building](https://ethz.ch/services/en/
 We are grateful for funding from [Haslerstiftung](https://haslerstiftung.ch/) and [ETH AI center](https://ai.ethz.ch/).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ETH.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_INFK.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_AICENTER.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ETH.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_INFK.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_AICENTER.png" style="width: 120px">
 </figure>
