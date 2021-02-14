@@ -24,3 +24,21 @@
     url: https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00360
     display: Computational Linguistics (CL) journal
   highlight: 1
+
+- title: "Learning Pipelines with Limited Data and Domain Knowledge: A Study in Parsing Physics Problems"
+  image: parse_physics.png
+  description: We harvest structured knowledge of geometry from math textbooks.
+  authors: Mrinmaya Sachan, Avinava Dubey, Tom Mitchell, Dan Roth and Eric P. Xing
+  link:
+    url: https://papers.nips.cc/paper/2018/file/ac627ab1ccbdb62ec96e702f07f6425b-Paper.pdf
+    display: NeurIPS 2018
+  highlight: 1
+
+- title: "Contextual Parameter Generation for Universal Neural Machine Translation"
+  image: nmt.png
+  description: We harvest structured knowledge of geometry from math textbooks.
+  authors: Emmanouil Antonios Platanios, Mrinmaya Sachan, Graham Neubig and Tom Mitchell
+  link:
+    url: https://arxiv.org/pdf/1808.08493.pdf
+    display: EMNLP 2018
+  highlight: 1
