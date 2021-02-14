@@ -106,6 +106,15 @@
     display: StarSem 2017
   highlight: 1
 
+- title: "Easy Questions First? A Case Study on Curriculum Learning for Question Answering."
+  image: demonstrations.png
+  description: We learn to solve geometry problems by imitation demonstrations in textbooks.
+  authors: Mrinmaya Sachan and Eric P. Xing
+  link:
+    url: https://www.aclweb.org/anthology/P16-1043.pdf
+    display: ACL 2016
+  highlight: 0
+
 - title: "Science Question Answering using Instructional Materials"
   image: science.png
   description: We propose a structured prediction approach to answer science questions in textbooks.
