@@ -25,6 +25,15 @@
     display: AAAI 2021
   highlight: 1
 
+- title: "Knowledge Graph Embedding Compression"
+  image: text_rl_aaai.png
+  description: We design new environments to test the ability of RL agents to utilize commonsense knowledge.
+  authors: Mrinmaya Sachan
+  link:
+    url: https://www.aclweb.org/anthology/2020.acl-main.238.pdf
+    display: ACL 2020
+  highlight: 0
+
 - title: "Discourse in Multimedia: A Case Study in Extracting Geometry Knowledge from Textbooks"
   image: theorem.png
   description: We harvest structured knowledge of geometry from math textbooks.
@@ -42,6 +51,24 @@
     url: https://papers.nips.cc/paper/2018/file/ac627ab1ccbdb62ec96e702f07f6425b-Paper.pdf
     display: NeurIPS 2018
   highlight: 1
+
+- title: "Parsing to Programs: A Framework for Situated QA"
+  image: parse_physics.png
+  description: We learn a pipeline process that incorporates existing code, pre-learned machine learning models, and human engineered rules.
+  authors: Mrinmaya Sachan and Eric P. Xing
+  link:
+    url: https://dl.acm.org/doi/10.1145/3219819.3219972
+    display: KDD 2018
+  highlight: 0
+
+- title: "Self-Training for Jointly Learning to Ask and Answer Questions"
+  image: parse_physics.png
+  description: We learn a pipeline process that incorporates existing code, pre-learned machine learning models, and human engineered rules.
+  authors: Mrinmaya Sachan and Eric P. Xing
+  link:
+    url: https://www.aclweb.org/anthology/N18-1058/
+    display: NAACL-HLT 2018
+  highlight: 0
 
 - title: "Contextual Parameter Generation for Universal Neural Machine Translation"
   image: nmt.png
