@@ -133,6 +133,24 @@
     display: ACL 2016 (Short)
   highlight: 1
 
+- title: "Learning Concept Taxonomies from Multi-modal Data"
+  image: rc.png
+  description: We propose a structured prediction approach to answer reading comprehension questions.
+  authors: Hao Zhang, Zhiting Hu, Yuntian Deng, Mrinmaya Sachan, Zhicheng Yan and Eric P. Xing
+  link:
+    url: https://www.aclweb.org/anthology/P16-1169.pdf
+    display: ACL 2016
+  highlight: 0
+
+- title: "Grounding Topic Models with Knowledge Bases"
+  image: rc.png
+  description: We propose a structured prediction approach to answer reading comprehension questions.
+  authors: Zhiting Hu, Gang Luo, Mrinmaya Sachan, Eric P. Xing and Zaiqing Nie
+  link:
+    url: https://www.ijcai.org/Abstract/16/226
+    display: IJCAI 2016
+  highlight: 0
+
 - title: "Learning Answer-Entailing Structures for Machine Comprehension"
   image: rc.png
   description: We propose a structured prediction approach to answer reading comprehension questions.
