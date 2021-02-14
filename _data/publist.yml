@@ -159,3 +159,12 @@
     url: https://www.aclweb.org/anthology/P15-1024/
     display: ACL 2015 (Outstanding paper)
   highlight: 1
+
+- title: "An Active Learning Approach to Coreference Resolution."
+  image: rc.png
+  description: We propose a structured prediction approach to answer reading comprehension questions.
+  authors: Mrinmaya Sachan, Eduard H. Hovy and Eric P. Xing
+  link:
+    url: https://www.ijcai.org/Abstract/15/189
+    display: IJCAI 2015
+  highlight: 0
