@@ -27,7 +27,7 @@
 
 - title: "Learning Pipelines with Limited Data and Domain Knowledge: A Study in Parsing Physics Problems"
   image: parse_physics.png
-  description: We harvest structured knowledge of geometry from math textbooks.
+  description: We learn a pipeline process that incorporates existing code, pre-learned machine learning models, and human engineered rules.
   authors: Mrinmaya Sachan, Avinava Dubey, Tom Mitchell, Dan Roth and Eric P. Xing
   link:
     url: https://papers.nips.cc/paper/2018/file/ac627ab1ccbdb62ec96e702f07f6425b-Paper.pdf
@@ -36,7 +36,7 @@
 
 - title: "Contextual Parameter Generation for Universal Neural Machine Translation"
   image: nmt.png
-  description: We harvest structured knowledge of geometry from math textbooks.
+  description: We propose a meta-learning approach for universal NMT.
   authors: Emmanouil Antonios Platanios, Mrinmaya Sachan, Graham Neubig and Tom Mitchell
   link:
     url: https://arxiv.org/pdf/1808.08493.pdf
