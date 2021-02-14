@@ -45,25 +45,16 @@
 
 - title: "Learning to Solve Geometry Problems from Natural Language Demonstrations in Textbooks"
   image: demonstrations.png
-  description: We harvest structured knowledge of geometry from math textbooks.
+  description: We learn to solve geometry problems by imitation demonstrations in textbooks.
   authors: Mrinmaya Sachan and Eric P. Xing
   link:
     url: https://www.aclweb.org/anthology/S17-1029.pdf
     display: StarSem 2017
   highlight: 1
 
-- title: "Learning Answer-Entailing Structures for Machine Comprehension"
-  image: rc.png
-  description: We harvest structured knowledge of geometry from math textbooks.
-  authors: Mrinmaya Sachan, Avinava Dubey, Eric P. Xing and Matthew Richardson
-  link:
-    url: https://www.aclweb.org/anthology/P15-1024/
-    display: ACL 2015 (Outstanding paper)
-  highlight: 1
-
 - title: "Science Question Answering using Instructional Materials"
   image: science.png
-  description: We harvest structured knowledge of geometry from math textbooks.
+  description: We propose a structured prediction approach to answer science questions in textbooks.
   authors: Mrinmaya Sachan, Avinava Dubey and Eric P. Xing
   link:
     url: https://arxiv.org/pdf/1602.04375v2.pdf
@@ -72,9 +63,18 @@
 
 - title: "Machine Comprehension using Rich Semantic Representations"
   image: rc_amr.png
-  description: We harvest structured knowledge of geometry from math textbooks.
+  description: We propose an approach to answer reading comprehension questions using AMR graph representations.
   authors: Mrinmaya Sachan and Eric P. Xing
   link:
     url: https://www.aclweb.org/anthology/P16-2079.pdf
     display: ACL 2016 (Short)
+  highlight: 1
+
+- title: "Learning Answer-Entailing Structures for Machine Comprehension"
+  image: rc.png
+  description: We propose a structured prediction approach to answer reading comprehension questions.
+  authors: Mrinmaya Sachan, Avinava Dubey, Eric P. Xing and Matthew Richardson
+  link:
+    url: https://www.aclweb.org/anthology/P15-1024/
+    display: ACL 2015 (Outstanding paper)
   highlight: 1
