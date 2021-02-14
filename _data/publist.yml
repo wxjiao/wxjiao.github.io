@@ -15,3 +15,12 @@
     url: https://arxiv.org/abs/2010.03790
     display: AAAI 2021
   highlight: 1
+
+- title: "Discourse in Multimedia: A Case Study in Extracting Geometry Knowledge from Textbooks"
+  image: theorem.png
+  description: We harvest structured knowledge of geometry from math textbooks.
+  authors: Mrinmaya Sachan, Avinava Dubey, Eduard Hovy, Tom Mitchell, Dan Roth and Eric P. Xing
+  link:
+    url: https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00360
+    display: Computational Linguistics (CL) journal
+  highlight: 1
