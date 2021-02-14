@@ -1,17 +1,9 @@
-- title: "Clustering Contextualized Representations of Text for Unsupervised Syntax Induction"
+- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
   image: TiNHigh.png
-  description: We jointly map contextualized text representations to a lower dimensional space and cluster them for syntax induction.
-  authors: Vikram Gupta, Haoyue Shi, Kevin Gimpel and Mrinmaya Sachan
+  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
+  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
   link:
-    url: https://arxiv.org/abs/2010.12784
-    display: arXiv:2010.12784 (2020)
+    url: https://arxiv.org/abs/2101.08535
+    display: arXiv:2101.08535 (2021)
   highlight: 1
-  
- - title: "Text-based RL Agents with Commonsense Knowledge: New Challenges, Environments and Baselines"
-  image: TiNHigh.png
-  description: We jointly map contextualized text representations to a lower dimensional space and cluster them for syntax induction.
-  authors: Keerthiram Murugesan, Mattia Atzeni, Pavan Kapanipathi, Pushkar Shukla, Sadhana Kumaravel, Gerald Tesauro, Kartik Talamadupula, Mrinmaya Sachan and Murray Campbell
-  link:
-    url: https://arxiv.org/abs/2010.03790
-    display: AAAI 2021
-  highlight: 1
+
