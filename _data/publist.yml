@@ -40,7 +40,7 @@
   authors: Mrinmaya Sachan, Avinava Dubey, Eduard Hovy, Tom Mitchell, Dan Roth and Eric P. Xing
   link:
     url: https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00360
-    display: Computational Linguistics (CL) journal
+    display: Computational Linguistics (CL) journal - Dec 2019 issue
   highlight: 1
 
 - title: "Learning Pipelines with Limited Data and Domain Knowledge: A Study in Parsing Physics Problems"
@@ -78,6 +78,24 @@
     url: https://arxiv.org/pdf/1808.08493.pdf
     display: EMNLP 2018
   highlight: 1
+
+- title: "Effective Use of Bidirectional Language Modeling for Medical Named Entity Recognition"
+  image: nmt.png
+  description: We propose a meta-learning approach for universal NMT.
+  authors: Devendra Singh Sachan, Pengtao Xie, Mrinmaya Sachan and Eric P. Xing
+  link:
+    url: https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/5b7373762b6a285941e1bb95/1534292855720/24.pdf
+    display: MLHC 2018
+  highlight: 0
+
+- title: "From Textbooks to Knowledge: A Case Study in Harvesting Axiomatic Knowledge from Textbooks to Solve Geometry Problems"
+  image: nmt.png
+  description: We propose a meta-learning approach for universal NMT.
+  authors: Mrinmaya Sachan, Avinava Dubey and Eric P. Xing
+  link:
+    url: https://www.aclweb.org/anthology/D17-1081/
+    display: EMNLP 2017
+  highlight: 0
 
 - title: "Learning to Solve Geometry Problems from Natural Language Demonstrations in Textbooks"
   image: demonstrations.png
