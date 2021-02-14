@@ -1,10 +1,9 @@
 - name: Mrinmaya Sachan
   photo: Mrinmaya.jpg
   info: Assistant Professor, ETH Zurich
-  number_educ: 3
+  number_educ: 2
   education1: BS IIT Kanpur
-  education2: MS Carnegie Mellon
-  education3: PhD Carnegie Mellon
+  education2: MS/PhD Carnegie Mellon
 
 - name: Yifan Hou
   photo: Yifan.jpg
