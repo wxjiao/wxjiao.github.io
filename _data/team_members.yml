@@ -1,11 +1,10 @@
 - name: Mrinmaya Sachan
   photo: Mrinmaya.jpg
   info: Assistant Professor, ETH Zurich
-  Hobbies: Tennis, Boardgames
   number_educ: 3
   education1: BS IIT Kanpur
-  education2: MS Carnegie Mellon University
-  education3: PhD Carnegie Mellon University
+  education2: MS Carnegie Mellon
+  education3: PhD Carnegie Mellon
 
 - name: Yifan Hou
   photo: Yifan.jpg
@@ -39,7 +38,7 @@
 
 - name: Devendra Singh Sachan
   photo: Devendra.jpg
-  info: Collaborator, PhD student at Mila / McGill University
+  info: Collaborator, PhD student at Mila / McGill
   Hobbies: Long distance running
   number_educ: 2
   education1: MS Carnegie Mellon University
