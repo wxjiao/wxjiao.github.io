@@ -1,5 +1,5 @@
 - title: "Clustering Contextualized Representations of Text for Unsupervised Syntax Induction"
-  image: TiNHigh.png
+  image: cluster_bert.pdf
   description: We jointly map contextualized text representations to a lower dimensional space and cluster them for syntax induction.
   authors: Vikram Gupta, Haoyue Shi, Kevin Gimpel and Mrinmaya Sachan
   link:
