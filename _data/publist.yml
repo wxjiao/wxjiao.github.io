@@ -10,8 +10,8 @@
 - title: "Text-based RL Agents with Commonsense Knowledge: New Challenges, Environments and Baselines"
   image: TiNHigh.png
   description: We jointly map contextualized text representations to a lower dimensional space and cluster them for syntax induction.
-  authors: Vikram Gupta, Haoyue Shi, Kevin Gimpel and Mrinmaya Sachan
+  authors: Keerthiram Murugesan, Mattia Atzeni, Pavan Kapanipathi, Pushkar Shukla, Sadhana Kumaravel, Gerald Tesauro, Kartik Talamadupula, Mrinmaya Sachan and Murray Campbell
   link:
-    url: https://arxiv.org/abs/2010.12784
-    display: arXiv:2010.12784 (2020)
+    url: https://arxiv.org/abs/2010.03790
+    display: AAAI 2021
   highlight: 1
