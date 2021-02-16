@@ -8,7 +8,7 @@
 - name: Yifan Hou
   photo: Yifan.jpg
   info: PhD student
-  Hobbies: Fitness, PC games, Cycling
+  hobbies: Fitness, PC games, Cycling
   number_educ: 2
   education1: MS CUHK
   education2: BS HUST
@@ -16,7 +16,7 @@
 - name: Shehzaad Dhuliawala
   photo: Shehzaad.jpg
   info: PhD Student
-  Hobbies: Reading, boardgames, hiking
+  hobbies: Reading, boardgames, hiking
   number_educ: 2
   education1: MS UMass Amherst
   education2: BS VNIT Nagpur
@@ -31,14 +31,14 @@
 - name: Zhijing Jin
   photo: Zhijing.png
   info: Collaborator, PhD Student at MPI
-  Hobbies: Hiking, hip hop dancing, meditation
+  hobbies: Hiking, hip hop dancing, meditation
   number_educ: 1
   education1: BS University of Hong Kong
 
 - name: Devendra Singh Sachan
   photo: Devendra.jpg
   info: Collaborator, PhD student at Mila / McGill
-  Hobbies: Long distance running
+  hobbies: Long distance running
   number_educ: 2
   education1: MS Carnegie Mellon University
   education2: BS IIT Guwahati
@@ -46,7 +46,14 @@
 - name: Zhao Meng
   photo: Meng.jpeg
   info: Collaborator, PhD Student in D-ITET
-  Hobbies: Taking trains and planes
+  hobbies: Taking trains and planes
   number_educ: 2
   education1: MS ETH Zurich
   education2: BS Peking University
+
+- name: Jiao Sun
+  photo: Jiao.png
+  info: Collaborator, PhD Student at USC
+  hobbies: Drumming, hiking
+  number_educ: 1
+  education1: MS Tsinghua IIIS
