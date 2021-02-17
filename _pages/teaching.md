@@ -34,8 +34,6 @@ ___
 
 ## Course Schedule
 
-___
-
 |Lecture|Description|Course Materials|Events|
 |:--|:--|:--|:--|
 |||||
