@@ -904,6 +904,8 @@ ___
   <td width=72 style='width:54pt'></td>
  </tr>
  <![endif]>
+</table>
+
 ___
 
 ## Course Project/Assignment
