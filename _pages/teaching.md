@@ -77,6 +77,6 @@ You can ask questions on  [piazza](https://piazza.com/ethz.ch/spring2021/2635000
 
 |:--|:--|
 |Lecturer| [Mrinmaya Sachan](http://www.mrinmaya.io/)|
-|Teaching Assistants| &nbsp; [Jiaoda Li](https://rycolab.io/authors/jiaoda/),&nbsp; [Shehzaad Dhuliawala](https://people.cs.umass.edu/~sdhuliawala/),&nbsp; [Yifan Hou](https://yifan-h.github.io/)|
+|Teaching Assistants| [Jiaoda Li](https://rycolab.io/authors/jiaoda/),&nbsp; [Shehzaad Dhuliawala](https://people.cs.umass.edu/~sdhuliawala/),&nbsp; [Yifan Hou](https://yifan-h.github.io/)|
 
 ___
