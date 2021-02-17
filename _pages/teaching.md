@@ -35,7 +35,7 @@ ___
 ## Course Schedule
 
 |:--|:--|:--|:--|
-|Lecture &nbsp;&nbsp;|Description|Course Materials| &nbsp;&nbsp;&nbsp; Events|
+|<b>Lecture</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<b>Description</b>|<b>Course Materials</b>| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Events</b>|
 |1|Introduction, The Distributional Hypothesis and Word Vectors|Suggested Readings: <br>&nbsp;&nbsp;&nbsp;&nbsp; [1. Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) <br>&nbsp;&nbsp;&nbsp;&nbsp; [2. Efficient Estimation of Word Representations in Vector Space (original word2vec paper)](http://arxiv.org/pdf/1301.3781.pdf) <br>&nbsp;&nbsp;&nbsp;&nbsp; [3. Distributed Representations of Words and Phrases and their Compositionality (negative sampling paper)](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)|Assignment 1 out|
 |2|Word Vectors 2, Word Senses and Sentence Vectors <br><br> (Recursive Neural Networks)|Suggested Readings: <br>&nbsp;&nbsp;&nbsp;&nbsp; [1. GloVe: Global Vectors for Word Representation (original GloVe paper)](http://nlp.stanford.edu/pubs/glove.pdf) <br>&nbsp;&nbsp;&nbsp;&nbsp; [2. Evaluation methods for unsupervised word embeddings](http://www.aclweb.org/anthology/D15-1036) <br> Additional Readings: <br>&nbsp;&nbsp;&nbsp;&nbsp; [1. A Latent Variable Model Approach to PMI-based Word Embeddings](http://aclweb.org/anthology/Q16-1028) <br>&nbsp;&nbsp;&nbsp;&nbsp; [2. Linear Algebraic Structure of Word Senses, with Applications to Polysemy](https://transacl.org/ojs/index.php/tacl/article/viewFile/1346/320) <br>&nbsp;&nbsp;&nbsp;&nbsp; [3. On the Dimensionality of Word Embedding.](https://papers.nips.cc/paper/7368-on-the-dimensionality-of-word-embedding.pdf) <br>&nbsp;&nbsp;&nbsp;&nbsp; [4. Word senses and Word embeddings chapter in Jurafsky and Martin](https://web.stanford.edu/)||
 |Voluntary| Python, Pytorch and Tensorflow review session by TAs|Suggested Readings: <br>&nbsp;&nbsp;&nbsp;&nbsp; [1. Review of differential calculus](http://web.stanford.edu/class/cs224n/readings/review-differential-calculus.pdf) <br> Additional Readings: <br>&nbsp;&nbsp;&nbsp;&nbsp; [1. Natural Language Processing (Almost) from Scratch](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)||
@@ -76,7 +76,7 @@ ___
 You can ask questions on  [piazza](https://piazza.com/ethz.ch/spring2021/263500000). Please post questions there, so others can see them and share in the discussion. If you have questions which are not of general interest, please don’t hesitate to contact us directly.
 
 |:--|:--|
-|Lecturer| &nbsp;&nbsp;&nbsp;&nbsp; [Mrinmaya Sachan](http://www.mrinmaya.io/)|
+|Lecturer| [Mrinmaya Sachan](http://www.mrinmaya.io/)|
 |Teaching Assistants| &nbsp; [Jiaoda Li](https://rycolab.io/authors/jiaoda/),&nbsp; [Shehzaad Dhuliawala](https://people.cs.umass.edu/~sdhuliawala/),&nbsp; [Yifan Hou](https://yifan-h.github.io/)|
 
 ___
