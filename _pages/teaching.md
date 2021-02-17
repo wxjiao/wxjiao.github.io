@@ -35,6 +35,7 @@ ___
 
 ## Course Schedule
 ___
+
 <table border=0 cellpadding=0 cellspacing=0 width=1232 style='border-collapse:
  collapse;table-layout:fixed;width:924pt'>
  <col width=90 style='mso-width-source:userset;mso-width-alt:2880;width:68pt'>
@@ -646,8 +647,6 @@ ___
   <td width=72 style='width:54pt'></td>
  </tr>
 </table>
-
-</body>
 
 ___
 
