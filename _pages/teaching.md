@@ -1,4 +1,3 @@
-
 ---
 title: "Mrinmaya's Lab - Teaching"
 layout: textlay
@@ -34,7 +33,6 @@ The final assessment will be a combination of classroom participation, graded ex
 ___
 
 ## Course Schedule
-___
 
 <table border=0 cellpadding=0 cellspacing=0 width=1232 style='border-collapse:
  collapse;table-layout:fixed;width:924pt'>
