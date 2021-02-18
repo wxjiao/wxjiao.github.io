@@ -28,7 +28,7 @@ The final assessment will be a combination of classroom participation, graded ex
 **Textbooks:** TBD
 
 ## News
-**08.02**    Class website is online!
+**18.02**    Class website is online!
 
 ___
 
@@ -65,8 +65,8 @@ TBD
 TBD
 
 ## Materials
-TBD
--   [Project Guidelines]
+
+-   [Project Guidelines](https://docs.google.com/document/d/1b5FNlXqXsMsld83lmoE8EFsHEEuHRmQEP_EPOyAkwAU/edit)
 -   [Course Assignment: Part 1]
 
 ___
