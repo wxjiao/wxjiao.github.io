@@ -56,16 +56,13 @@ ___
 
 ___
 
-## Course Project/Assignment
-
-TBD
-
-### Submission Instructions
+## Assignment Submission Instructions
 
 TBD
 
 ## Materials
 
+-   [Lecture Slides (Moodle)](https://moodle-app2.let.ethz.ch/)
 -   [Project Guidelines](https://docs.google.com/document/d/1b5FNlXqXsMsld83lmoE8EFsHEEuHRmQEP_EPOyAkwAU/edit)
 -   [Course Assignment: Part 1]
 
