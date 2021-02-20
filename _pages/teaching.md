@@ -55,8 +55,8 @@ ___
 |&nbsp;<i>Ascension</i>|&nbsp;13.05&nbsp;||||
 |&nbsp;11|&nbsp;20.05&nbsp;|Modelling and tracking entities: NER, coreference and information extraction (entity and relation extraction)|Suggested Readings: <br>&nbsp;&nbsp;&nbsp;&nbsp; [1. Coreference Resolution chapter of Jurafsky and Martin](https://web.stanford.edu/) <br>&nbsp;&nbsp;&nbsp;&nbsp; [2. End-to-end Neural Coreference Resolution](https://arxiv.org/pdf/1707.07045.pdf) <br>&nbsp;&nbsp;&nbsp;&nbsp; [3. Information Extraction chapter of Jurafsky and Martin](https://web.stanford.edu/)|Assignment 2 due|
 |&nbsp;12|&nbsp;27.05&nbsp;|Language + {Knowledge, Vision, Action, Speech}|Suggested Readings:|Project Proposal due <br><br>Assignment 3 out|
-||&nbsp;01.07&nbsp;|||Assignment 3 due|
 |&nbsp;13|&nbsp;03.06&nbsp;|Optional lecture: Analysis and Interpretability of Neural NLP|Suggested Readings:||
+||&nbsp;01.07&nbsp;|||Assignment 3 due|
 ||&nbsp;08.08&nbsp;|Final project presentation (or poster session)|||
 ||&nbsp;08.08&nbsp;|Final project report submission|||
 
