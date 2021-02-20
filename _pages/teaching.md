@@ -26,7 +26,7 @@ The final assessment will be a combination of classroom participation, graded ex
 **Discussion Sections:**  Thu 15-16 Zoom (TBD)
 
 **Textbooks:**
-[Eisenstein book](https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=30OMHV1C018JY&dchild=1&keywords=introduction+to+natural+language+processing&qid=1598878964&sprefix=introduction+to+na%2Caps%2C148&sr=8-1)
+[Eisenstein book](https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=30OMHV1C018JY&dchild=1&keywords=introduction+to+natural+language+processing&qid=1598878964&sprefix=introduction+to+na%2Caps%2C148&sr=8-1) and
 [Jurafsky and Martin](https://web.stanford.edu/~jurafsky/slp3/)
 
 ## News
