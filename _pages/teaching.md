@@ -23,7 +23,7 @@ The final assessment will be a combination of classroom participation, graded ex
 
 **Lectures:** Thu 10-12h Zoom link: https://ethz.zoom.us/j/94564146531
 
-**Discussion Sections:**  Thu 15-16 Zoom (link on moodle and first email)
+**Discussion Sections:**  Thu 15-16 Same zoom link
 
 **Textbooks:**
 We will not follow any particular textbook. We will draw material from a number of research papers.
