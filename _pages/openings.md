@@ -12,7 +12,7 @@ permalink: /vacancies
 We are always looking for new group members with passion, talent, and grit! However, we are quite selective and only have around 1-2 PhD positions every year.
 
 If you are interested in working with us as a PhD, please note the following:
-1. If you have (or expect to obtain soon) a M. Sc. degree or equivalent, please submit an application through the [department’s admission system](https://www.inf.ethz.ch/phd-application) and send me an email containing your CV.
+1. If you have (or expect to obtain soon) a M. Sc. degree or equivalent, please submit an application through the [department’s admission system](https://www.inf.ethz.ch/phd-application) and then also send me an email containing your CV.
 2. If you have (or expect to obtain soon) a M. Sc. degree and are interested in interdisciplinary research, please consider applying to the [ETH AI center PhD fellowship](https://ai.ethz.ch/education/phd-and-postdoc-programs.html).
 3. If you do not have a M.Sc., you may apply to the [Direct Doctorate in Computer Science](https://inf.ethz.ch/doctorate/direct-doctorate-computer-science.html) and express specific interest in our research group in your application.
 
