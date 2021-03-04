@@ -21,9 +21,9 @@ ___
 ### **Grading**
 The final assessment will be a combination of classroom participation, graded exercises and the project. There will be 3 exercise sets which will be a mix of theoretical and implementation problems. Exercises will be released roughly every 4 weeks, and will total to 30% of your grade. Classroom participation (including a research paper presentation) will account for 20% of the grade. The project will account of the rest of the grade (50%). There will be no written exams.
 
-**Lectures:** Thu 10-12h Zoom link: [https://ethz.zoom.us/j/94564146531](https://ethz.zoom.us/j/94564146531)
+**Lectures:** Thu 10:15-12:00 Zoom link: [https://ethz.zoom.us/j/94564146531](https://ethz.zoom.us/j/94564146531)
 
-**Discussion Sections:**  Thu 15-16 Same zoom link
+**Discussion Sections:**  Thu 15:15-16:00 Same zoom link
 
 **piazza:** [https://piazza.com/class/kko44md55os2qt](https://piazza.com/class/kko44md55os2qt)
 
