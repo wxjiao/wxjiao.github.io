@@ -19,7 +19,7 @@ If you are interested in working with us as a PhD, please note the following:
 I am by myself not looking for a Postdoc. However, I may be able to host a Postdoc jointly with [Ryan Cotterell](https://rycolab.io/) especially throught the [ETH AI center Postdoc fellowship program](https://ai.ethz.ch/education/phd-and-postdoc-programs.html)
 
 ### Bachelor/Master projects for ETH Zurich students
-If you are a Bachelor or a Master student at ETH Zurich looking for a thesis project, contact me (or any group member) by email. We maintain a list of available thesis projects [here](https://docs.google.com/document/d/1V6VXXAUmfEURldrbPtCiIFAOW4UKoXT49fTvTSOsRTk/edit#). However, you can also propose your own topic here.
+If you are a Bachelor or a Master student at ETH Zurich looking for a thesis project, contact me (or any group member) by email. We maintain a list of available thesis projects [here](https://docs.google.com/document/d/1V6VXXAUmfEURldrbPtCiIFAOW4UKoXT49fTvTSOsRTk/edit#). However, you can also propose your own topic.
 
 ### Internship/Bachelor/Master projects for students at other universities
 I usually do not have the bandwidth to take on bachelor or master students from other universities. However, if you think you are an **exceptionally** good fit, feel free to reach out.
