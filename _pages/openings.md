@@ -24,4 +24,4 @@ If you are a Bachelor or a Master student at ETH Zurich looking for a thesis pro
 ### Internship/Bachelor/Master projects for students at other universities
 I usually do not have the bandwidth to take on bachelor or master students from other universities. However, if you think you are an **exceptionally** good fit, feel free to reach out.
 
-If you are interested in an internship, please apply to our [Student Summer Research Fellowship program](https://www.inf.ethz.ch/studies/summer-research-fellowship.html). If you think you are an **exceptionally** good fit and have significant research experience already, you can reach out. However, please note that we get too many internship requests. We may not be able to respond to your emails.
+If you are interested in an internship, please apply to our [Student Summer Research Fellowship program](https://www.inf.ethz.ch/studies/summer-research-fellowship.html). If you think you are an **exceptionally** good fit and have significant research experience already, you can reach out. However, please note that we get too many internship requests. **We may not be able to respond to your emails**.
