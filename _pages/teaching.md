@@ -60,7 +60,7 @@ ___
 |&nbsp;12|&nbsp;20.05&nbsp;|<b>Modelling and tracking entities:</b> NER, coreference and information extraction (entity and relation extraction)|Suggested Readings: <br>&nbsp;&nbsp;&nbsp;&nbsp; 1. [Coreference Resolution chapter of Jurafsky and Martin](https://web.stanford.edu/) <br>&nbsp;&nbsp;&nbsp;&nbsp; 2. [End-to-end Neural Coreference Resolution](https://arxiv.org/pdf/1707.07045.pdf) <br>&nbsp;&nbsp;&nbsp;&nbsp; 3. [Information Extraction chapter of Jurafsky and Martin](https://web.stanford.edu/)||
 |&nbsp;13|&nbsp;27.05&nbsp;|<b>Language + {Knowledge, Vision, Action}</b>|Suggested Readings: <br>&nbsp;&nbsp;&nbsp;&nbsp; 1. [Language Models as Knowledge Bases?](https://www.aclweb.org/anthology/D19-1250.pdf) <br>&nbsp;&nbsp;&nbsp;&nbsp; 2. [Knowledge Enhanced Contextual Word Representations](https://arxiv.org/abs/1909.04164)||
 ||03.06|||Assignment 3 due|
-||03.06|||Project Progress Report due|
+||17.06|||Project Progress Report due|
 ||&nbsp;<b>08.08</b>&nbsp;|<b>Final project presentation (or poster session)</b>|||
 ||&nbsp;<b>08.08</b>&nbsp;|<b>Final project report submission</b>|||
 
