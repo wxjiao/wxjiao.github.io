@@ -1,3 +1,39 @@
+- title: "Bird's Eye: Probing for Linguistic Graph Structures with a Simple Information-Theoretic Approach"
+  image: cluster_bert.png
+  description: We jointly map contextualized text representations to a lower dimensional space and cluster them for syntax induction.
+  authors: Yifan Hou and Mrinmaya Sachan
+  link:
+    url: https://arxiv.org/abs/2105.02629
+    display: ACL (2021)
+  highlight: 0
+  
+- title: "Scaling Within Document Coreference to Long Texts"
+  image: cluster_bert.png
+  description: We jointly map contextualized text representations to a lower dimensional space and cluster them for syntax induction.
+  authors: Raghuveer Thirukovalluru, Nicholas Monath, Kumar Shridhar, Manzil Zaheer, Mrinmaya Sachan and Andrew McCallum
+  link:
+    url: https://arxiv.org/abs/2010.12784
+    display: Findings of ACL (2021)
+  highlight: 0
+
+- title: "How Good Is NLP? A Sober Look at NLP Tasks through the Lens of Social Impact"
+  image: cluster_bert.png
+  description: We jointly map contextualized text representations to a lower dimensional space and cluster them for syntax induction.
+  authors: Zhijing Jin, Geeticka Chauhan, Brian Tse, Mrinmaya Sachan and Rada Mihalcea
+  link:
+    url: https://arxiv.org/abs/2010.12784
+    display: Findings of ACL (2021)
+  highlight: 0
+
+- title: "Efficient Text-based Reinforcement Learning by Jointly Leveraging State and Commonsense Graph Representations"
+  image: cluster_bert.png
+  description: We jointly map contextualized text representations to a lower dimensional space and cluster them for syntax induction.
+  authors: Keerthiram Murugesan, Mattia Atzeni, Pavan Kapanipathi,Kartik Talamadupula, Mrinmaya Sachan and Murray Campbell
+  link:
+    url: https://arxiv.org/abs/2010.12784
+    display: ACL Short (2021)
+  highlight: 0
+  
 - title: "Clustering Contextualized Representations of Text for Unsupervised Syntax Induction"
   image: cluster_bert.png
   description: We jointly map contextualized text representations to a lower dimensional space and cluster them for syntax induction.
