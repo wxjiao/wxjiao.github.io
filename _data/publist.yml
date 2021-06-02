@@ -1,6 +1,6 @@
 - title: "Bird's Eye: Probing for Linguistic Graph Structures with a Simple Information-Theoretic Approach"
   image: birdeye.png
-  description: We jointly map contextualized text representations to a lower dimensional space and cluster them for syntax induction.
+  description: We introduce a information-theoretic probe to detect if contextualized text representations encode information in linguistic graphs.
   authors: Yifan Hou and Mrinmaya Sachan
   link:
     url: https://arxiv.org/abs/2105.02629
@@ -9,7 +9,7 @@
   
 - title: "Scaling Within Document Coreference to Long Texts"
   image: coref_long.png
-  description: We jointly map contextualized text representations to a lower dimensional space and cluster them for syntax induction.
+  description: We introduce a coreference model which scales to documents of any length.
   authors: Raghuveer Thirukovalluru, Nicholas Monath, Kumar Shridhar, Manzil Zaheer, Mrinmaya Sachan and Andrew McCallum
   link:
     url: https://arxiv.org/abs/2010.12784
@@ -18,7 +18,7 @@
 
 - title: "How Good Is NLP? A Sober Look at NLP Tasks through the Lens of Social Impact"
   image: nlp4sg.png
-  description: We jointly map contextualized text representations to a lower dimensional space and cluster them for syntax induction.
+  description: We propose thinking frameworks to understand the direct and indirect real-world impact of NLP.
   authors: Zhijing Jin, Geeticka Chauhan, Brian Tse, Mrinmaya Sachan and Rada Mihalcea
   link:
     url: https://arxiv.org/abs/2010.12784
