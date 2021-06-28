@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group in the [Institute for Machine Learning](https://ml.inf.ethz.ch/) within the [Department of Computer Science](https://inf.ethz.ch/) at the [ETH Zurich](https://ethz.ch/). We are also part of the newly-founded [ETH AI center](https://ai.ethz.ch/).
+We are a research group in the [Institute for Machine Learning](https://ml.inf.ethz.ch/) within the [Department of Computer Science](https://inf.ethz.ch/) at the [ETH Zurich](https://ethz.ch/). We are also part of the newly-founded [ETH AI center](https://ai.ethz.ch/) and the [Max Planck ETH Center for Learning Systems](https://learning-systems.org/).
 
 We build machine learning models for natural language processing, knowledge discovery and reasoning. We also work on problems in the intersection of natural language processing and education.
 
@@ -23,7 +23,7 @@ We are located in the E floor of the [CAB building](https://ethz.ch/services/en/
 
 **We are also offering various master thesis projects.**
 
-We are grateful for funding from [SNF](http://www.snf.ch/en/Pages/default.aspx), [Haslerstiftung](https://haslerstiftung.ch/) and the [ETH AI center](https://ai.ethz.ch/).
+We are grateful for funding from [SNF](http://www.snf.ch/en/Pages/default.aspx), [Haslerstiftung](https://haslerstiftung.ch/), the [ETH AI center](https://ai.ethz.ch/) and the [Max Planck ETH Center for Learning Systems](https://learning-systems.org/).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ETH.png" style="width: 210px">
