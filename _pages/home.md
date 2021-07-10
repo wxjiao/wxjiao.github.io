@@ -13,7 +13,7 @@ We build machine learning models for natural language processing, knowledge disc
 Our current focus areas include:
 1. Representation learning and reasoning with natural language 
 2. Representation learning and reasoning with knowledge graphs
-3. Information extraction and coreference resolution
+3. Coreference resolution and Discourse
 4. NLP for long texts
 5. NLP for educational applications
 
