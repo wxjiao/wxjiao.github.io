@@ -1,3 +1,12 @@
+- title: "Differentiable Subset Pruning of Transformer Heads"
+  image: diffprune.png
+  description: We introduce a new differentiable subset pruning technique for Transformer head pruning.
+  authors: Jiaoda Li, Ryan Cotterell and Mrinmaya Sachan
+  link:
+    url: https://arxiv.org/abs/2105.02629
+    display: TACL (to appear)
+  highlight: 1
+
 - title: "Bird's Eye: Probing for Linguistic Graph Structures with a Simple Information-Theoretic Approach"
   image: birdeye.png
   description: We introduce a information-theoretic probe to detect if contextualized text representations encode information in linguistic graphs.
