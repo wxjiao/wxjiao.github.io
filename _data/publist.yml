@@ -10,9 +10,9 @@
 
 - title: "Self-Supervised Contrastive Learning with Adversarial Perturbations for Robust Pretrained Language Models"
   image: robustbert.png
-  description: We improve robustness of pretrained BERT against word substitution-based adversarial attacks by leveraging self-supervised contrastive learning with
+  description: We improve robustness of BERT against word substitution-based adversarial attacks by leveraging self-supervised contrastive learning with
 adversarial perturbations.
-  authors: Zhao Meng, Yihan Dong, Mrinmaya Sachan Roger Wattenhofer
+  authors: Zhao Meng, Yihan Dong, Mrinmaya Sachan and Roger Wattenhofer
   link:
     url: https://arxiv.org/pdf/2107.07610.pdf
     display: arXiv
