@@ -6,6 +6,17 @@
     url: https://arxiv.org/abs/2105.02629
     display: TACL (to appear)
   highlight: 1
+  
+
+- title: "Self-Supervised Contrastive Learning with Adversarial Perturbations for Robust Pretrained Language Models"
+  image: robustbert.png
+  description: We improve robustness of pretrained BERT against word substitution-based adversarial attacks by leveraging self-supervised contrastive learning with
+adversarial perturbations.
+  authors: Zhao Meng, Yihan Dong, Mrinmaya Sachan Roger Wattenhofer
+  link:
+    url: https://arxiv.org/pdf/2107.07610.pdf
+    display: zrXiv
+  highlight: 1
 
 - title: "Bird's Eye: Probing for Linguistic Graph Structures with a Simple Information-Theoretic Approach"
   image: birdeye.png
