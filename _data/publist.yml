@@ -3,7 +3,7 @@
   description: We introduce a new differentiable subset pruning technique for Transformer head pruning.
   authors: Jiaoda Li, Ryan Cotterell and Mrinmaya Sachan
   link:
-    url: https://arxiv.org/abs/2105.02629
+    url: 
     display: TACL (to appear)
   highlight: 1
   
@@ -31,7 +31,7 @@
   description: We introduce a coreference model which scales to documents of any length.
   authors: Raghuveer Thirukovalluru, Nicholas Monath, Kumar Shridhar, Manzil Zaheer, Mrinmaya Sachan and Andrew McCallum
   link:
-    url: https://arxiv.org/abs/2010.12784
+    url: https://aclanthology.org/2021.findings-acl.343.pdf
     display: Findings of ACL (2021)
   highlight: 1
 
@@ -49,7 +49,7 @@
   description: We jointly map contextualized text representations to a lower dimensional space and cluster them for syntax induction.
   authors: Keerthiram Murugesan, Mattia Atzeni, Pavan Kapanipathi,Kartik Talamadupula, Mrinmaya Sachan and Murray Campbell
   link:
-    url: https://arxiv.org/abs/2010.12784
+    url: https://aclanthology.org/2021.acl-short.91.pdf
     display: ACL Short (2021)
   highlight: 1
   
