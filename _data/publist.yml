@@ -3,7 +3,7 @@
   description: We introduce a new differentiable subset pruning technique for Transformer head pruning.
   authors: Jiaoda Li, Ryan Cotterell and Mrinmaya Sachan
   link:
-    url: 
+    url: https://arxiv.org/pdf/2108.04657.pdf
     display: TACL (to appear)
   highlight: 1
   
