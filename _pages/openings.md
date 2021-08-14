@@ -26,7 +26,7 @@ If you are a Master student at ETH Zurich looking for a thesis project, contact 
 If you are a Bachelor at ETH Zurich looking for a thesis project, you must have succesfully completed one of the two NLP classes in the department (252-3005-00L-Natural Language Processing or 263-5000-00L-Computational Semantics for Natural Language Processing). Feel free to contact me (or any group member) by email.
 
 ### Internship/Bachelor/Master projects for students at other universities
-I usually have limited bandwidth to take on bachelor or master students from other universities. However, if you think you are an **exceptionally** good fit, feel free to reach out.
+I usually have limited bandwidth to take on bachelor or master students from other universities. However, if you think you are a very good fit, feel free to reach out.
 
 If you are interested in an internship, please apply to our [Student Summer Research Fellowship program](https://www.inf.ethz.ch/studies/summer-research-fellowship.html) (next deadline: December 2021). If you think you are a good fit and have some research experience already, you can reach out. However, please note that we get too many internship requests. **We may not be able to respond to your emails**.
 
