@@ -26,7 +26,7 @@
     display: ACL (2021)
   highlight: 1
   
-- title: "Scaling Within Document Coreference to Long Texts"
+- title: "Scaling Within Document Coreference for Long Texts"
   image: coref_long.png
   description: We introduce a coreference model which scales to documents of any length.
   authors: Raghuveer Thirukovalluru, Nicholas Monath, Kumar Shridhar, Manzil Zaheer, Mrinmaya Sachan and Andrew McCallum
