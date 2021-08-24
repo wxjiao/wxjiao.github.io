@@ -27,17 +27,46 @@
   education1: MS UMass Amherst
   education2: BS VNIT Nagpur
 
+- name: Kumar Shridhar
+  photo: Shridhar.jpg
+  info: PhD Student
+  hobbies: Tennis, Traveling
+  number_educ: 2
+  education1: MS TU Kaiserslautern
+
+- name: Zhijing Jin
+  photo: Zhijing.png
+  info: PhD Student, Ellis fellow (Primary advisor":" Bernhard Schölkopf)
+  hobbies: Hiking, hip hop dancing, meditation
+  number_educ: 1
+  education1: BS University of Hong Kong
+
+- name: Jakub Macina
+  photo: Zhijing.png
+  info: PhD Student, ETH AI center fellow (co-advised with Manu Kapur)
+  hobbies: Football, Mountain biking, Hiking
+  number_educ: 1
+  education1: MS Slovak University of Technology
+  education2: BS Slovak University of Technology
+
+- name: Yuchen Jiang
+  photo: yunchen.JPG
+  info: Direct Doctorate Student
+  hobbies: Hiking, skiing, partying
+  number_educ: 1
+  education1: BS Zhejiang University
+
 - name: Sankalan Pal Chowdhury
   photo: Sankalan.jpg
-  info: Intern
+  info: Direct Doctorate Student
   hobbies: Singing
   number_educ: 1
   education1: BS IIT Delhi
 
-- name: Zhijing Jin
-  photo: Zhijing.png
-  info: Collaborator, PhD Student at MPI
-  hobbies: Hiking, hip hop dancing, meditation
+- name: Jingwei Ni
+  photo: jingwei.JPG
+  info: Research Assistant
+  hobbies: Photography, Biking, Reading, J-Pop, Movie
   number_educ: 1
   education1: BS University of Hong Kong
 
