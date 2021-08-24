@@ -8,13 +8,6 @@
 #  education3:
 #  education4:
 
-- name: Adamos Solomou
-  photo: Adamos.jpeg
-  info: MSc Student
-  hobbies: Water polo, Cycling 
-  number_educ: 1
-  education1: Imperial College London (MEng)
-
 - name: Jiaoda Li
   photo: Jiaoda.jpg
   info: Master Student
