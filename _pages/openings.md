@@ -21,9 +21,9 @@ If you are interested in working with us as a PhD, please note the following:
 We also have an opening for a Postdoc. In particular, we may be able to host a Postdoc jointly with [Ryan Cotterell's group](https://rycolab.io/), especially through the [ETH AI center Postdoc fellowship program](https://ai.ethz.ch/education/phd-and-postdoc-programs.html)
 
 ### Bachelor/Master projects for ETH Zurich students
-If you are a Master student at ETH Zurich looking for a thesis project, contact me (or any group member) by email. We maintain a list of available thesis projects [here](https://docs.google.com/document/d/1V6VXXAUmfEURldrbPtCiIFAOW4UKoXT49fTvTSOsRTk/edit#). However, you can also propose your own topic.
+If you are a Master student at ETH Zurich looking for a thesis project, contact me (or any group member) by email with your CV and transcripts. We maintain a list of available thesis projects [here](https://docs.google.com/document/d/1V6VXXAUmfEURldrbPtCiIFAOW4UKoXT49fTvTSOsRTk/edit#). However, you can also propose your own topic.
 
-If you are a Bachelor at ETH Zurich looking for a thesis project, you must have succesfully completed one of the two NLP classes in the department (252-3005-00L-Natural Language Processing or 263-5000-00L-Computational Semantics for Natural Language Processing). Feel free to contact me (or any group member) by email. Some available thesis projects are listed [here](https://docs.google.com/document/d/1V6VXXAUmfEURldrbPtCiIFAOW4UKoXT49fTvTSOsRTk/edit#). You can also propose your own topic.
+If you are a Bachelor at ETH Zurich looking for a thesis project, you must have succesfully completed one of the two NLP classes in the department (252-3005-00L-Natural Language Processing or 263-5000-00L-Computational Semantics for Natural Language Processing). Feel free to contact me (or any group member) by email with your CV and transcripts. Some available thesis projects are listed [here](https://docs.google.com/document/d/1V6VXXAUmfEURldrbPtCiIFAOW4UKoXT49fTvTSOsRTk/edit#). You can also propose your own topic.
 
 ### Internship/Bachelor/Master projects for students at other universities
 I usually have limited bandwidth to take on bachelor or master students from other universities. However, if you think you are a very good fit, feel free to reach out.
