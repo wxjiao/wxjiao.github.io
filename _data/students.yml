@@ -8,17 +8,3 @@
 #  education3:
 #  education4:
 
-- name: Jiaoda Li
-  photo: Jiaoda.jpg
-  info: Master Student
-  hobbies: Movie, Table tennis, Museum
-  number_educ: 2
-  education1: MS ETH Zürich
-  education2: BS City University of Hong Kong
-
-- name: Alessandro Stolfo
-  photo: Alessandro.jpg
-  info: Master Student
-  hobbies: Football, playing the drums
-  number_educ: 1
-  education1: BS Politecnico di Milano
