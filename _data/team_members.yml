@@ -51,7 +51,7 @@
 
 - name: Yuchen Jiang
   photo: yunchen.JPG
-  info: Direct Doctorate Student
+  info: Direct Doctorate Student (co-advised with Ryan Cotterell)
   hobbies: Hiking, skiing, partying
   number_educ: 1
   education1: BS Zhejiang University
@@ -63,6 +63,21 @@
   number_educ: 1
   education1: BS IIT Delhi
 
+ - name: Jiaoda Li
+  photo: Jiaoda.jpg
+  info: PhD Student, ETH AI center fellow (co-advised with Ryan Cotterell)
+  hobbies: Movie, Table tennis, Museum
+  number_educ: 2
+  education1: MS ETH Zürich
+  education2: BS City University of Hong Kong
+
+- name: Alessandro Stolfo
+  photo: Alessandro.jpg
+  info: Research Assistant
+  hobbies: Football, playing the drums
+  number_educ: 1
+  education1: BS Politecnico di Milano
+  
 - name: Jingwei Ni
   photo: jingwei.JPG
   info: Research Assistant
