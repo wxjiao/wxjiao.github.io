@@ -75,7 +75,8 @@
   photo: Alessandro.jpg
   info: Research Assistant
   hobbies: Football, playing the drums
-  number_educ: 1
+  number_educ: 2
+  education1: MS ETH Zurich
   education1: BS Politecnico di Milano
 
 - name: Jingwei Ni
@@ -83,8 +84,8 @@
   info: Research Assistant
   hobbies: Photography, Biking, Reading, J-Pop, Movie
   number_educ: 2
-  education 1: MS UCL
-  education 1: BS University of Hong Kong
+  education1: MS UCL
+  education2: BS University of Hong Kong
 
 - name: Zhao Meng
   photo: Meng.jpeg
