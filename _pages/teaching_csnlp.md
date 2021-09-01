@@ -6,7 +6,7 @@ sitemap: false
 permalink: /teaching
 ---
 
-# [Computational Semantics for Natural Language Processing]({{ site.url }}{{ site.baseurl }}/teaching_csnlp)
+# Computational Semantics for Natural Language Processing
 ### <font color=gray>ETH Zürich, Spring Semester 2021</font>: [Course catalog](http://www.vvz.ethz.ch/lerneinheitPre.do?semkez=2021S&lerneinheitId=154041&lang=en)
 
 ___
