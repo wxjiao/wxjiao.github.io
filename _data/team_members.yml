@@ -49,6 +49,14 @@
   education1: MS Slovak University of Technology
   education2: BS Slovak University of Technology
 
+- name: Jiaoda Li
+  photo: Jiaoda.jpg
+  info: PhD Student, ETH AI center fellow (co-advised with Ryan Cotterell)
+  hobbies: Movie, Table tennis, Museum
+  number_educ: 2
+  education1: MS ETH Zürich
+  education2: BS City University of Hong Kong
+
 - name: Yuchen Jiang
   photo: yunchen.JPG
   info: Direct Doctorate Student (co-advised with Ryan Cotterell)
@@ -62,14 +70,6 @@
   hobbies: Singing
   number_educ: 1
   education1: BS IIT Delhi
-
-- name: Jiaoda Li
-  photo: Jiaoda.jpg
-  info: PhD Student, ETH AI center fellow (co-advised with Ryan Cotterell)
-  hobbies: Movie, Table tennis, Museum
-  number_educ: 2
-  education1: MS ETH Zürich
-  education2: BS City University of Hong Kong
 
 - name: Alessandro Stolfo
   photo: Alessandro.jpg
