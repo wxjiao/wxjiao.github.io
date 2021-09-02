@@ -15,8 +15,7 @@ If you are interested in working with us as a PhD, please note the following:
 1. If you have (or expect to obtain soon) a M. Sc. degree and are interested in interdisciplinary research, please consider applying to the [ETH AI center PhD fellowship](https://ai.ethz.ch/education/phd-and-postdoc-programs.html) and mention my name in your application.
 2. If you have (or expect to obtain soon) a M. Sc. degree and are interested in [CLS](https://learning-systems.org/) (our joint PhD program with Max Planck), please apply and mention my name in your application. Please note the early application deadline.
 3. If you do not have a M.Sc., you may apply to the [Direct Doctorate in Computer Science](https://inf.ethz.ch/doctorate/direct-doctorate-computer-science.html) and express specific interest in our research group in your application. You should also tag [Ryan Cotterell](https://rycolab.io/) in your application if you are interested in NLP.
-4. Finally, if you cannot apply to any of the above application deadlines, you can also submit an application through the [department’s admission system](https://www.inf.ethz.ch/phd-application) at any time. In this case, it is okay to send me an email stating your interest with your CV. **This year, we are primarily admitting PhD students through modes 1, 2 and 3.**
-
+4. Finally, if you cannot apply to any of the above application deadlines, you can also submit an application through the [department’s admission system](https://www.inf.ethz.ch/phd-application) at any time. In this case, it is okay to send me an email stating your interest with your CV.
 
 We also have an opening for a Postdoc. In particular, we may be able to host a Postdoc jointly with [Ryan Cotterell's group](https://rycolab.io/), especially through the [ETH AI center Postdoc fellowship program](https://ai.ethz.ch/education/phd-and-postdoc-programs.html)
 
