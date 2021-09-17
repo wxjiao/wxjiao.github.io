@@ -28,7 +28,7 @@ ___
 ### **Grading**
 This is a research driven, hands-on class. Your participation is important.
 
-The final assessment will be a combination of classroom participation, graded exercises and the project. There will be 4 exercise sets which will be a mix of theoretical and implementation problems. Exercises will be released roughly every 4 weeks, and will total to 40% of your grade. Classroom participation (including a research paper presentation and writing class presentation summaries) will account for 20% of the grade. The project will account of the rest of the grade (40%). There will be no written exams.
+The final assessment will be a combination of classroom participation, graded exercises, research paper presentation and the project. There will be 4 exercise sets which will be a mix of theoretical and implementation problems. Exercises will be released roughly every 4 weeks, and will total to 40% of your grade. Classroom participation (writing class presentation summaries and discussion forum participation) will account for 20% of the grade. Research paper presentation will account for 10% of the grade and the project will account of the rest of the grade (30%). There will be no written exams.
 
 **Lectures:** Thu 16:15-18:00 Zoom link (see Moodle)
 
@@ -49,7 +49,7 @@ ___
 |:--|:--|:--|:--|:--|
 |&nbsp;<b>Lecture</b>|<b>Date</b>|<b>Topic</b>|<b>Course Materials</b>| <b>Events</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |&nbsp;&nbsp;1|&nbsp;23.09.21&nbsp;&nbsp;&nbsp;&nbsp;|<b>Introduction</b>|||
-|&nbsp;&nbsp;2|&nbsp;30.09.21&nbsp;|<b>Prediction</b>|&nbsp;&nbsp;&nbsp;&nbsp;[Pardos(2014)](https://www.upenn.edu/learninganalytics/ryanbaker/3536-15645-1-ED-v3.pdf) <br>&nbsp;&nbsp;&nbsp;&nbsp;[Zeng(2019)](https://dl.acm.org/doi/pdf/10.1145/3303772.3303810)||
+|&nbsp;&nbsp;2|&nbsp;30.09.21&nbsp;|<b>Prediction</b>|&nbsp;&nbsp;&nbsp;&nbsp;[Pardos(2014)](https://files.eric.ed.gov/fulltext/EJ1127034.pdf) <br>&nbsp;&nbsp;&nbsp;&nbsp;[Zeng(2019)](https://dl.acm.org/doi/pdf/10.1145/3303772.3303810)||
 |&nbsp;&nbsp;3|&nbsp;07.10.21&nbsp;|<b>Structure Discovery and Visualization </b> <br><br>||
 |&nbsp;4| &nbsp;14.10.21&nbsp; |<b>Relationship mining</b><br>(Correlation Mining, Causal Mining, Association Rule Mining, Network Analysis)|| Assignment 1 out|
 |&nbsp;5| &nbsp;21.10.21&nbsp; |<b>Content curation</b> |||
@@ -67,7 +67,7 @@ ___
 
 ## Weekly research paper presentations
 
-Presentation for 15 minutes followed by a 10-minute question answers/discussion). Please see Moodle for more details.
+Presentation for 15 minutes followed by a 10-minute question answers/discussion. Please see Moodle for more details.
 
 ## Course Project
 
