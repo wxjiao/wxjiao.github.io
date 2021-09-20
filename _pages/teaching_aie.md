@@ -49,7 +49,7 @@ ___
 |:--|:--|:--|:--|:--|
 |&nbsp;<b>Lecture</b>|<b>Date</b>|<b>Topic</b>|<b>Course Materials</b>| <b>Events</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |&nbsp;&nbsp;1|&nbsp;23.09.21&nbsp;&nbsp;&nbsp;&nbsp;|<b>Introduction</b>|||
-|&nbsp;&nbsp;2|&nbsp;30.09.21&nbsp;|<b>Prediction</b>|&nbsp;&nbsp;&nbsp;&nbsp;[Pardos(2014)](https://files.eric.ed.gov/fulltext/EJ1127034.pdf) <br>&nbsp;&nbsp;&nbsp;&nbsp;[Zeng(2019)](https://dl.acm.org/doi/pdf/10.1145/3303772.3303810)||
+|&nbsp;&nbsp;2|&nbsp;30.09.21&nbsp;|<b>Prediction</b>|||
 |&nbsp;&nbsp;3|&nbsp;07.10.21&nbsp;|<b>Structure Discovery and Visualization </b> <br><br>||
 |&nbsp;4| &nbsp;14.10.21&nbsp; |<b>Relationship mining</b><br>(Correlation Mining, Causal Mining, Association Rule Mining, Network Analysis)|| Assignment 1 out|
 |&nbsp;5| &nbsp;21.10.21&nbsp; |<b>Content curation</b> |||
@@ -57,11 +57,11 @@ ___
 |&nbsp;7| &nbsp;04.11.21&nbsp; |<b>Language learning</b><br><br> Guest lecture by JPedro Caldeira (ETH Zurich) ||Assignment 2 out <br>Assignment 1 due|
 |&nbsp;8| &nbsp;11.11.21&nbsp; |<b> Learner modeling</b> ||Project Proposal due|
 |&nbsp;9| &nbsp;18.11.21&nbsp; |<b> Dialog based tutoring</b> |||
-|&nbsp;10| &nbsp;25.11.21&nbsp; |<b> Scaffolding discovery</b><br><br> Guest lecture by Manu Kapur(ETH Zurich) ||Assignment 2 due <br> Assignment 3 out|
-|&nbsp;11| &nbsp;02.12.21&nbsp; |<b> Dynamic A/B testing</b><br><br> Guest lecture by Joseph Jay Williams(Univ. Toronto) |||
+|&nbsp;10| &nbsp;25.11.21&nbsp; |<b> Scaffolding discovery</b><br><br> Guest lecture by Manu Kapur(ETH Zurich) |||
+|&nbsp;11| &nbsp;02.12.21&nbsp; |<b> Dynamic A/B testing</b><br><br> Guest lecture by Joseph Jay Williams(Univ. Toronto) ||Assignment 2 due <br> Assignment 3 out|
 |&nbsp;12| &nbsp;09.12.21&nbsp; |<b> Computing Literacy</b><br><br> Guest lecture by Matti Tedre and Henriikka Vartiainen (Univ. Eastern Finland)|||
 |&nbsp;13| &nbsp;16.12.21&nbsp; |<b> Socially/culturally-aware AIED</b><br><br> Guest lecture by Justine Cassell(INRIA and CMU)|||
-|&nbsp;14| &nbsp;23.12.21&nbsp; |<b> Ethical issues in AIED</b>||Assignment 3 due|
+|&nbsp;14| &nbsp;23.12.21&nbsp; |<b> Ethical issues in AIED</b>||Assignment 3 due <br> Assignment 4 out|
 
 ___
 
