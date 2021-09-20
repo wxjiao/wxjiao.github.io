@@ -1,3 +1,21 @@
+- title: "Causal Direction in Data Matters: Implications of Causal and Anticausal Learning in NLP"
+  image: causal.png
+  description: We investigates the theory of Independent Causal Mechanism (ICM) in NLP tasks.
+  authors: Zhijing Jin, Julius von Kugelgen, Jingwei Ni, Tejas Vaidhya, Ayush Kaushal, Mrinmaya Sachan and Bernhard Schoelkopf
+  link:
+    url: https://arxiv.org/abs/2109.05438
+    display: EMNLP 2021
+  highlight: 1
+
+- title: "Let Your Characters Tell Their Story: A Dataset for Character-Centric Narrative Understanding"
+  image: character.png
+  description: We introduce a dataset for literary pieces and their summaries together with descriptions of characters that appear in the texts.
+  authors: Faeze Brahman, Meng Huang, Oyvind Tafjord, Chao Zhao, Mrinmaya Sachan and Snigdha Chaturvedi
+  link:
+    url: https://arxiv.org/abs/2109.05438
+    display: Findings of EMNLP 2021
+  highlight: 1
+
 - title: "Differentiable Subset Pruning of Transformer Heads"
   image: diffprune.png
   description: We introduce a new differentiable subset pruning technique for Transformer head pruning.
