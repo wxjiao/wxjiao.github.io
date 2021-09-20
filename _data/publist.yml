@@ -70,6 +70,15 @@
     url: https://aclanthology.org/2021.acl-short.91.pdf
     display: ACL Short (2021)
   highlight: 1
+
+- title: "Text-based RL Agents with Commonsense Knowledge: New Challenges, Environments and Baselines"
+  image: text_rl_aaai.png
+  description: We design new environments to test the ability of RL agents to utilize commonsense knowledge.
+  authors: Keerthiram Murugesan, Mattia Atzeni, Pavan Kapanipathi, Pushkar Shukla, Sadhana Kumaravel, Gerald Tesauro, Kartik Talamadupula, Mrinmaya Sachan and Murray Campbell
+  link:
+    url: https://arxiv.org/abs/2010.03790
+    display: AAAI 2021
+  highlight: 1
   
 - title: "Clustering Contextualized Representations of Text for Unsupervised Syntax Induction"
   image: cluster_bert.png
@@ -88,15 +97,6 @@
     url: https://arxiv.org/abs/2010.11374
     display: arXiv:2010.11374 (2020)
   highlight: 0
-
-- title: "Text-based RL Agents with Commonsense Knowledge: New Challenges, Environments and Baselines"
-  image: text_rl_aaai.png
-  description: We design new environments to test the ability of RL agents to utilize commonsense knowledge.
-  authors: Keerthiram Murugesan, Mattia Atzeni, Pavan Kapanipathi, Pushkar Shukla, Sadhana Kumaravel, Gerald Tesauro, Kartik Talamadupula, Mrinmaya Sachan and Murray Campbell
-  link:
-    url: https://arxiv.org/abs/2010.03790
-    display: AAAI 2021
-  highlight: 1
 
 - title: "Knowledge Graph Embedding Compression"
   image: text_rl_aaai.png
