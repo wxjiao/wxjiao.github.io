@@ -88,6 +88,6 @@ You can ask questions on [Moodle](https://moodle-app2.let.ethz.ch/mod/forum/view
 
 |:--|:--|
 |Lecturers| [Mrinmaya Sachan](http://www.mrinmaya.io/),&nbsp; [Tanmay Sinha](mailto:tanmay.sinha@gess.ethz.ch)|
-|Teaching Assistants| [Kumar Shridhar](mailto:shridhar.kumar@inf.ethz.ch),&nbsp; [Jakub Macina](mailto:jakub.macina@inf.ethz.ch),&nbsp; [Josephine Yates](mailto:josephine.yates@inf.ethz.ch)|
+|Teaching Assistants| [Kumar Shridhar](mailto:shridhar.kumar@inf.ethz.ch),&nbsp; [Jakub Macina](mailto:jakub.macina@inf.ethz.ch),&nbsp; [Josephine Yates](mailto:josephine.yates@inf.ethz.ch),&nbsp; [Mian Zhong](mailto:mzhong@student.ethz.ch)|
 
 ___
