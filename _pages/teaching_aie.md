@@ -51,7 +51,7 @@ ___
 |&nbsp;&nbsp;1|&nbsp;23.09.21&nbsp;&nbsp;&nbsp;&nbsp;|<b>Introduction</b>|||
 |&nbsp;&nbsp;2|&nbsp;30.09.21&nbsp;|<b>Prediction</b>|||
 |&nbsp;&nbsp;3|&nbsp;07.10.21&nbsp;|<b>Structure Discovery and Visualization </b> <br><br>||
-|&nbsp;4| &nbsp;14.10.21&nbsp; |<b>Relationship mining</b><br>(Correlation Mining, Causal Mining, Association Rule Mining, Network Analysis)|| Assignment 1 out|
+|&nbsp;4| &nbsp;14.10.21&nbsp; |<b>Relationship mining</b><br>(Correlation and Causal Relationship Mining)|| Assignment 1 out|
 |&nbsp;5| &nbsp;21.10.21&nbsp; |<b>Content curation</b> |||
 |&nbsp;6| &nbsp;28.10.21&nbsp; |<b>Automated assessment and error correction</b><br><br> Guest lecture by Jill Burstein (Duolingo) |||
 |&nbsp;7| &nbsp;04.11.21&nbsp; |<b>Language learning</b><br><br> Guest lecture by Pedro Caldeira (ETH Zurich) ||Assignment 2 out <br>Assignment 1 due|
