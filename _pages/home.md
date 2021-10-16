@@ -51,4 +51,5 @@ We are grateful for funding from [SNF](http://www.snf.ch/en/Pages/default.aspx),
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ETH.png" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_INFK.png" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_AICENTER.png" style="width: 120px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_cls.png" style="width: 120px">  
 </figure>
