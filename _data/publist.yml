@@ -1,6 +1,6 @@
 - title: "Causal Direction in Data Matters: Implications of Causal and Anticausal Learning in NLP"
   image: causal.png
-  description: We investigates the theory of Independent Causal Mechanism (ICM) in NLP tasks.
+  description: We investigate role of the process of data collection in NLP and explain it using causality.
   authors: Zhijing Jin, Julius von Kugelgen, Jingwei Ni, Tejas Vaidhya, Ayush Kaushal, Mrinmaya Sachan and Bernhard Schoelkopf
   link:
     url: https://arxiv.org/abs/2109.05438
