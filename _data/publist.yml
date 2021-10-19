@@ -1,3 +1,21 @@
+- title: "On Learning the Transformer Kernel"
+  image: kernel_transformer.png
+  description: We propose kernel learning methods that increase the expressiveness of Efficient Transformers while keeping their complexity linear.
+  authors: Sankalan Pal Chowdhury, Adamos Solomou, Avinava Dubey and Mrinmaya Sachan
+  link:
+    url: https://arxiv.org/pdf/2110.08323.pdf
+    display: arXiv
+  highlight: 1
+
+- title: "Case-based Reasoning for Better Generalization in Text-Adventure Games"
+  image: case_based.png
+  description: We propose a case-based reasoning approach to train agents and generalize efficiently out of the training distribution.
+  authors: Mattia Atzeni, Shehzaad Dhuliawala, Keerthiram Murugesan and Mrinmaya Sachan
+  link:
+    url: https://arxiv.org/pdf/2110.08470.pdf
+    display: arXiv
+  highlight: 1
+  
 - title: "Causal Direction in Data Matters: Implications of Causal and Anticausal Learning in NLP"
   image: causal.png
   description: We investigate role of the process of data collection in NLP and explain it using causality.
