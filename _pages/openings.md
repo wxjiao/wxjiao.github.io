@@ -18,6 +18,8 @@ If you are interested in working with us as a PhD, please note the following:
 4. If you do not have a M.Sc., you may apply to the [Direct Doctorate in Computer Science](https://inf.ethz.ch/doctorate/direct-doctorate-computer-science.html) and express specific interest in our research group in your application. You should also tag [Ryan Cotterell](https://rycolab.io/) in your application if you are interested in NLP.
 5. Finally, if you cannot apply to any of the above application deadlines, you can also submit an application through the [department’s admission system](https://www.inf.ethz.ch/phd-application) at any time. In this case, it is okay to send me an email stating your interest with your CV.
 
+We can also host PhD students as a part of the [Ellis PhD program](https://ellis.eu/).
+
 We also have an opening for a Postdoc. You could simply email us. You can also apply to the following Postdoc Fellowship programs, which have specific application deadlines:
 1. [ETH Zurich Postdoctoral Fellowship](https://ethz.ch/en/research/research-promotion/eth-fellowships.html) (deadlines March 1 and September 1)
 2. [ETH AI Center Postdoctoral Fellowship](https://ai.ethz.ch/education/phd-and-postdoc-programs.html) (deadline in late fall)
