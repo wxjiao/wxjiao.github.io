@@ -20,7 +20,7 @@ If you are interested in working with us as a PhD, please note the following:
 
 We can also host PhD students as a part of the [Ellis PhD program](https://ellis.eu/).
 
-We also have an opening for a Postdoc. You could simply email us. You can also apply to the following Postdoc Fellowship programs, which have specific application deadlines:
+We also have an opening for a Postdoc. Simply send an email. You can also apply to the following Postdoc Fellowship programs, which have specific application deadlines:
 1. [ETH Zurich Postdoctoral Fellowship](https://ethz.ch/en/research/research-promotion/eth-fellowships.html) (deadlines March 1 and September 1)
 2. [ETH AI Center Postdoctoral Fellowship](https://ai.ethz.ch/education/phd-and-postdoc-programs.html) (deadline in late fall)
 
@@ -30,7 +30,7 @@ If you are a Master student at ETH Zurich looking for a thesis project, contact 
 If you are a Bachelor at ETH Zurich looking for a thesis project, you must have succesfully completed one of the two NLP classes in the department (252-3005-00L-Natural Language Processing or 263-5000-00L-Computational Semantics for Natural Language Processing). Feel free to contact me (or any group member) by email with your CV and transcripts. Some available thesis projects are listed [here](https://docs.google.com/document/d/1V6VXXAUmfEURldrbPtCiIFAOW4UKoXT49fTvTSOsRTk/edit#). You can also propose your own topic.
 
 ### Internship/Bachelor/Master projects for students at other universities
-I usually have limited bandwidth to take on bachelor or master students from other universities. However, if you think you are a very good fit, feel free to reach out.
+We usually have limited bandwidth to take on bachelor or master students from other universities. However, if you think you are a very good fit, feel free to reach out.
 
 If you are interested in an internship, please apply to our [Student Summer Research Fellowship program](https://www.inf.ethz.ch/studies/summer-research-fellowship.html) (next deadline: December 2021). If you think you are a good fit and have some research experience already, you can reach out. However, please note that we get too many internship requests. **We may not be able to respond to your emails**.
 
