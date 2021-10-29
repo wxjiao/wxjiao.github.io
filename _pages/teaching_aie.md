@@ -28,7 +28,7 @@ ___
 ### **Grading**
 This is a research driven, hands-on class. Your participation is important.
 
-The final assessment will be a combination of classroom participation, graded exercises, research paper presentation and the project. There will be 4 exercise sets which will be a mix of theoretical and implementation problems. Exercises will be released roughly every 4 weeks, and will total to 40% of your grade. Classroom participation (writing class presentation summaries and discussion forum participation) will account for 20% of the grade. Research paper presentation will account for 10% of the grade and the project will account of the rest of the grade (30%). There will be no written exams.
+The final assessment will be a combination of classroom participation, graded exercises, research paper presentation and the project. There will be 3 exercise sets which will be a mix of theoretical and implementation problems. Exercises will be released roughly every 4 weeks, and will total to 40% of your grade. Classroom participation (writing class presentation summaries and discussion forum participation) will account for 20% of the grade. Research paper presentation will account for 10% of the grade and the project will account of the rest of the grade (30%). There will be no written exams.
 
 **Lectures:** Thu 16:15-18:00 Zoom link (see Moodle)
 
