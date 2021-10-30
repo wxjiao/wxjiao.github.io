@@ -11,7 +11,7 @@ permalink: /vacancies
 
 We are always looking for new group members with passion, talent, and grit! However, we are quite selective and only have around 1-2 PhD positions every year. We also have an opening for a postdoc.
 
-If you are interested in working with us as a PhD, please note the following:
+If you are interested in working with us as a PhD student, please note the following:
 1. If you have (or expect to obtain soon) a M. Sc. degree and are interested in interdisciplinary research, consider applying to the [ETH AI center PhD fellowship](https://ai.ethz.ch/education/phd-and-postdoc-programs.html) and mention my name in your application.
 2. If you have (or expect to obtain soon) a M. Sc. degree and are interested in the [Center for Learning Systems](https://learning-systems.org/) (our joint PhD program with Max Planck), apply and mention my name in your application. Please note the early application deadline.
 3. If you have (or expect to obtain soon) a M. Sc. degree and are interested in NLP for Education, consider applying to the [ETH Zurich - EPFL Joint Doctoral Program in the Learning Sciences](https://lse.ethz.ch/doctoral-program-in-learning-sciences.html) and mention my name in your application.
