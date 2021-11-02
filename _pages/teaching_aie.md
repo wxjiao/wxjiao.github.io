@@ -73,7 +73,7 @@ Presentation for 15 minutes followed by a 10-minute question answers/discussion.
 
 The goal is to explore an interesting problem in AIED in the context of a real-world data set. If you have a theoretical project, come chat with us. Projects should be done in teams of three students.
 
--   [Project Guidelines (TBD)]()
+-   [Project Guidelines](https://docs.google.com/document/d/1zKx_P8KdGYjp06Jm92QIsn0IRewpHDBzPETuB9GZaD0)
 
 ## Materials
 -   [Lecture Slides & Student Presentation Slides (Moodle)](https://moodle-app2.let.ethz.ch/)
