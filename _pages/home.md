@@ -33,10 +33,11 @@ We are a research group in the [Institute for Machine Learning](https://ml.inf.e
 We build machine learning models for natural language processing, knowledge discovery and reasoning. We also work on problems in the intersection of natural language processing and education.
 
 Our current focus areas include:
-1. Deep learning for natural language processing
-2. Coreference resolution and Discourse
-3. NLP for long texts
-4. NLP for educational applications
+1. Deep learning for Natural Language Processing
+2. Reasoning for Natural Language Processing
+3. Coreference resolution and Discourse
+4. NLP for long texts
+5. NLP for Educational applications
 
 We are located in the E floor of the [CAB building](https://ethz.ch/services/en/service/rooms-and-buildings/building-orientation/gebaeude.html?args0=CAB) in the [beautiful](https://www.zuerich.com/en) city of Zurich in Switzerland. We regularly exchange ideas and work with our neighbors in [Rycolab](https://rycolab.io/) and the [Zurich-NLP group](https://zurich-nlp.ch/), as well as with our colleagues in the [Institute for Machine Learning](https://ml.inf.ethz.ch/).
 
