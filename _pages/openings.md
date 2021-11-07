@@ -25,6 +25,7 @@ If you are interested in working with us as a PhD student, please note the follo
 
 We can also host PhD students as a part of the [Ellis PhD program](https://ellis.eu/).
 
+# Bachelor, Master projects and Internships
 ### Bachelor/Master projects for ETH Zurich students
 If you are a Master student at ETH Zurich looking for a thesis project, contact me (or any group member) by email with your CV and transcripts. We maintain a list of available thesis projects [here](https://docs.google.com/document/d/1V6VXXAUmfEURldrbPtCiIFAOW4UKoXT49fTvTSOsRTk/edit#). However, you can also propose your own topic.
 
