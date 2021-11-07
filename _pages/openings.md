@@ -5,9 +5,6 @@ excerpt: "Openings"
 sitemap: false
 permalink: /vacancies
 ---
-
-# Open positions
-
 We are always looking for Postdocs and PhD students with passion, talent, and grit!
 
 # Postdocs
