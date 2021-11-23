@@ -58,7 +58,7 @@ ___
 |&nbsp;8| &nbsp;11.11.21&nbsp; |<b> Learner modeling</b> ||Project Proposal due <br> Assignment 2 out|
 |&nbsp;9| &nbsp;18.11.21&nbsp; |<b> Dialog based tutoring</b> |||
 |&nbsp;10| &nbsp;25.11.21&nbsp; |<b> Scaffolding discovery</b><br><br> Guest lecture by Manu Kapur (ETH Zurich) |||
-|&nbsp;11| &nbsp;02.12.21&nbsp; |<b> Dynamic A/B testing</b><br><br> Guest lecture by Joseph Jay Williams (Univ. Toronto) ||Assignment 2 due <br> Assignment 3 out|
+|&nbsp;11| &nbsp;02.12.21&nbsp; |<b> Dynamic A/B testing</b>||Assignment 2 due <br> Assignment 3 out|
 |&nbsp;12| &nbsp;09.12.21&nbsp; |<b> Computing Literacy</b><br><br> Guest lecture by Matti Tedre and Henriikka Vartiainen (Univ. Eastern Finland)|||
 |&nbsp;13| &nbsp;16.12.21&nbsp; |<b> Socially/culturally-aware AIED</b><br><br> Guest lecture by Justine Cassell (INRIA and CMU)|||
 |&nbsp;14| &nbsp;23.12.21&nbsp; |<b> Ethical issues in AIED</b>||Assignment 3 due|
