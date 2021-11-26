@@ -65,7 +65,7 @@ ___
 
 Assignment 3 is due on 30.12.21. Final project submission (report, presentation recording, code) is due on 23.01.22.
 
-
+___
 
 ## Weekly research paper presentations
 
