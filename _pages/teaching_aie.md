@@ -60,9 +60,9 @@ ___
 |&nbsp;10| &nbsp;25.11.21&nbsp; |<b> Scaffolding discovery</b><br><br> Guest lecture by Manu Kapur (ETH Zurich) |||
 |&nbsp;11| &nbsp;02.12.21&nbsp; |<b> Dynamic A/B testing</b>||Assignment 2 due|
 |&nbsp;12| &nbsp;09.12.21&nbsp; |<b> Computing Literacy</b><br><br> Guest lecture by Matti Tedre and Henriikka Vartiainen (Univ. Eastern Finland)||Assignment 3 out|
-|&nbsp;13| &nbsp;16.12.21&nbsp; |<b> Socially/culturally-aware AIED</b><br><br> Guest lecture by Justine Cassell (INRIA and CMU)|||
+|&nbsp;13| &nbsp;16.12.21&nbsp; |<b> Socially/culturally-aware AIED</b><br><br> Guest lecture by Justine Cassell (INRIA and CMU)</b>|||
 |&nbsp;14| &nbsp;23.12.21&nbsp; |<b> Ethical issues in AIED</b>|||
-|&nbsp;14| &nbsp;30.12.21&nbsp; |||Assignment 3 due|
+|| &nbsp;30.12.21&nbsp; |||Assignment 3 due|
 ___
 
 ## Weekly research paper presentations
