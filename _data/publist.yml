@@ -1,12 +1,12 @@
-- title: "Deep Clustering of Text Representations for Supervision-free Probing of Syntax"
-  image: cluster_bert.png
-  description: We jointly map contextualized text representations to a lower dimensional space and cluster them for syntax induction.
-  authors: Vikram Gupta, Haoyue Shi, Kevin Gimpel and Mrinmaya Sachan
+- title: "Case-based Reasoning for Better Generalization in Text-Adventure Games"
+  image: case_based.png
+  description: We propose a case-based reasoning approach to train agents and generalize efficiently out of the training distribution.
+  authors: Mattia Atzeni, Shehzaad Dhuliawala, Keerthiram Murugesan and Mrinmaya Sachan
   link:
-    url: https://arxiv.org/abs/2010.12784
-    display: AAAI (2022)
+    url: https://arxiv.org/pdf/2110.08470.pdf
+    display: arXiv
   highlight: 1
-  
+
 - title: "On Learning the Transformer Kernel"
   image: kernel_transformer.png
   description: We propose kernel learning methods that increase the expressiveness of Efficient Transformers while keeping their complexity linear.
@@ -16,13 +16,13 @@
     display: arXiv
   highlight: 1
 
-- title: "Case-based Reasoning for Better Generalization in Text-Adventure Games"
-  image: case_based.png
-  description: We propose a case-based reasoning approach to train agents and generalize efficiently out of the training distribution.
-  authors: Mattia Atzeni, Shehzaad Dhuliawala, Keerthiram Murugesan and Mrinmaya Sachan
+- title: "Deep Clustering of Text Representations for Supervision-free Probing of Syntax"
+  image: cluster_bert.png
+  description: We jointly map contextualized text representations to a lower dimensional space and cluster them for syntax induction.
+  authors: Vikram Gupta, Haoyue Shi, Kevin Gimpel and Mrinmaya Sachan
   link:
-    url: https://arxiv.org/pdf/2110.08470.pdf
-    display: arXiv
+    url: https://arxiv.org/abs/2010.12784
+    display: AAAI (2022)
   highlight: 1
   
 - title: "Causal Direction in Data Matters: Implications of Causal and Anticausal Learning in NLP"
