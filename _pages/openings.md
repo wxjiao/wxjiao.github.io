@@ -8,7 +8,7 @@ permalink: /vacancies
 We are always looking for Postdocs and PhD students with passion, talent, and grit!
 
 # Postdocs
-We have an opening for a Postdoc. Simply send an email.
+We have an opening for a Postdoc. Please directly send an email to Mrinmaya Sachan.
 
 You can also apply to the following Postdoc Fellowship programs, which have specific application deadlines:
 1. [ETH Zurich Postdoctoral Fellowship](https://ethz.ch/en/research/research-promotion/eth-fellowships.html) (deadlines March 1 and September 1)
