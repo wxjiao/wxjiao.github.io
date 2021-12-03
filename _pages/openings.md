@@ -16,7 +16,7 @@ You can also apply to the following Postdoc Fellowship programs, which have spec
 3. [SNSF Swiss Postdoctoral Fellowships](https://www.snf.ch/en/m1NtWp4nTELQixlu/funding/horizon-europe-swiss-postdoctoral-fellowships) (deadline usually December)
 
 # PhD students
-If you are interested in working with us as a PhD student, please note the following:
+If you are interested in working with us as a PhD student, please read the following carefully:
 1. If you have (or expect to obtain soon) a M.Sc. degree and are interested in interdisciplinary research, consider applying to the [ETH AI center PhD fellowship](https://ai.ethz.ch/education/phd-and-postdoc-programs.html) and mention my name in your application.
 2. If you have (or expect to obtain soon) a M.Sc. degree and are interested in the [Center for Learning Systems](https://learning-systems.org/) (our joint PhD program with Max Planck), apply and mention my name in your application. Please note the early application deadline.
 3. If you have (or expect to obtain soon) a M.Sc. degree and are interested in NLP for Education, consider applying to the [ETH Zurich - EPFL Joint Doctoral Program in the Learning Sciences](https://lse.ethz.ch/doctoral-program-in-learning-sciences.html) and mention my name in your application. The program accepts applications twice a year.
