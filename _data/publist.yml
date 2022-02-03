@@ -4,7 +4,7 @@
   authors: Yifan Hou, Guoji Fu and Mrinmaya Sachan
   link:
     url: https://arxiv.org/abs/2202.00964
-    display: https://arxiv.org/abs/2202.00964
+    display: arxiv:2202.00964
   highlight: 1
 
 - title: "Self-Supervised Contrastive Learning with Adversarial Perturbations for Robust Pretrained Language Models"
@@ -13,7 +13,7 @@
   authors: Zhao Meng, Yihan Dong, Mrinmaya Sachan and Roger Wattenhofer
   link:
     url: https://arxiv.org/pdf/2107.07610.pdf
-    display: arXiv:2107.07610 (2021)
+    display: arXiv:2107.07610
   highlight: 1
 
 - title: "Learning the Transformer Kernel"
@@ -22,7 +22,7 @@
   authors: Sankalan Pal Chowdhury, Adamos Solomou, Avinava Dubey and Mrinmaya Sachan
   link:
     url: https://arxiv.org/pdf/2110.08323.pdf
-    display: arXiv
+    display: arXiv:2110.08323
   highlight: 1
 
 - title: "Case-based Reasoning for Better Generalization in Text-Adventure Games"
