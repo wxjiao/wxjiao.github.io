@@ -3,7 +3,7 @@ title: "Mrinmaya's Lab - Teaching"
 layout: teaching
 excerpt: "Teaching"
 sitemap: false
-permalink: /teaching_csnlp
+permalink: /teaching_csnlp21
 ---
 
 # Computational Semantics for Natural Language Processing
