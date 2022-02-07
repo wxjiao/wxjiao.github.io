@@ -19,7 +19,7 @@ The objective of the course is to learn about various topics in computational se
 ___
 
 ### **Grading**
-The final assessment will be a combination of classroom participation, graded exercises and the project. There will be 2 exercise sets which will be a mix of theoretical and implementation problems. There will be no written exams.
+The final assessment will be a combination of classroom participation (20%), two graded exercises (30%) and the project (50%). There will be no written exams.
 
 **Lectures:** Fri 14:00-16:00 Zoom link: TBD
 
@@ -41,7 +41,7 @@ ___
 ## Course Schedule
 
 |:--|:--|:--|:--|:--|
-|&nbsp;<b>Lecture</b>|<b>Date</b>|<b>Description</b>|<b>Course Materials</b>| <b>Events</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|&nbsp;<b>Lecture</b>|<b>Date</b>|<b>Description</b>|<b>Optional Readings</b>| <b>Events</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |&nbsp;&nbsp;1|&nbsp;25.02&nbsp;&nbsp;&nbsp;&nbsp;|<b>Introduction</b>|[Diagnostic Quiz](https://polybox.ethz.ch/index.php/s/YCTThVpOd5Cu2AO) [Answers to quiz](https://polybox.ethz.ch/index.php/s/7VPcHOmIxQD5AcX)|Presentation Preference Indication|
 |&nbsp;&nbsp;2|&nbsp;04.03&nbsp;|<b>The Distributional Hypothesis and Word Vectors</b>|Suggested Readings: <br>&nbsp;&nbsp;&nbsp;&nbsp; 1. [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) <br>&nbsp;&nbsp;&nbsp;&nbsp; 2. [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/pdf/1301.3781.pdf) (original word2vec paper) <br>&nbsp;&nbsp;&nbsp;&nbsp; 3. [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) (negative sampling paper)||
 |&nbsp;&nbsp;3|&nbsp;11.03&nbsp;|<b>Word Vectors 2, Word Senses and Sentence Vectors</b> <br><br> (Recursive Neural Networks)|Suggested Readings: <br>&nbsp;&nbsp;&nbsp;&nbsp; 1. [GloVe: Global Vectors for Word Representation](http://nlp.stanford.edu/pubs/glove.pdf) (original GloVe paper) <br>&nbsp;&nbsp;&nbsp;&nbsp; 2. [Neural Word Embedding as Implicit Matrix Factorization](https://papers.nips.cc/paper/2014/file/feab05aa91085b7a8012516bc3533958-Paper.pdf) <br>&nbsp;&nbsp;&nbsp;&nbsp; 3. [Evaluation Methods for Unsupervised Word Embeddings](http://www.aclweb.org/anthology/D15-1036) <br>&nbsp;&nbsp;&nbsp;&nbsp;  4. [Word Senses and Word Embeddings Chapter in Jurafsky and Martin](https://web.stanford.edu/~jurafsky/slp3/18.pdf) <br> Optional Readings: <br>&nbsp;&nbsp;&nbsp;&nbsp; 1. [A Latent Variable Model Approach to PMI-based Word Embeddings](http://aclweb.org/anthology/Q16-1028) <br>&nbsp;&nbsp;&nbsp;&nbsp; 2. [Linear Algebraic Structure of Word Senses, with Applications to Polysemy](https://transacl.org/ojs/index.php/tacl/article/viewFile/1346/320) <br>&nbsp;&nbsp;&nbsp;&nbsp; 3. [On the Dimensionality of Word Embedding.](https://papers.nips.cc/paper/7368-on-the-dimensionality-of-word-embedding.pdf) ||
