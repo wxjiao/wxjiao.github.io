@@ -19,13 +19,13 @@ The objective of the course is to learn about various topics in computational se
 ___
 
 ### **Grading**
-The final assessment will be a combination of classroom participation, graded exercises and the project. There will be 3 exercise sets which will be a mix of theoretical and implementation problems. Exercises will be released roughly every 4 weeks, and will total to 30% of your grade. Classroom participation (including a research paper presentation) will account for 20% of the grade. The project will account of the rest of the grade (50%). There will be no written exams.
+The final assessment will be a combination of classroom participation, graded exercises and the project. There will be 2 exercise sets which will be a mix of theoretical and implementation problems. There will be no written exams.
 
-**Lectures:** Thu 10:15-12:00 Zoom link: [https://ethz.zoom.us/j/94564146531](https://ethz.zoom.us/j/94564146531)
+**Lectures:** Fri 14:00-16:00 Zoom link: TBD
 
-**Discussion Sections:**  Thu 15:15-16:00 Same zoom link
+**Discussion Sections:**  Fri 16:00-17:00 Same zoom link
 
-**piazza:** [https://piazza.com/class/kko44md55os2qt](https://piazza.com/class/kko44md55os2qt)
+**piazza:** TBD
 
 **Textbooks:**
 We will not follow any particular textbook. We will draw material from a number of research papers.
@@ -85,6 +85,6 @@ You can ask questions on  [piazza](https://piazza.com/ethz.ch/spring2021/2635000
 
 |:--|:--|
 |Lecturer| [Mrinmaya Sachan](http://www.mrinmaya.io/)|
-|Teaching Assistants| [Jiaoda Li](https://rycolab.io/authors/jiaoda/),&nbsp; [Shehzaad Dhuliawala](https://people.cs.umass.edu/~sdhuliawala/),&nbsp; [Yifan Hou](https://yifan-h.github.io/)|
+|Teaching Assistants| [Alessandro Stolfo](https://ml.inf.ethz.ch/people/person-detail.MjUyNzIz.TGlzdC8xODA3LC0xNzg2MjE4NDI4.html),&nbsp; [Shehzaad Dhuliawala](https://people.cs.umass.edu/~sdhuliawala/),&nbsp; [Yifan Hou](https://yifan-h.github.io/),&nbsp; [Tianyu Liu](https://rycolab.io/authors/tianyu/)|
 
 ___
