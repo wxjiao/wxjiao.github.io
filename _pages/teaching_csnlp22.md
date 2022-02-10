@@ -19,7 +19,7 @@ The objective of the course is to learn about various topics in computational se
 ___
 
 ### **Grading**
-The final assessment will be a combination of classroom participation (10%), two graded exercises (40%) and the project (50%). There will be no written exams.
+The final assessment will be a combination of a group paper presentation (10%), two graded exercises (40%) and the project (50%). There will be no written exams.
 
 **Lectures:** Fri 14:00-16:00 (the class will likely be in person)
 
