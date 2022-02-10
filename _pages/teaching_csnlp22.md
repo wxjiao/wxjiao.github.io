@@ -21,9 +21,9 @@ ___
 ### **Grading**
 The final assessment will be a combination of classroom participation (10%), two graded exercises (40%) and the project (50%). There will be no written exams.
 
-**Lectures:** Fri 14:00-16:00 Zoom link: TBD
+**Lectures:** Fri 14:00-16:00 (the class will likely be in person)
 
-**Discussion Sections:**  Fri 16:00-17:00 Same zoom link
+**Discussion Sections:**  Fri 16:00-17:00
 
 **piazza:** TBD
 
