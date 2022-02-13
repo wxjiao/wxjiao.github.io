@@ -7,7 +7,7 @@ permalink: /teaching_csnlp22
 ---
 
 # Computational Semantics for Natural Language Processing
-### <font color=gray>ETH Zürich, Spring Semester 2021</font>: [Course catalog](http://www.vvz.ethz.ch/lerneinheitPre.do?semkez=2021S&lerneinheitId=154041&lang=en)
+### <font color=gray>ETH Zürich, Spring Semester 2021</font>: [Course catalog](http://www.vvz.ethz.ch/lerneinheitPre.do?semkez=2022S&lerneinheitId=158716&lang=en)
 
 ___
 
