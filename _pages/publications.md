@@ -11,9 +11,9 @@ permalink: /publications/
 
 ## Group highlights
 
-More resources can be found [here]({{site.url}}{{site.baseurl}}/publication_resources).
+#### More resources can be found [here]({{site.url}}{{site.baseurl}}/publication_resources).
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?hl=en&user=Tpp9ZjoAAAAJ&view_op=list_works&sortby=pubdate))
+#### (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?hl=en&user=Tpp9ZjoAAAAJ&view_op=list_works&sortby=pubdate))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
