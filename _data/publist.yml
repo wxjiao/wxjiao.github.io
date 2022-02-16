@@ -7,7 +7,7 @@
     display: arxiv:2202.00964
   codelink:
     url: https://github.com/yifan-h/GCS_KI
-    display: code
+    display: Code
   highlight: 1
 
 - title: "Self-Supervised Contrastive Learning with Adversarial Perturbations for Robust Pretrained Language Models"

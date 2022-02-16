@@ -1,17 +1,15 @@
 ---
-title: "Mrinmaya's Lab - Publications"
+title: "Mrinmaya's Lab - Resources"
 layout: gridlay
-excerpt: "Mrinmaya's Lab -- Publications."
+excerpt: "Mrinmaya's Lab -- Resources."
 sitemap: false
-permalink: /publications/
+permalink: /publication_resources/
 ---
 
 
-# Publications  [Resources]({{site.url}}{{site.baseurl}}/publication_resources)
+# Resources
 
 ## Group highlights
-
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?hl=en&user=Tpp9ZjoAAAAJ&view_op=list_works&sortby=pubdate))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -26,11 +24,10 @@ permalink: /publications/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <span><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong> &nbsp; </span>
   <span><strong><a href="{{ publi.codelink.url }}">{{ publi.codelink.display }}</a></strong> &nbsp; </span>
+  <span><strong><a href="{{ publi.datalink.url }}">{{ publi.datalink.display }}</a></strong> &nbsp; </span>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
@@ -49,15 +46,3 @@ permalink: /publications/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
-<p> &nbsp; </p>
-
-
-## Full List
-
-{% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
