@@ -7,9 +7,11 @@ permalink: /publications/
 ---
 
 
-# Publications  [Resources]({{site.url}}{{site.baseurl}}/publication_resources)
+# Publications
 
 ## Group highlights
+
+More resources can be found [here]({{site.url}}{{site.baseurl}}/publication_resources).
 
 (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?hl=en&user=Tpp9ZjoAAAAJ&view_op=list_works&sortby=pubdate))
 
