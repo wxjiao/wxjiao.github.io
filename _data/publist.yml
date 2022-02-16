@@ -69,8 +69,11 @@
   description: We introduce a new differentiable subset pruning technique for Transformer head pruning.
   authors: Jiaoda Li, Ryan Cotterell and Mrinmaya Sachan
   link:
-    url: https://arxiv.org/pdf/2108.04657.pdf
+    url: https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00436/108868/Differentiable-Subset-Pruning-of-Transformer-Heads
     display: TACL 2021
+  codelink:
+    url: https://github.com/rycolab/differentiable-subset-pruning
+    display: Code
   highlight: 1
 
 - title: "Bird's Eye: Probing for Linguistic Graph Structures with a Simple Information-Theoretic Approach"
@@ -80,6 +83,9 @@
   link:
     url: https://arxiv.org/abs/2105.02629
     display: ACL (2021)
+  codelink:
+    url: https://github.com/yifan-h/Graph_Probe-Birds_Eye
+    display: Code
   highlight: 1
   
 - title: "Scaling Within Document Coreference for Long Texts"
