@@ -5,7 +5,7 @@
   link:
     url: https://arxiv.org/abs/2202.00964
     display: arxiv:2202.00964
-  link_code:
+  codelink:
     url: https://github.com/yifan-h/GCS_KI
     display: code
   highlight: 1
