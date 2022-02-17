@@ -42,7 +42,7 @@ ___
 
 |:--|:--|:--|:--|:--|
 |&nbsp;<b>Lecture</b>|<b>Date</b>|<b>Description</b>|<b>Optional Readings</b>| <b>Events</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-|&nbsp;&nbsp;1|&nbsp;25.02&nbsp;&nbsp;&nbsp;&nbsp;|<b>Introduction</b>|[Diagnostic Quiz](https://polybox.ethz.ch/index.php/s/YCTThVpOd5Cu2AO) [Answers to quiz](https://polybox.ethz.ch/index.php/s/7VPcHOmIxQD5AcX)|No presentation Preference Indication|
+|&nbsp;&nbsp;1|&nbsp;25.02&nbsp;&nbsp;&nbsp;&nbsp;|<b>Introduction</b>|[Diagnostic Quiz](https://polybox.ethz.ch/index.php/s/YCTThVpOd5Cu2AO) [Answers to quiz](https://polybox.ethz.ch/index.php/s/7VPcHOmIxQD5AcX)|Presentation preference indication|
 |&nbsp;&nbsp;2|&nbsp;04.03&nbsp;|<b>The Distributional Hypothesis and Word Vectors</b>|Suggested Readings: <br> 1. [Glove](https://nlp.stanford.edu/pubs/glove.pdf)||
 |&nbsp;&nbsp;3|&nbsp;11.03&nbsp;|<b>Word Vectors 2, Word Senses and Sentence Vectors</b> <br><br> (Recursive Neural Networks)|Suggested Readings: <br>&nbsp;&nbsp;&nbsp;&nbsp; 1. [Unsupervised Word Sense Disambiguation Rivaling Supervised Methods](https://www.aclweb.org/anthology/P95-1026.pdf) <br>&nbsp;&nbsp;&nbsp;&nbsp; 2. [Improving Vector Space Word Representations Using Multilingual Correlation](https://www.aclweb.org/anthology/E14-1049.pdf) ||
 |&nbsp;Voluntary |&nbsp;11.03&nbsp;| Python, PyTorch review session by TAs|Suggested Readings: <br>&nbsp;&nbsp;&nbsp;&nbsp; 1. [Review of Differential Calculus](http://web.stanford.edu/class/cs224n/readings/review-differential-calculus.pdf) <br> Additional Readings: <br>&nbsp;&nbsp;&nbsp;&nbsp; 1. [Natural Language Processing (Almost) from Scratch](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)||
