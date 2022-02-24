@@ -1,3 +1,21 @@
+- title: "Slangvolution: A Causal Analysis of Semantic Change and Frequency Dynamics in Slang"
+  image: slang.png
+  description: We study language change through the lens of causality in order to model how various distributional factors causally effect language change
+  authors: Daphna Keidar, Andreas Opedal, Zhijing Jin and Mrinmaya Sachan
+  link:
+    url: https://arxiv.org/abs/2202.00964
+    display: arxiv:2202.00964
+  highlight: 1
+
+- title: "Calibration of Machine Reading Systems at Scale"
+  image: calibration.png
+  description: We propose approaches to calibrate open-domain machine reading systems
+  authors: Shehzaad Dhuliawala, Leonard Adolphs, Rajarshi Das and Mrinmaya Sachan
+  link:
+    url: https://arxiv.org/abs/2202.00964
+    display: arxiv:2202.00964
+  highlight: 1
+
 - title: "Understanding Knowledge Integration in Language Models with Graph Convolutions"
   image: gcs.png
   description: We propose a probe model based on graph convolutions to interpret knowledge-enhanced LMs and understand what kind of knowledge is integrated into these models.
