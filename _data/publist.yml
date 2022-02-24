@@ -4,7 +4,7 @@
   authors: Daphna Keidar, Andreas Opedal, Zhijing Jin and Mrinmaya Sachan
   link:
     url: https://arxiv.org/abs/2202.00964
-    display: arxiv:2202.00964
+    display: ACL 2022
   highlight: 1
 
 - title: "Calibration of Machine Reading Systems at Scale"
@@ -13,7 +13,7 @@
   authors: Shehzaad Dhuliawala, Leonard Adolphs, Rajarshi Das and Mrinmaya Sachan
   link:
     url: https://arxiv.org/abs/2202.00964
-    display: arxiv:2202.00964
+    display: ACL 2022 (Findings)
   highlight: 1
 
 - title: "Understanding Knowledge Integration in Language Models with Graph Convolutions"
