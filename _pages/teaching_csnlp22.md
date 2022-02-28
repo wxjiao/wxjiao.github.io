@@ -25,8 +25,6 @@ The final assessment will be a combination of a group paper presentation (10%), 
 
 **Discussion Sections:**  Fri 16:00-17:00
 
-**piazza:** TBD
-
 **Textbooks:**
 We will not follow any particular textbook. We will draw material from a number of research papers and classes taught around the world.
 However, the following textbooks would be useful:
@@ -78,7 +76,7 @@ ___
 
 ## Contact
 
-You can ask questions on  [piazza](https://piazza.com/ethz.ch/spring2021/263500000). Please post questions there, so others can see them and share in the discussion. If you have questions which are not of general interest, please don’t hesitate to contact us directly.
+You can ask questions on [moodle](https://moodle-app2.let.ethz.ch/). Please post questions there, so others can see them and share in the discussion. If you have questions which are not of general interest, please don’t hesitate to contact us directly.
 
 |:--|:--|
 |Lecturer| [Mrinmaya Sachan](http://www.mrinmaya.io/)|
