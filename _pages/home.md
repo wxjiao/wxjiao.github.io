@@ -40,8 +40,6 @@ Our current focus areas include:
 
 We are located in the E floor of the [CAB building](https://ethz.ch/services/en/service/rooms-and-buildings/building-orientation/gebaeude.html?args0=CAB) in the [beautiful](https://www.zuerich.com/en) city of Zurich in Switzerland. We regularly exchange ideas and work with our neighbors in [Rycolab](https://rycolab.io/) and the [Zurich-NLP group](https://zurich-nlp.ch/), as well as with our colleagues in the [Institute for Machine Learning](https://ml.inf.ethz.ch/).
 
-**We are not actively looking for PhD students at this time.** [(Please read this before sending an email)]({{ site.url }}{{ site.baseurl }}/vacancies).**!**
-
-**We are currently offering several master/bachelor thesis projects.**
+We are not actively looking for PhD students at this time. However, we are currently offering several master/bachelor thesis projects.
 
 We are grateful for funding from [SNF](http://www.snf.ch/en/Pages/default.aspx), [ETH Research Grants](https://ethz.ch/en/research/research-promotion/eth-grants.html), [Haslerstiftung](https://haslerstiftung.ch/), the [ETH AI center](https://ai.ethz.ch/) and the [Max Planck ETH Center for Learning Systems](https://learning-systems.org/).
