@@ -28,6 +28,15 @@
     display: Code
   highlight: 1
 
+- title: "Logical Fallacy Detection"
+  image: fallacy.png
+  description: We introduce a new reasoning task and dataset of Logical fallacy detection.
+  authors: Zhijing Jin, Abhinav Lalwani, Tejas Vaidhya, Xiaoyu Shen, Yiwen Ding, Zhiheng Lyu, Mrinmaya Sachan, Rada Mihalcea and Bernhard Schölkopf
+  link:
+    url: https://arxiv.org/abs/2202.13758
+    display: arXiv:2202.13758
+  highlight: 1
+
 - title: "Self-Supervised Contrastive Learning with Adversarial Perturbations for Robust Pretrained Language Models"
   image: robustbert.png
   description: We improve BERT's robustness against word substitution attacks by leveraging self-supervised contrastive learning.
