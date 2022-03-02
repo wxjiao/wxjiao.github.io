@@ -16,6 +16,15 @@
     display: ACL 2022 (Findings)
   highlight: 1
 
+- title: "Logical Fallacy Detection"
+  image: fallacy.png
+  description: We introduce a new reasoning task and dataset of Logical fallacy detection.
+  authors: Zhijing Jin, Abhinav Lalwani, Tejas Vaidhya, Xiaoyu Shen, Yiwen Ding, Zhiheng Lyu, Mrinmaya Sachan, Rada Mihalcea and Bernhard Schölkopf
+  link:
+    url: https://arxiv.org/abs/2202.13758
+    display: arXiv:2202.13758
+  highlight: 1
+
 - title: "Understanding Knowledge Integration in Language Models with Graph Convolutions"
   image: gcs.png
   description: We propose a probe model based on graph convolutions to interpret knowledge-enhanced LMs and understand what kind of knowledge is integrated into these models.
@@ -26,15 +35,6 @@
   codelink:
     url: https://github.com/yifan-h/GCS_KI
     display: Code
-  highlight: 1
-
-- title: "Logical Fallacy Detection"
-  image: fallacy.png
-  description: We introduce a new reasoning task and dataset of Logical fallacy detection.
-  authors: Zhijing Jin, Abhinav Lalwani, Tejas Vaidhya, Xiaoyu Shen, Yiwen Ding, Zhiheng Lyu, Mrinmaya Sachan, Rada Mihalcea and Bernhard Schölkopf
-  link:
-    url: https://arxiv.org/abs/2202.13758
-    display: arXiv:2202.13758
   highlight: 1
 
 - title: "Self-Supervised Contrastive Learning with Adversarial Perturbations for Robust Pretrained Language Models"
