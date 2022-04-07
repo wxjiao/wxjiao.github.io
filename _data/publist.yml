@@ -27,6 +27,15 @@
     url: https://arxiv.org/pdf/2110.08323.pdf
     display: arXiv:2110.08323
   highlight: 1
+  
+- title: "Original or Translated? A Causal Analysis of the Impact of Translationese on Machine Translation Performance"
+  image: robustbert.png
+  description: We provide a causal analysis of the impact of translationese on Machine Translation performance.
+  authors: Jingwei Ni, Zhijing Jin, Markus Freitag, Mrinmaya Sachan and Bernhard Schölkopf
+  link:
+    url: https://arxiv.org/pdf/2107.07610.pdf
+    display: NAACL 2022
+  highlight: 1
 
 - title: "Self-Supervised Contrastive Learning with Adversarial Perturbations for Robust Pretrained Language Models"
   image: robustbert.png
@@ -34,7 +43,7 @@
   authors: Zhao Meng, Yihan Dong, Mrinmaya Sachan and Roger Wattenhofer
   link:
     url: https://arxiv.org/pdf/2107.07610.pdf
-    display: arXiv:2107.07610
+    display: NAACL 2022 (Findings)
   highlight: 1
 
 - title: "Slangvolution: A Causal Analysis of Semantic Change and Frequency Dynamics in Slang"
