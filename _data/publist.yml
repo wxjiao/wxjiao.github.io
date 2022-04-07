@@ -29,7 +29,7 @@
   highlight: 1
 
 - title: "Probing via Prompting and Pruning"
-  image: robustbert.png
+  image: ppp.png
   description: We propose a probing approach that adapts the given task into a sentence completion format and performs probing using the built-in language modeling head.
   authors: Jiaoda Li, Mrinmaya Sachan and Ryan Cotterell
   link:
@@ -38,7 +38,7 @@
   highlight: 1
 
 - title: "BlonDe: An Automatic Evaluation Metric for Document-level Machine Translation"
-  image: robustbert.png
+  image: blonde.png
   description: We propose a novel automatic metric to widen the scope of automatic MT evaluation from sentence to document level.
   authors: Yuchen Eleanor Jiang, Tianyu Liu, Shuming Ma, Dongdong Zhang, Rico Sennrich, Ryan Cotterell and Mrinmaya Sachan
   link:
@@ -47,7 +47,7 @@
   highlight: 1
 
 - title: "A Structured Span Selector for Span Prediction Tasks"
-  image: robustbert.png
+  image: span.png
   description: We propose a structured model which directly learns to select an optimal set of spans for various span selection problems.
   authors: Tianyu Liu, Yuchen Eleanor Jiang, Ryan D Cotterell and Mrinmaya Sachan
   link:
@@ -56,7 +56,7 @@
   highlight: 1
 
 - title: "Original or Translated? A Causal Analysis of the Impact of Translationese on Machine Translation Performance"
-  image: robustbert.png
+  image: causalmt.png
   description: We provide a causal analysis of the impact of translationese on Machine Translation performance.
   authors: Jingwei Ni, Zhijing Jin, Markus Freitag, Mrinmaya Sachan and Bernhard Schölkopf
   link:
