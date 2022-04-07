@@ -28,6 +28,15 @@
     display: arXiv:2110.08323
   highlight: 1
 
+- title: "BlonDe: An Automatic Evaluation Metric for Document-level Machine Translation"
+  image: robustbert.png
+  description: We propose a novel automatic metric to widen the scope of automatic MT evaluation from sentence to document level.
+  authors: Yuchen Eleanor Jiang, Tianyu Liu, Shuming Ma, Dongdong Zhang, Rico Sennrich, Ryan Cotterell and Mrinmaya Sachan
+  link:
+    url: https://arxiv.org/pdf/2107.07610.pdf
+    display: NAACL 2022
+  highlight: 1
+
 - title: "A Structured Span Selector for Span Prediction Tasks"
   image: robustbert.png
   description: We propose a structured model which directly learns to select an optimal set of spans for various span selection problems.
