@@ -27,7 +27,16 @@
     url: https://arxiv.org/pdf/2110.08323.pdf
     display: arXiv:2110.08323
   highlight: 1
-  
+
+- title: "A Structured Span Selector for Span Prediction Tasks"
+  image: robustbert.png
+  description: We propose a structured model which directly learns to select an optimal set of spans for various span selection problems.
+  authors: Tianyu Liu, Yuchen Eleanor Jiang, Ryan D Cotterell and Mrinmaya Sachan
+  link:
+    url: https://arxiv.org/pdf/2107.07610.pdf
+    display: NAACL 2022
+  highlight: 1
+
 - title: "Original or Translated? A Causal Analysis of the Impact of Translationese on Machine Translation Performance"
   image: robustbert.png
   description: We provide a causal analysis of the impact of translationese on Machine Translation performance.
