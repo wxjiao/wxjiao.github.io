@@ -51,7 +51,7 @@ ___
 |&nbsp;7|&nbsp;08.04&nbsp;| <b>Predicate Argument Structures II</b> <br><br> (Semantic Role Labelling, Frame Semantics, etc.)|Voluntary<br>1.[Jointly Predicting Predicates and Arguments in Neural Semantic Role Labeling](https://aclanthology.org/P18-2058.pdf) <br> 2.[Frame-Semantic Parsing](https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00163)||
 ||&nbsp;08.04&nbsp;|Discussion on Final Projects|1. [Practical Methodology](https://www.deeplearningbook.org/contents/guidelines.html) (<i>Deep Learning</i> book chapter)||
 |&nbsp;<i>Easter</i>|&nbsp;15.04&nbsp;||||
-|&nbsp;<i>Easter</i>|&nbsp;22.04&nbsp;||||
+|&nbsp;<i>Easter</i>|&nbsp;22.04&nbsp;|||Project proposal due|
 |&nbsp;8|&nbsp;29.04&nbsp;|<b>Formal Representations of Language Meaning</b>|1.[Compositional semantic parsing on semi-structured tables](https://arxiv.org/abs/1508.00305) <br> 2.[Supertagging With LSTMs](https://aclanthology.org/N16-1027/)|Assignment 1 due <br><br> Assignment 2 release|
 |&nbsp;9|&nbsp;06.05&nbsp;|<b>Transformers and Contextual Word Representations</b> (BERT, etc.) <br><br> Guest lecture by Manzil Zaheer (Google)|1. [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062) (Only cover the idea of sparse attention: don’t need to cover turing completeness and the theoretical results)) <br> 2. [BERT rediscovers the classical NLP pipeline](https://arxiv.org/abs/1905.05950)||
 |&nbsp;10|&nbsp;13.05&nbsp;|<b>Question Answering</b>|Voluntary<br>1. [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051) <br> 2. [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/abs/1906.00300)||
