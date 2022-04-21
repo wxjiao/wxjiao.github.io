@@ -40,7 +40,7 @@
 - title: "BlonDe: An Automatic Evaluation Metric for Document-level Machine Translation"
   image: blonde.png
   description: We propose a novel automatic metric to widen the scope of automatic MT evaluation from sentence to document level.
-  authors: Yuchen Eleanor Jiang, Tianyu Liu, Shuming Ma, Dongdong Zhang, Rico Sennrich, Ryan Cotterell and Mrinmaya Sachan
+  authors: Yuchen Eleanor Jiang, Tianyu Liu, Shuming Ma, Dongdong Zhang, Jian Yang, Haoyang Huang, Rico Sennrich, Mrinmaya Sachan, Ryan Cotterell and Ming Zhou
   link:
     url: https://arxiv.org/pdf/2107.07610.pdf
     display: NAACL 2022
