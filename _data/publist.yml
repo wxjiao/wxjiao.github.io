@@ -28,10 +28,10 @@
     display: arXiv:2110.08323
   highlight: 1
 
-- title: "Probing via Prompting and Pruning"
+- title: "Probing via Prompting"
   image: ppp.png
   description: We propose a probing approach that adapts the given task into a sentence completion format and performs probing using the built-in language modeling head.
-  authors: Jiaoda Li, Mrinmaya Sachan and Ryan Cotterell
+  authors: Jiaoda Li, Ryan Cotterell and Mrinmaya Sachan
   link:
     url: https://arxiv.org/pdf/2107.07610.pdf
     display: NAACL 2022
