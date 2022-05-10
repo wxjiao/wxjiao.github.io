@@ -51,7 +51,7 @@
   description: We propose a structured model which directly learns to select an optimal set of spans for various span selection problems.
   authors: Tianyu Liu, Yuchen Eleanor Jiang, Ryan D Cotterell and Mrinmaya Sachan
   link:
-    url: https://arxiv.org/pdf/2107.07610.pdf
+    url: https://arxiv.org/abs/2205.03977
     display: NAACL 2022
   highlight: 1
 
