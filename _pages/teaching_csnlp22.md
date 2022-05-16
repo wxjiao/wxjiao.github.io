@@ -57,7 +57,8 @@ ___
 |&nbsp;10|&nbsp;13.05&nbsp;|<b>Question Answering</b>|Voluntary<br>1. [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051) <br> 2. [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/abs/1906.00300)||
 |&nbsp;11|&nbsp;20.05&nbsp;|<b>Natural Language Generation</b> <br><br> Case Study: Summarization and Conversation Modelling |1. [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) <br> 2. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) |Mid-term report due|
 |&nbsp;12|&nbsp;27.05&nbsp;|<b>Modelling and tracking entities:</b> NER, coreference and information extraction (entity and relation extraction)|1. [End-to-end Neural Coreference Resolution](https://arxiv.org/abs/1707.07045) <br> 2. [Improving Coreference Resolution by Learning Entity-Level Distributed Representations](https://aclanthology.org/P16-1061/)||
-|&nbsp;13|&nbsp;03.06&nbsp;|<b>Language + {Knowledge, Vision, Action}</b>|1. [Knowledge Graph Embedding: A Survey of Approaches and Applications](https://persagen.com/files/misc/Wang2017Knowledge.pdf) <br> 2. [Knowledge Enhanced Contextual Word Representations](https://arxiv.org/abs/1909.04164)|Assignment 2 due|
+|&nbsp;13|&nbsp;03.06&nbsp;|<b>Language + {Knowledge, Vision, Action}</b>|1. [Knowledge Graph Embedding: A Survey of Approaches and Applications](https://persagen.com/files/misc/Wang2017Knowledge.pdf) <br> 2. [Knowledge Enhanced Contextual Word Representations](https://arxiv.org/abs/1909.04164)||
+||&nbsp;10.06&nbsp;|||Assignment 2 due|
 ||&nbsp;01.07&nbsp;|||Project report due|
 
 
