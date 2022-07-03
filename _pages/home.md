@@ -30,7 +30,7 @@ permalink: /
 
 We are a research group in the [Institute for Machine Learning](https://ml.inf.ethz.ch/) within the [Department of Computer Science](https://inf.ethz.ch/) at the [ETH Zurich](https://ethz.ch/). We are also part of the [ETH AI center](https://ai.ethz.ch/), the [Max Planck ETH Center for Learning Systems](https://learning-systems.org/), the [Ellis Society](https://ellis.eu/) and the [ETH Zurich - EPFL Joint Doctoral Program in the Learning Sciences](https://lse.ethz.ch/doctoral-program-in-learning-sciences.html).
 
-We build machine learning models for Natural Language Processing, Knowledge discovery and Reasoning. We also work on problems in the intersection of Natural Language processing and Education.
+We build machine learning models for Natural Language Processing (NLP), Knowledge discovery and Reasoning. We also work on problems in the intersection of Natural Language processing and Education.
 
 Our current focus areas include:
 1. NLP for long texts, including Coreference resolution and Discourse
