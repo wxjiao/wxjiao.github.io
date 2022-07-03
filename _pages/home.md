@@ -34,8 +34,9 @@ We build machine learning models for Natural Language Processing, Knowledge disc
 
 Our current focus areas include:
 1. NLP for long texts, including Coreference resolution and Discourse
-2. Reasoning with Natural Language for Question Answering and Interactive NLP problems
-3. NLP for Educational applications
+2. Reasoning with Natural Language
+3. NLP for Question Answering and other Interactive NLP problems
+4. NLP for Educational applications
 
 We are located in the E floor of the [CAB building](https://ethz.ch/services/en/service/rooms-and-buildings/building-orientation/gebaeude.html?args0=CAB) in the [beautiful](https://www.zuerich.com/en) city of Zurich in Switzerland. We regularly exchange ideas and work with our neighbors in [Rycolab](https://rycolab.io/) and the [Zurich-NLP group](https://zurich-nlp.ch/), as well as with our colleagues in the [Institute for Machine Learning](https://ml.inf.ethz.ch/).
 
