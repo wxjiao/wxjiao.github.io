@@ -34,7 +34,7 @@ We build machine learning models for Natural Language Processing (NLP), Knowledg
 
 Our current focus areas include:
 1. NLP for long texts, including Coreference resolution and Discourse
-2. Reasoning with Natural Language
+2. Reasoning with Natural Language, including Causality and NLP
 3. NLP for Question Answering and other Interactive NLP problems
 4. NLP for Educational applications
 
