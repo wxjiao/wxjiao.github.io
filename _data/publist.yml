@@ -33,7 +33,7 @@
   description: We propose a probing approach that adapts the given task into a sentence completion format and performs probing using the built-in language modeling head.
   authors: Jiaoda Li, Ryan Cotterell and Mrinmaya Sachan
   link:
-    url: https://arxiv.org/pdf/2107.07610.pdf
+    url: http://arxiv.org/abs/2207.01736
     display: NAACL 2022
   highlight: 1
 
