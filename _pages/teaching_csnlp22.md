@@ -60,7 +60,7 @@ ___
 |&nbsp;13|&nbsp;03.06&nbsp;|<b>Language + {Knowledge, Vision, Action}</b>|1. [Knowledge Graph Embedding: A Survey of Approaches and Applications](https://persagen.com/files/misc/Wang2017Knowledge.pdf) <br> 2. [Knowledge Enhanced Contextual Word Representations](https://arxiv.org/abs/1909.04164)||
 ||&nbsp;10.06&nbsp;|||Assignment 2 due|
 ||&nbsp;15.07&nbsp;|||Project report due|
-||&nbsp;xx.07&nbsp;|||Poster session (gather town)|
+||&nbsp;22.07&nbsp; &nbsp; 14-16pm|||[Poster session](https://docs.google.com/spreadsheets/d/117GcwU2K4T_veMHj5pJjqBzzapeogaJew3Fimqxx5ws/edit?usp=sharing) gather town|
 
 
 
