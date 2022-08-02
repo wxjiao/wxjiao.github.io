@@ -14,7 +14,16 @@
   hobbies: Kayaking, hiking, learning languages
   number_educ: 1
   education1: BS University of Hong Kong
-  
+
+
+- name: Zhao Meng
+  photo: Meng.jpeg
+  info: Collaborator, PhD Student in D-ITET (Primary advisor Roger Wattenhofer)
+  hobbies: Taking trains and planes
+  number_educ: 2
+  education1: MS ETH Zurich
+  education2: BS Peking University
+
 - name: Jingwei Ni
   photo: jingwei.JPG
   info: PhD Student (Primary Advisors Elliott Ash and Markus Leippold)
