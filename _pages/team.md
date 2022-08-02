@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members and Frequent Collaborators
+# Group Members
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -76,7 +76,7 @@ permalink: /team/
 
 
 
-## Collaborators
+#Collaborators
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
