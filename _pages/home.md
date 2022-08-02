@@ -35,7 +35,7 @@ We build machine learning models for Natural Language Processing (NLP), Knowledg
 Our current focus areas include:
 1. Reasoning with Natural Language, particularly Neuro-Symbolic and Causal Approaches
 2. NLP for long contexts, including models for Coreference and Discourse
-3. NLP Applications, particularly Question Answering and Dialog
+3. NLP Applications, particularly QA, Dialog and MT
 4. NLP for Educational Applications
 
 We are located in the E floor of the [CAB building](https://ethz.ch/services/en/service/rooms-and-buildings/building-orientation/gebaeude.html?args0=CAB) in the [beautiful](https://www.zuerich.com/en) city of Zurich in Switzerland. We regularly exchange ideas and work with our neighbors in [Rycolab](https://rycolab.io/) and the [Zurich-NLP group](https://zurich-nlp.ch/), as well as with our colleagues in the [Institute for Machine Learning](https://ml.inf.ethz.ch/).
