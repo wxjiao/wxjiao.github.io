@@ -34,7 +34,7 @@
 
 - name: Zhijing Jin
   photo: Zhijing.png
-  info: PhD Student, Ellis fellow (Primary advisor&#58 Bernhard Schölkopf)
+  info: PhD Student, Ellis fellow (Primary advisor Bernhard Schölkopf)
   hobbies: Kayaking, hiking, learning languages
   number_educ: 1
   education1: BS University of Hong Kong
@@ -85,7 +85,7 @@
 
 - name: Jingwei Ni
   photo: jingwei.JPG
-  info: PhD Student (Primary Advisors&#58 Elliott Ash and Markus Leippold)
+  info: PhD Student (Primary Advisors Elliott Ash and Markus Leippold)
   hobbies: Photography, Ukulele, Reading, J-Pop, Movie
   number_educ: 2
   education1: MS University College London
@@ -93,7 +93,7 @@
 
 - name: Zhao Meng
   photo: Meng.jpeg
-  info: Collaborator, PhD Student in D-ITET (Primary advisor&#58 Roger Wattenhofer)
+  info: Collaborator, PhD Student in D-ITET (Primary advisor Roger Wattenhofer)
   hobbies: Taking trains and planes
   number_educ: 2
   education1: MS ETH Zurich
@@ -108,7 +108,7 @@
   education2: BS Charles University
 
 - name: Wangchunshu Zhou
-  photo: photo_chunshu.jp2
+  photo: zwcs.png
   info: PhD Student (co-advised with Ryan Cotterell)
   hobbies: Video Games, Football, Reading
   number_educ: 2
@@ -117,7 +117,7 @@
 
 - name: Nico Daheim
   photo: 37595556.jpg
-  info: PhD Student, ELLIS fellow (Primary advisor&#58 Iryna Gurevych)
+  info: PhD Student, ELLIS fellow (Primary advisor Iryna Gurevych)
   hobbies: Fitness, Football, Hiking
   number_educ: 2
   education1: MS RWTH Aachen University
