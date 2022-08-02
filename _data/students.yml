@@ -8,10 +8,26 @@
 #  education3:
 #  education4:
 
-- name: Zijian Jin
-  photo: zijian.jpg
-  info: Master Student
-  hobbies: Fitness, Basketball
+- name: Zhijing Jin
+  photo: Zhijing.png
+  info: PhD Student, Ellis fellow (Primary advisor Bernhard Schölkopf)
+  hobbies: Kayaking, hiking, learning languages
+  number_educ: 1
+  education1: BS University of Hong Kong
+  
+- name: Jingwei Ni
+  photo: jingwei.JPG
+  info: PhD Student (Primary Advisors Elliott Ash and Markus Leippold)
+  hobbies: Photography, Ukulele, Reading, J-Pop, Movie
   number_educ: 2
-  education1: BS Xidian University
-  education2: MS New York University
+  education1: MS University College London
+  education2: BS University of Hong Kong
+  
+  
+- name: Nico Daheim
+  photo: 37595556.jpg
+  info: PhD Student, ELLIS fellow (Primary advisor Iryna Gurevych)
+  hobbies: Fitness, Football, Hiking
+  number_educ: 2
+  education1: MS RWTH Aachen University
+  education2: BS University of Koblenz
