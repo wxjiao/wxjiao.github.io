@@ -7,7 +7,8 @@ permalink: /vacancies
 ---
 
 # Postdocs
-We have an opening for a Postdoc. You can apply to the following Postdoc Fellowship programs, which have specific application deadlines:
+**We have an opening for a Postdoc.**
+You can apply to the following Postdoc Fellowship programs, which have specific application deadlines:
 1. [ETH Zurich Postdoctoral Fellowship](https://ethz.ch/en/research/research-promotion/eth-fellowships.html) (deadlines March 1 and September 1)
 2. [ETH AI Center Postdoctoral Fellowship](https://ai.ethz.ch/education/phd-and-postdoc-programs.html) (deadline in late fall)
 3. [SNSF Swiss Postdoctoral Fellowships](https://www.snf.ch/en/m1NtWp4nTELQixlu/funding/horizon-europe-swiss-postdoctoral-fellowships) (deadline usually December)
