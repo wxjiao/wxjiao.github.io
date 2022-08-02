@@ -6,10 +6,8 @@
   education1: MS/PhD Carnegie Mellon
   education2: BTech IIT Kanpur
 
-- name: Paulina Motyka
-  photo: PM.jpg
+- name: Patrizia Napoli
   info: Administrative Assistant
-  hobbies: Travelling and reading
 
 - name: Yifan Hou
   photo: Yifan.jpg
@@ -36,8 +34,8 @@
 
 - name: Zhijing Jin
   photo: Zhijing.png
-  info: PhD Student, Ellis fellow (Primary advisor- Bernhard Schölkopf)
-  hobbies: Hiking, hip hop dancing, meditation
+  info: PhD Student, Ellis fellow (Primary advisor&#58 Bernhard Schölkopf)
+  hobbies: Kayaking, hiking, learning languages
   number_educ: 1
   education1: BS University of Hong Kong
 
@@ -64,33 +62,78 @@
   number_educ: 1
   education1: BS Zhejiang University
 
+- name: Tianyu Liu
+  photo: tianyu.jpg
+  info: Direct Doctorate Student (co-advised with Ryan Cotterell)
+  number_educ: 1
+  education1: BS Peking University
+
 - name: Sankalan Pal Chowdhury
   photo: Sankalan.jpg
-  info: Direct Doctorate Student
+  info: Direct Doctorate Student (co-advised with Ryan Cotterell)
   hobbies: Singing
   number_educ: 1
   education1: BS IIT Delhi
 
 - name: Alessandro Stolfo
   photo: Alessandro.jpg
-  info: Research Assistant
-  hobbies: Football, playing the drums
+  info: PhD Student
+  hobbies: Football, Skiing, Drumming
   number_educ: 2
   education1: MS ETH Zurich
   education2: BS Politecnico di Milano
 
 - name: Jingwei Ni
   photo: jingwei.JPG
-  info: Research Assistant
-  hobbies: Photography, Biking, Reading, J-Pop, Movie
+  info: PhD Student (Primary Advisors&#58 Elliott Ash and Markus Leippold)
+  hobbies: Photography, Ukulele, Reading, J-Pop, Movie
   number_educ: 2
-  education1: MS UCL
+  education1: MS University College London
   education2: BS University of Hong Kong
 
 - name: Zhao Meng
   photo: Meng.jpeg
-  info: Collaborator, PhD Student in D-ITET
+  info: Collaborator, PhD Student in D-ITET (Primary advisor&#58 Roger Wattenhofer)
   hobbies: Taking trains and planes
   number_educ: 2
   education1: MS ETH Zurich
   education2: BS Peking University
+
+- name: Vilém Zouhar
+  photo: vilem.jpeg
+  info: PhD Student
+  hobbies: Electric guitar, boardgames, literature
+  number_educ: 2
+  education1: MS Saarland + Groningen University
+  education2: BS Charles University
+
+- name: Wangchunshu Zhou
+  photo: photo_chunshu.jp2
+  info: PhD Student (co-advised with Ryan Cotterell)
+  hobbies: Video Games, Football, Reading
+  number_educ: 2
+  education1: MS Beihang University
+  education2: BS Beihang University
+
+- name: Nico Daheim
+  photo: 37595556.jpg
+  info: PhD Student, ELLIS fellow (Primary advisor&#58 Iryna Gurevych)
+  hobbies: Fitness, Football, Hiking
+  number_educ: 2
+  education1: MS RWTH Aachen University
+  education2: BS University of Koblenz
+
+- name: Peng Cui
+  photo: peng.png
+  info: PhD Student (co-advised with Elliott Ash and Markus Leippold)
+  hobbies: Reading, Travelling, Fitness
+  number_educ: 2
+  education1: MS HIT
+  education2: BS HIT
+
+- name: Andreas Opedal
+  info: PhD Student CLS fellow (co-advised with Bernhard Schölkopf)
+  hobbies: Fitness, Health, Traveling
+  number_educ: 2
+  education1: MS ETH Zürich
+  education2: BS Chalmers University of Technology
