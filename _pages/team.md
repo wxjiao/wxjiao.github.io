@@ -7,10 +7,6 @@ permalink: /team/
 ---
 
 # Group Members
-
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni).
-
-## Staff
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -80,7 +76,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Master and Bachelor Students
+## Collaborators
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
