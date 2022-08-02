@@ -25,8 +25,10 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <div style="overflow: hidden">
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  {% if member.hobbies %}
   <br>Hobbies: {{ member.hobbies}}</i>
   <ul style="overflow: hidden">
+  {% endif %}
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
