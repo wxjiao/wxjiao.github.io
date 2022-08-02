@@ -24,11 +24,12 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <div style="overflow: hidden">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }}</i> <!--<br>email: <{{ member.email }}></i> -->
   {% if member.hobbies %}
   Hobbies: {{ member.hobbies}}
   {% endif %}
 
+  <ul style="overflow: hidden">
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
