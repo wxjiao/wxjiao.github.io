@@ -33,7 +33,7 @@ We are a research group in the [Institute for Machine Learning](https://ml.inf.e
 We build machine learning models for Natural Language Processing (NLP), Knowledge discovery and Reasoning. We also work on problems in the intersection of Natural Language processing and Education.
 
 Our current focus areas include:
-1. Reasoning with Natural Language, particularly Neuro-Symbolic and Causal Approaches
+1. Reasoning with Natural Language, particularly involving Neuro-Symbolic and Causal Approaches
 2. NLP for long contexts, including models for Coreference and Discourse
 3. NLP Applications, particularly Question Answering and Dialog
 4. NLP for Educational Applications
