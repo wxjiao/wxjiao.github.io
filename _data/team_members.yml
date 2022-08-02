@@ -33,13 +33,6 @@
   number_educ: 1
   education1: MS TU Kaiserslautern
 
-- name: Zhijing Jin
-  photo: Zhijing.png
-  info: PhD Student, Ellis fellow (Primary advisor Bernhard Schölkopf)
-  hobbies: Kayaking, hiking, learning languages
-  number_educ: 1
-  education1: BS University of Hong Kong
-
 - name: Jakub Macina
   photo: Jakub.jfif
   info: PhD Student, ETH AI center fellow (co-advised with Manu Kapur)
@@ -84,14 +77,6 @@
   education1: MS ETH Zurich
   education2: BS Politecnico di Milano
 
-- name: Jingwei Ni
-  photo: jingwei.JPG
-  info: PhD Student (Primary Advisors Elliott Ash and Markus Leippold)
-  hobbies: Photography, Ukulele, Reading, J-Pop, Movie
-  number_educ: 2
-  education1: MS University College London
-  education2: BS University of Hong Kong
-
 - name: Zhao Meng
   photo: Meng.jpeg
   info: Collaborator, PhD Student in D-ITET (Primary advisor Roger Wattenhofer)
@@ -115,14 +100,6 @@
   number_educ: 2
   education1: MS Beihang University
   education2: BS Beihang University
-
-- name: Nico Daheim
-  photo: 37595556.jpg
-  info: PhD Student, ELLIS fellow (Primary advisor Iryna Gurevych)
-  hobbies: Fitness, Football, Hiking
-  number_educ: 2
-  education1: MS RWTH Aachen University
-  education2: BS University of Koblenz
 
 - name: Peng Cui
   photo: peng.png
