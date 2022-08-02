@@ -42,6 +42,6 @@ We are located in the E floor of the [CAB building](https://ethz.ch/services/en/
 
 We are not actively looking for PhD students at this time. However, we are currently offering several master/bachelor thesis projects.
 
-**We have an opening for a postdoc in NLP and Educational Technology!**
+We have an opening for a postdoc in NLP and Educational Technology!
 
 We are grateful for funding from [SNF](http://www.snf.ch/en/Pages/default.aspx), [ETH Research Grants](https://ethz.ch/en/research/research-promotion/eth-grants.html), [Haslerstiftung](https://haslerstiftung.ch/), the [ETH AI center](https://ai.ethz.ch/) and the [Max Planck ETH Center for Learning Systems](https://learning-systems.org/).
