@@ -131,3 +131,10 @@
   number_educ: 2
   education1: MS RWTH Aachen University
   education2: BS University of Koblenz
+
+- name: Oleh Kuzyk
+  photo: OlehKuzyk.jpg
+  info: Master Student
+  hobbies: Reading, travelling, board games, learning languages
+  number_educ: 1
+  education2: BS Lviv Polytechnic National University
