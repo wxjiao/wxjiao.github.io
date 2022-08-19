@@ -55,17 +55,17 @@ ___
 |:--|:--|:--|:--|:--|
 |&nbsp;<b>Lecture/Discussion</b>|<b>Date</b>|<b>Topic</b>|<b>Course Materials</b>| <b>Events</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |&nbsp;&nbsp;1|&nbsp;22.09.22&nbsp;&nbsp;&nbsp;&nbsp;|<b>Introduction</b>|||
-|&nbsp;&nbsp;2|&nbsp;29.09.22&nbsp;&nbsp;&nbsp;&nbsp;|discussion forum activity|||
-|&nbsp;&nbsp;3|&nbsp;06.10.22&nbsp;|<b>Educational Data Mining (Part 1)</b><br>(prediction + structured discovery/visualization)||Assignment 1.1 released|
-|&nbsp;&nbsp;4|&nbsp;13.10.22&nbsp;&nbsp;&nbsp;&nbsp;|word on assignment 1.1 + discussion forum activity|||
-|&nbsp;&nbsp;5|&nbsp;20.10.22&nbsp;|<b>Educational Data Mining (Part 2)</b><br>(relationship mining)||Assignment 1.2 released|
-|&nbsp;&nbsp;6|&nbsp;27.10.22&nbsp;&nbsp;&nbsp;&nbsp;|word on assignment 1.2 + discussion forum activity|||
-|&nbsp;&nbsp;7|&nbsp;03.11.22&nbsp;|<b>AIED tools and applications</b><br>(relationship mining)|||
-|&nbsp;&nbsp;8|&nbsp;10.11.22&nbsp;&nbsp;&nbsp;&nbsp;|discussion forum activity|||
-|&nbsp;&nbsp;9|&nbsp;17.11.22&nbsp;|<b>Personalization (Part 1)</b><br>(Learning Model and Knowledge Tracing)||assignment 2.1 released|
-|&nbsp;&nbsp;10|&nbsp;24.11.22&nbsp;&nbsp;&nbsp;&nbsp;|word on assignment 2.1 + discussion forum activity|||
-|&nbsp;&nbsp;11|&nbsp;01.12.22&nbsp;|<b>Personalization (Part 2)</b><br>(Self-improving AIED)||assignment 2.2 released|
-|&nbsp;&nbsp;12|&nbsp;08.12.22&nbsp;&nbsp;&nbsp;&nbsp;|word on assignment 2.2 + discussion forum activity|||
+|&nbsp;&nbsp;2|&nbsp;29.09.22&nbsp;&nbsp;&nbsp;&nbsp;|Discussion Forum Activity|||
+|&nbsp;&nbsp;3|&nbsp;06.10.22&nbsp;|<b>Educational Data Mining (Part 1)</b><br>(Prediction + Structured Discovery/Visualization)||Assignment 1.1 Released|
+|&nbsp;&nbsp;4|&nbsp;13.10.22&nbsp;&nbsp;&nbsp;&nbsp;|Work on Assignment 1.1 + Discussion Forum Activity|||
+|&nbsp;&nbsp;5|&nbsp;20.10.22&nbsp;|<b>Educational Data Mining (Part 2)</b><br>(Relationship Mining)||Assignment 1.2 Released|
+|&nbsp;&nbsp;6|&nbsp;27.10.22&nbsp;&nbsp;&nbsp;&nbsp;|Work on Assignment 1.2 + Discussion Forum Activity|||
+|&nbsp;&nbsp;7|&nbsp;03.11.22&nbsp;|<b>AIED Tools and Applications</b>|||
+|&nbsp;&nbsp;8|&nbsp;10.11.22&nbsp;&nbsp;&nbsp;&nbsp;|Discussion Forum Activity|||
+|&nbsp;&nbsp;9|&nbsp;17.11.22&nbsp;|<b>Personalization (Part 1)</b><br>(Learning Model and Knowledge Tracing)||Assignment 2.1 Released|
+|&nbsp;&nbsp;10|&nbsp;24.11.22&nbsp;&nbsp;&nbsp;&nbsp;|Work on Assignment 2.1 + Discussion Forum Activity|||
+|&nbsp;&nbsp;11|&nbsp;01.12.22&nbsp;|<b>Personalization (Part 2)</b><br>(Self-Improving AIED)||Assignment 2.2 Released|
+|&nbsp;&nbsp;12|&nbsp;08.12.22&nbsp;&nbsp;&nbsp;&nbsp;|Work on Assignment 2.2 + Discussion Forum Activity|||
 |&nbsp;&nbsp;13|&nbsp;15.12.22&nbsp;|<b>Ethical Issues in AIED</b>|||
 
 For discussions, you can do any two of:
