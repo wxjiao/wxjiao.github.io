@@ -7,75 +7,83 @@ permalink: /teaching_aie22
 ---
 
 # Artificial Intelligence in Education
-### <font color=gray>ETH Zürich, Autumn Semester 2021 </font>: [Course catalog](http://www.vvz.ethz.ch/lerneinheitPre.do?semkez=2021W&lerneinheitId=156340&lang=en)
+### <font color=gray>ETH Zürich, Autumn Semester 2022 </font>: [Course catalog](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022W&ansicht=LERNMATERIALIEN&lerneinheitId=162761&lang=en)
 
 ___
 
 ## Course Description
-The course will be centered around exploring methodological and system-focused perspectives on designing AI systems for education and analyzing educational data using AI methods. 
+The course will be centered around exploring methodological and system-focused perspectives on designing AI systems for education and analyzing educational data using AI methods
 
-The course will start with a general introduction to AI, where we will cover supervised and unsupervised learning techniques (e.g.,classification and regression models, feature selection and preprocessing of data, clustering, dimensionality reduction and text mining techniques) with a focus on application of these techniques in educational data mining. 
+The course will start with an introduction to data mining techniques  (e.g., prediction, structured discovery, visualization, and relationship mining) relevant to analyzing educational data. 
 
-After the introduction of the basic methodologies, we will continue with the most relevant applications of AI in educational technologies (e.g., intelligent tutoring and student personalization, scaffolding open-ended discovery learning, socially-aware AI and learning at scale with AI systems). In the final part of the course, we will cover challenges associated with using AI in student facing settings.
+We will then continue with topics on personalization in AI in educational technologies (e.g., learner modeling and knowledge tracing, self-improving AIED systems) while showcasing exemplary applications in areas such as content curation and dialog-based tutoring. 
 
-Students will be expected to 
-- engage in presentations and active in-class discussion, 
-- work on problem-sets exemplifying the use of educational data mining techniques, and 
-- undertake a final course project with feedback from instructors.
+Finally, we will cover ethical challenges associated with using AI in student facing settings. Face-to-face meetings will be held every fortnight, although students will be expected to work individually on weekly tasks (e.g., discussing relevant literature, working on problems, preparing seminar presentations).
+
+Students will be expected to:
+- engage in presentations and active in-class and asynchronous discussion, 
+- work on problem-sets exemplifying the use of educational data mining techniques.
 
 ___
 
 ### **Grading**
 This is a research driven, hands-on class. Your participation is important.
 
-The final assessment will be a combination of classroom participation, graded exercises, research paper presentation and the project. There will be 3 exercise sets which will be a mix of theoretical and implementation problems. Exercises will be released roughly every 4 weeks, and will total to 40% of your grade. Classroom participation (writing class presentation summaries and discussion forum participation) will account for 20% of the grade. Research paper presentation will account for 10% of the grade and the project will account of the rest of the grade (30%). There will be no written exams.
+The final assessment will be a combination of: 
+- Discussion forum activity (6X5% = 30%)
+- Assignments (4X15% = 60%)
+- Class presentation + Class participation (10%)
 
-**Lectures:** Thu 16:15-18:00 Zoom link (see Moodle)
+<!-- classroom participation, graded exercises, research paper presentation and the project. There will be 3 exercise sets which will be a mix of theoretical and implementation problems. Exercises will be released roughly every 4 weeks, and will total to 40% of your grade. Classroom participation (writing class presentation summaries and discussion forum participation) will account for 20% of the grade. Research paper presentation will account for 10% of the grade and the project will account of the rest of the grade (30%). There will be no written exams. -->
 
-**Discussion Sections:**  Thu 18:15-19:00 Same zoom link
+**Lectures:** Thu 13:00-15:00
 
-**Discussion forum:** [Moodle](https://moodle-app2.let.ethz.ch/mod/forum/view.php?id=633843)
+**Exercise Sessions:**  Thu 15:00-16:00
+
+**Discussion forum:** [Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=17844)
 
 **Textbooks:**
 We will not follow any particular textbook. We will draw material from a number of research papers.
 
-## News
-**15.09.21**    Class website is online!
+<!-- ## News
+**15.09.21**    Class website is online! -->
 
 ___
 
 ## Course Schedule
 
 |:--|:--|:--|:--|:--|
-|&nbsp;<b>Lecture</b>|<b>Date</b>|<b>Topic</b>|<b>Course Materials</b>| <b>Events</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-|&nbsp;&nbsp;1|&nbsp;23.09.21&nbsp;&nbsp;&nbsp;&nbsp;|<b>Introduction</b>|||
-|&nbsp;&nbsp;2|&nbsp;30.09.21&nbsp;|<b>Prediction</b>|||
-|&nbsp;&nbsp;3|&nbsp;07.10.21&nbsp;|<b>Structure Discovery and Visualization </b> <br><br>||
-|&nbsp;4| &nbsp;14.10.21&nbsp; |<b>Relationship mining</b><br>(Correlation and Causal Relationship Mining)|| Assignment 1 out|
-|&nbsp;5| &nbsp;21.10.21&nbsp; |<b>Content curation</b> |||
-|&nbsp;6| &nbsp;28.10.21&nbsp; |<b>Automated assessment and error correction</b><br><br> Guest lecture by Jill Burstein (Duolingo) |||
-|&nbsp;7| &nbsp;04.11.21&nbsp; |<b>Language learning</b><br><br> Guest lecture by Pedro Caldeira (ETH Zurich) ||Assignment 1 due|
-|&nbsp;8| &nbsp;11.11.21&nbsp; |<b> Learner modeling</b> ||Project Proposal due <br> Assignment 2 out|
-|&nbsp;9| &nbsp;18.11.21&nbsp; |<b> Dialog based tutoring</b> |||
-|&nbsp;10| &nbsp;25.11.21&nbsp; |<b> Scaffolding discovery</b><br><br> Guest lecture by Manu Kapur (ETH Zurich) |||
-|&nbsp;11| &nbsp;02.12.21&nbsp; |<b> Dynamic A/B testing</b>||Assignment 2 due|
-|&nbsp;12| &nbsp;09.12.21&nbsp; |<b> Computing Literacy</b><br><br> Guest lecture by Matti Tedre and Henriikka Vartiainen (Univ. Eastern Finland)||Assignment 3 out|
-|&nbsp;13| &nbsp;16.12.21&nbsp; |<b> Socially/culturally-aware AIED</b><br><br> Guest lecture by Justine Cassell (INRIA and CMU)|||
-|&nbsp;14| &nbsp;23.12.21&nbsp; |<b> Ethical issues in AIED</b>|||
+|&nbsp;<b>Lecture/Discussion</b>|<b>Date</b>|<b>Topic</b>|<b>Course Materials</b>| <b>Events</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|&nbsp;&nbsp;1|&nbsp;22.09.22&nbsp;&nbsp;&nbsp;&nbsp;|<b>Introduction</b>|||
+|&nbsp;&nbsp;2|&nbsp;29.09.22&nbsp;&nbsp;&nbsp;&nbsp;|discussion forum activity|||
+|&nbsp;&nbsp;3|&nbsp;06.10.22&nbsp;|<b>Educational Data Mining (Part 1)</b><br>(prediction + structured discovery/visualization)||Assignment 1.1 released|
+|&nbsp;&nbsp;4|&nbsp;13.10.22&nbsp;&nbsp;&nbsp;&nbsp;|word on assignment 1.1 + discussion forum activity|||
+|&nbsp;&nbsp;5|&nbsp;20.10.22&nbsp;|<b>Educational Data Mining (Part 2)</b><br>(relationship mining)||Assignment 1.2 released|
+|&nbsp;&nbsp;6|&nbsp;27.10.22&nbsp;&nbsp;&nbsp;&nbsp;|word on assignment 1.2 + discussion forum activity|||
+|&nbsp;&nbsp;7|&nbsp;03.11.22&nbsp;|<b>AIED tools and applications</b><br>(relationship mining)|||
+|&nbsp;&nbsp;8|&nbsp;10.11.22&nbsp;&nbsp;&nbsp;&nbsp;|discussion forum activity|||
+|&nbsp;&nbsp;9|&nbsp;17.11.22&nbsp;|<b>Personalization (Part 1)</b><br>(Learning Model and Knowledge Tracing)||assignment 2.1 released|
+|&nbsp;&nbsp;10|&nbsp;24.11.22&nbsp;&nbsp;&nbsp;&nbsp;|word on assignment 2.1 + discussion forum activity|||
+|&nbsp;&nbsp;11|&nbsp;01.12.22&nbsp;|<b>Personalization (Part 2)</b><br>(Self-improving AIED)||assignment 2.2 released|
+|&nbsp;&nbsp;12|&nbsp;08.12.22&nbsp;&nbsp;&nbsp;&nbsp;|word on assignment 2.2 + discussion forum activity|||
+|&nbsp;&nbsp;13|&nbsp;15.12.22&nbsp;|<b>Ethical Issues in AIED</b>|||
 
-Assignment 3 is due on 30.12.21. Final project submission (report, code) is due on 23.01.22.
+For discussions, you can do any two of:
+- make one unique post about the article read, or,
+- one critique on a peer’s post, or,
+- answer any one of the  posted question about the readings (< 250 words),
 
 ___
 
-## Weekly research paper presentations
+## Role-based seminar presentation in class
 
-Presentation for 15 minutes followed by a 10-minute question answers/discussion. Please see Moodle for more details.
+Presentation for 20 minutes followed by a 10-minute question answers/discussion. Please see Moodle for more details.
 
-## Course Project
+<!-- ## Course Project
 
 The goal is to explore an interesting problem in AIED in the context of a real-world data set. If you have a theoretical project, come chat with us. Projects should be done in teams of three students.
 
--   [Project Guidelines](https://docs.google.com/document/d/1zKx_P8KdGYjp06Jm92QIsn0IRewpHDBzPETuB9GZaD0)
+-   [Project Guidelines](https://docs.google.com/document/d/1zKx_P8KdGYjp06Jm92QIsn0IRewpHDBzPETuB9GZaD0) -->
 
 ## Materials
 -   [Lecture Slides & Student Presentation Slides (Moodle)](https://moodle-app2.let.ethz.ch/)
@@ -86,10 +94,10 @@ ___
 
 ## Contact
 
-You can ask questions on [Moodle](https://moodle-app2.let.ethz.ch/mod/forum/view.php?id=633843). Please post questions there, so others can see them and share in the discussion. If you have questions which are not of general interest, please don’t hesitate to contact us directly.
+You can ask questions on [Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=17844). Please post questions there, so others can see them and share in the discussion. If you have questions which are not of general interest, please don’t hesitate to contact us directly.
 
 |:--|:--|
 |Lecturers| [Mrinmaya Sachan](http://www.mrinmaya.io/),&nbsp; [Tanmay Sinha](mailto:tanmay.sinha@gess.ethz.ch)|
-|Teaching Assistants| [Kumar Shridhar](mailto:shridhar.kumar@inf.ethz.ch),&nbsp; [Jakub Macina](mailto:jakub.macina@inf.ethz.ch),&nbsp; [Josephine Yates](mailto:josephine.yates@inf.ethz.ch),&nbsp; [Mian Zhong](mailto:mzhong@student.ethz.ch)|
+|Teaching Assistants| [Kumar Shridhar](mailto:shridhar.kumar@inf.ethz.ch),&nbsp; [Jakub Macina](mailto:jakub.macina@inf.ethz.ch),&nbsp; [Sankalan Pal Chowdhury](mailto:sankalan.story@gmail.com),&nbsp; [Peng Cui](mailto:pencui@inf.ethz.ch)|
 
 ___
