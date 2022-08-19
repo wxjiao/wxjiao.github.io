@@ -36,9 +36,9 @@ The final assessment will be a combination of:
 
 <!-- classroom participation, graded exercises, research paper presentation and the project. There will be 3 exercise sets which will be a mix of theoretical and implementation problems. Exercises will be released roughly every 4 weeks, and will total to 40% of your grade. Classroom participation (writing class presentation summaries and discussion forum participation) will account for 20% of the grade. Research paper presentation will account for 10% of the grade and the project will account of the rest of the grade (30%). There will be no written exams. -->
 
-**Lectures:** Thu 13:00-15:00 (ETZ E 6)
+**Lectures:** Thu 13:00-15:00 ([ETZ](http://www.mapsearch.ethz.ch/map.do;msSessionid=h-61y8TSJKfvMtJAZJ9ZtnnYRLLNmohh4l6pMaNRvb2WljDldpUS!-42774485?gebaeudeMap=ETZ&farbcode=c010&lang=en) [E6](https://www.rauminfo.ethz.ch/Rauminfo/grundrissplan.gif?gebaeude=ETZ&geschoss=E&raumNr=6&lang=en))
 
-**Exercise Sessions:**  Thu 15:00-16:00 (ETZ E 6)
+**Exercise Sessions:**  Thu 15:00-16:00 ([ETZ](http://www.mapsearch.ethz.ch/map.do;msSessionid=h-61y8TSJKfvMtJAZJ9ZtnnYRLLNmohh4l6pMaNRvb2WljDldpUS!-42774485?gebaeudeMap=ETZ&farbcode=c010&lang=en) [E6](https://www.rauminfo.ethz.ch/Rauminfo/grundrissplan.gif?gebaeude=ETZ&geschoss=E&raumNr=6&lang=en))
 
 **Discussion forum:** [Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=17844)
 
