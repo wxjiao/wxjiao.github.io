@@ -3,7 +3,7 @@ title: "Mrinmaya's Lab - Teaching"
 layout: teaching
 excerpt: "Teaching"
 sitemap: false
-permalink: /teaching_aie
+permalink: /teaching_aie21
 ---
 
 # Artificial Intelligence in Education
