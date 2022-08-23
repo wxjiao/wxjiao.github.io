@@ -12,12 +12,10 @@ permalink: /
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
     </ol>
 
-
-    <div class="carousel-inner" markdown="0" id="slider">
+    <!-- Items -->
+    <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider1" alt="Slide 1" />
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider2" alt="Slide 2" />
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider3" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider1.jpg" alt="Slide 1" />
         </div>
     </div>
 
