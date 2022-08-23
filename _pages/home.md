@@ -16,10 +16,6 @@ permalink: /
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider1.jpg" alt="Slide 1" />
-        </div>
-    </div>
-    <div class="carousel-inner" markdown="0">
-        <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider2.jpg" alt="Slide 2" />
         </div>
     </div>
