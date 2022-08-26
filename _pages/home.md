@@ -32,15 +32,9 @@ permalink: /
 
 We are a research group in the [Institute for Machine Learning](https://ml.inf.ethz.ch/) within the [Department of Computer Science](https://inf.ethz.ch/) at the [ETH Zurich](https://ethz.ch/). We are also part of the [ETH AI center](https://ai.ethz.ch/), the [Max Planck ETH Center for Learning Systems](https://learning-systems.org/), the [Ellis Society](https://ellis.eu/) and the [ETH Zurich - EPFL Joint Doctoral Program in the Learning Sciences](https://lse.ethz.ch/doctoral-program-in-learning-sciences.html).
 
-We build machine learning models for Natural Language Processing (NLP), Knowledge discovery and Reasoning. We also work on problems in the intersection of Natural Language processing and Education.
+We build machine learning models for Natural Language Processing (NLP). We also work on problems in the intersection of NLP and Education.
 
-Our current focus areas include:
-1. Reasoning with Natural Language, particularly Neuro-Symbolic and Causal Approaches
-2. NLP for long contexts, including models for Coreference and Discourse
-3. NLP Applications, particularly QA, Dialog and MT
-4. NLP for Educational Applications
-
-We are located in the E floor of the [CAB building](https://ethz.ch/services/en/service/rooms-and-buildings/building-orientation/gebaeude.html?args0=CAB) in the [beautiful](https://www.zuerich.com/en) city of Zurich in Switzerland. We regularly exchange ideas and work with our neighbors in [Rycolab](https://rycolab.io/) and the [Zurich-NLP group](https://zurich-nlp.ch/), as well as with our colleagues in the [Institute for Machine Learning](https://ml.inf.ethz.ch/).
+We are located in the [beautiful](https://www.zuerich.com/en) city of Zurich in Switzerland. We regularly exchange ideas and work with our neighbors in [Rycolab](https://rycolab.io/) and the [Zurich-NLP group](https://zurich-nlp.ch/), as well as with our colleagues in the [Institute for Machine Learning](https://ml.inf.ethz.ch/).
 
 We are not actively looking for PhD students at this time. However, we are currently offering several master/bachelor thesis projects.
 
