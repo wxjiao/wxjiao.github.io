@@ -24,6 +24,12 @@ permalink: /team/
   {% if member.hobbies %}
   Hobbies: {{ member.hobbies}}
   {% endif %}
+  {% if member.startyear %}
+  Start year: {{ member.startyear}}
+  {% endif %}
+  {% if member.researchinterest %}
+  Research interest: {{ member.researchinterest}}
+  {% endif %}
 
   <ul style="overflow: hidden">
   {% if member.number_educ == 1 %}

@@ -112,6 +112,8 @@
 - name: Zhijing Jin
   photo: Zhijing.png
   info: PhD Student, Ellis fellow (Primary advisor&#58; Bernhard Schölkopf)
+  startyear: 2020
+  researchinterest: CausalNLP, NLP for Social Good, robustness, AI safety
   hobbies: Kayaking, hiking, learning languages
   number_educ: 1
   education1: BS University of Hong Kong
