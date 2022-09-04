@@ -29,6 +29,8 @@
 - name: Kumar Shridhar
   photo: Shridhar.jpg
   info: PhD Student
+  startyear: 2021
+  researchinterest: Generative models, entity linking, maths word problem solving
   hobbies: Tennis, Traveling
   number_educ: 1
   education1: MS TU Kaiserslautern
@@ -36,6 +38,8 @@
 - name: Jakub Macina
   photo: Jakub.jfif
   info: PhD Student, ETH AI center fellow (co-advised with Manu Kapur)
+  startyear: 2021
+  researchinterest: NLP in education, generative models
   hobbies: Football, Mountain biking, Hiking
   number_educ: 2
   education1: MS Slovak University of Technology
@@ -80,6 +84,8 @@
 - name: Vilém Zouhar
   photo: vilem.jpeg
   info: PhD Student
+  startyear: 2022
+  researchinterest: Non-mainstream MT, creative NLP, fusion-/retrieval-enhanced NLP
   hobbies: Electric guitar, boardgames, literature
   number_educ: 2
   education1: MS Saarland + Groningen University
@@ -104,12 +110,14 @@
 - name: Andreas Opedal
   photo: andreas.jpg
   info: PhD Student, CLS fellow (co-advised with Bernhard Schölkopf)
+  startyear: 2022
+  researchinterest: Neuro-symbolic reasoning, parsing, formal languages, causality
   hobbies: Fitness, Health, Traveling
   number_educ: 2
   education1: MS ETH Zürich
   education2: BS Chalmers University of Technology
   
-- name: [Zhijing Jin]({https://zhijing-jin.com})
+- name: Zhijing Jin
   photo: Zhijing.png
   info: PhD Student, Ellis fellow (Primary advisor&#58; Bernhard Schölkopf)
   startyear: 2020
@@ -121,6 +129,7 @@
 - name: Jingwei Ni
   photo: jingwei.JPG
   info: PhD Student (Primary Advisors&#58; Elliott Ash and Markus Leippold)
+  startyear: 2022
   hobbies: Photography, Ukulele, Reading, J-Pop, Movie
   number_educ: 2
   education1: MS University College London
@@ -129,6 +138,8 @@
 - name: Nico Daheim
   photo: 37595556.jpg
   info: PhD Student, ELLIS fellow (Primary advisor&#58; Iryna Gurevych)
+  startyear: 2022
+  researchinterest: Dialog systems, natural language generation, retrieval models
   hobbies: Fitness, Football, Hiking
   number_educ: 2
   education1: MS RWTH Aachen University
