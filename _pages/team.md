@@ -19,7 +19,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <div style="overflow: hidden">
-  <h4>{{ member.name }}</h4>
+  <a>{{ member.name }}</a>
   <i>{{ member.info }}</i> <!--<br>email: <{{ member.email }}></i> -->
   {% if member.hobbies %}
   Hobbies: {{ member.hobbies}}
