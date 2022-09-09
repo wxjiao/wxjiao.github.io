@@ -64,6 +64,8 @@ ___
 |&nbsp;&nbsp;12|&nbsp;08.12.22&nbsp;&nbsp;&nbsp;&nbsp;|Work on Assignment 2.2 + Discussion Forum Activity|||
 |&nbsp;&nbsp;13|&nbsp;15.12.22&nbsp;|<b>Ethical Issues in AIED</b>|||
 
+___
+
 ## Discussion forum activity
 
 For discussions, you can do any two of:
