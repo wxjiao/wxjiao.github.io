@@ -64,11 +64,14 @@ ___
 |&nbsp;&nbsp;12|&nbsp;08.12.22&nbsp;&nbsp;&nbsp;&nbsp;|Work on Assignment 2.2 + Discussion Forum Activity|||
 |&nbsp;&nbsp;13|&nbsp;15.12.22&nbsp;|<b>Ethical Issues in AIED</b>|||
 
+## Discussion forum activity
+
 For discussions, you can do any two of:
 - make one unique post about the article read, or,
 - one critique on a peer’s post, or,
 - answer any one of the  posted question about the readings (< 250 words),
 
+Please see Moodle for more details.
 ___
 
 ## Role-based seminar presentation in class
