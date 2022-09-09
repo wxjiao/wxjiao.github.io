@@ -12,7 +12,7 @@ permalink: /teaching_aie22
 ___
 
 ## Course Description
-The course will be centered around exploring methodological and system-focused perspectives on designing AI systems for education and analyzing educational data using AI methods
+The course will be centered around analyzing educational data using AI methods and methodological and system-focused perspectives on designing AI systems for education.
 
 The course will start with an introduction to data mining techniques  (e.g., prediction, structure discovery, visualization, and relationship mining) relevant to analyzing educational data. We will then continue with topics on personalization in AI in educational technologies (e.g., learner modeling and knowledge tracing, self-improving AIED systems) while showcasing example applications in areas such as content curation and dialog-based tutoring. 
 
