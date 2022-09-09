@@ -14,9 +14,7 @@ ___
 ## Course Description
 The course will be centered around analyzing educational data using AI methods and methodological and system-focused perspectives on designing AI systems for education.
 
-The course will start with an introduction to data mining techniques  (e.g., prediction, structure discovery, visualization, and relationship mining) relevant to analyzing educational data. We will then continue with topics on personalization in AI in educational technologies (e.g., learner modeling and knowledge tracing, self-improving AIED systems) while showcasing example applications in areas such as content curation and dialog-based tutoring. 
-
-Finally, we will cover ethical challenges associated with using AI in student facing settings. Face-to-face meetings will be held every fortnight, although students will be expected to work individually on weekly tasks (e.g., discussing relevant literature, working on problems, preparing seminar presentations).
+The course will start with an introduction to data mining techniques  (e.g., prediction, structure discovery, visualization, and relationship mining) relevant to analyzing educational data. We will then continue with topics on personalization in AI in educational technologies (e.g., learner modeling and knowledge tracing, self-improving AIED systems) while showcasing example applications in areas such as content curation, automatic assessment and dialog-based tutoring. Finally, we will cover ethical challenges associated with using AI in student facing settings. Face-to-face meetings will be held every fortnight, although students will be expected to work individually on weekly tasks (e.g., discussing relevant literature, working on problems, preparing seminar presentations).
 
 Students will be expected to:
 - engage in presentations and active in-class and asynchronous discussion, 
