@@ -14,7 +14,6 @@ You can apply to the following Postdoc Fellowship programs, which have specific 
 3. [SNSF Swiss Postdoctoral Fellowships](https://www.snf.ch/en/m1NtWp4nTELQixlu/funding/horizon-europe-swiss-postdoctoral-fellowships) (deadline usually December)
 
 # PhD students
-**We are not actively looking for PhD students at this time.**
 
 Here is some information on ways to apply:
 1. If you have (or expect to obtain soon) a M.Sc. degree and are interested in interdisciplinary research, consider applying to the [ETH AI center PhD fellowship](https://ai.ethz.ch/education/phd-and-postdoc-programs.html) and mention my name in your application.
