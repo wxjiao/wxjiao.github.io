@@ -28,9 +28,12 @@ ___
 This is a research driven, hands-on class. Your participation is important.
 
 The final assessment will be a combination of: 
-- Discussion forum activity (6X5% = 30%)
-- Assignments (4X15% = 60%)
-- Class presentation + Class participation (10%)
+- 60% - exercise sets (4 X 15%)
+- 25% - discussion forum activities on Moodle (5 X 5%)
+- 15% - role-based research paper presentation
+- 2% - potential bonus for class participation (attendance and paper discussions in class)
+
+No written exams! Our focus is on learning and continuous evaluation.
 
 <!-- classroom participation, graded exercises, research paper presentation and the project. There will be 3 exercise sets which will be a mix of theoretical and implementation problems. Exercises will be released roughly every 4 weeks, and will total to 40% of your grade. Classroom participation (writing class presentation summaries and discussion forum participation) will account for 20% of the grade. Research paper presentation will account for 10% of the grade and the project will account of the rest of the grade (30%). There will be no written exams. -->
 
