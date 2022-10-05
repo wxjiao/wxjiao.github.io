@@ -35,7 +35,7 @@ We are a research group in the [Institute for Machine Learning](https://ml.inf.e
 We build machine learning models for Natural Language Processing (NLP). We also work on problems in the intersection of NLP and Education. Our current focus areas include:
 1. Reasoning with natural Language, particularly Neuro-symbolic approaches and Causality
 2. NLP applications, particularly QA, Dialog and Discourse
-3. Human-centered NLP, particularly in educational contexts
+3. Human-centered NLP in educational contexts
 
 We are located in the [beautiful](https://www.zuerich.com/en) city of Zurich in Switzerland. We regularly exchange ideas and work with our neighbors in [Rycolab](https://rycolab.io/) and the [Zurich-NLP group](https://zurich-nlp.ch/), as well as with our colleagues in the [Institute for Machine Learning](https://ml.inf.ethz.ch/).
 
