@@ -7,8 +7,7 @@ permalink: /vacancies
 ---
 
 # Postdocs
-**We have an opening for a Postdoc.**
-You can apply to the following Postdoc Fellowship programs, which have specific application deadlines:
+Please apply to the following Postdoc Fellowship programs, which have specific application deadlines:
 1. [ETH Zurich Postdoctoral Fellowship](https://ethz.ch/en/research/research-promotion/eth-fellowships.html) (deadlines March 1 and September 1)
 2. [ETH AI Center Postdoctoral Fellowship](https://ai.ethz.ch/education/phd-and-postdoc-programs.html) (deadline in late fall)
 3. [SNSF Swiss Postdoctoral Fellowships](https://www.snf.ch/en/m1NtWp4nTELQixlu/funding/horizon-europe-swiss-postdoctoral-fellowships) (deadline usually December)
@@ -25,17 +24,16 @@ Finally, if you cannot apply to any of the above application deadlines, you can 
 
 We can also host PhD students as a part of the [Ellis PhD program](https://ellis.eu/).
 
-# Bachelor, Master projects and Internships
+# Bachelor and Master projects
 ### Bachelor/Master projects for ETH Zurich students
 If you are a Master student at ETH Zurich looking for a thesis project, contact Mrinmaya (or any group member) by email with your CV and transcripts. We maintain a list of available thesis projects [here](https://docs.google.com/document/d/1V6VXXAUmfEURldrbPtCiIFAOW4UKoXT49fTvTSOsRTk/edit#). However, you can also propose your own topic.
 
 If you are a Bachelor at ETH Zurich looking for a thesis project, you should ideally have succesfully completed one of the two NLP classes in the department (252-3005-00L-Natural Language Processing or 263-5000-00L-Computational Semantics for Natural Language Processing) or our AI in Education class (263-5005-00L). However, there can be exceptions. Feel free to contact Mrinmaya (or any group member) by email with your CV and transcripts. Some available thesis projects are listed [here](https://docs.google.com/document/d/1V6VXXAUmfEURldrbPtCiIFAOW4UKoXT49fTvTSOsRTk/edit#). You can also propose your own topic.
 
-### Internship/Bachelor/Master projects for students at other universities
+### Bachelor/Master projects for students at other universities
 We usually have limited bandwidth to take on bachelor or master students from other universities. However, if you think you are a very good fit, feel free to reach out.
 
-If you are interested in an internship, please apply to our [Student Summer Research Fellowship program](https://www.inf.ethz.ch/studies/summer-research-fellowship.html) (annual deadline in December). If you think you are a good fit and have some research experience already, you can reach out. However, please note that I get too many internship requests. **We may not be able to respond to your emails**.
-
-Also consider applying to the [ThinkSwiss Scholarships](https://thinkswiss.org/) for internships and short term stays. You can refer to the ThinkSwiss Research Scholarship pages to support your stay in Switzerland for up to 3 months and the deadline for applying is in January each year.
+# Internships
+If you are interested in an internship, please apply to our [Student Summer Research Fellowship program](https://www.inf.ethz.ch/studies/summer-research-fellowship.html) (annual deadline in December) or the [ThinkSwiss Scholarships](https://thinkswiss.org/) (annual deadline in January). We cannot support internships outside these programs and there is no need to send us email inquiries. **We would not be able to respond to your emails**.
 
 **Members of various minority groups in academia are especially encouraged to apply.**
