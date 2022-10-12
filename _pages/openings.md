@@ -34,6 +34,6 @@ If you are a Bachelor at ETH Zurich looking for a thesis project, you should ide
 We usually have limited bandwidth to take on bachelor or master students from other universities. However, if you think you are a very good fit, feel free to reach out.
 
 # Internships
-If you are interested in an internship, please apply to our [Student Summer Research Fellowship program](https://www.inf.ethz.ch/studies/summer-research-fellowship.html) (annual deadline in December) or the [ThinkSwiss Scholarships](https://thinkswiss.org/) (annual deadline in January). We cannot support internships outside these programs and there is no need to send us email inquiries. **We would not be able to respond to your emails**.
+If you are interested in an internship, please apply to our [Student Summer Research Fellowship program](https://www.inf.ethz.ch/studies/summer-research-fellowship.html) (annual deadline in December) or the [ThinkSwiss Scholarships](https://thinkswiss.org/) (annual deadline in January). We cannot support internships outside these programs and **there is no need to send us email inquiries**. We would not be able to respond to your emails.
 
 **Members of various minority groups in academia are especially encouraged to apply.**
