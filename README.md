@@ -1,4 +1,4 @@
-# Mrinmaya's Lab Website
+# Natural Language Processing and Educational Technologies
 
 This is the website of our academic research group at ETH Zurich.
 
