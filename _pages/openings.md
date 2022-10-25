@@ -25,7 +25,7 @@ Finally, if you cannot apply to any of the above application deadlines, you can 
 We can also host PhD students as a part of the [Ellis PhD program](https://ellis.eu/).
 
 ### Note to prospective and current students
-Our group is (and is expected to be) conducting research at an international level. We have high standards. Your work needs to be competitive with graduate students in top universities in the world. This is going to be hard work. You will need to read many research papers. You will need to write many research papers. There is no guarantee you will finish a thesis "on time". You are expected to be independent and self motivated. I will push you to do good work, and provide the conditions needed for it. But I won't pressure you with deadlines etc. You need to be self-motivated.
+Our group is (and is expected to be) conducting research at an international level. We have high standards. Your work needs to be competitive with graduate students in top universities in the world. This is going to be hard work. You will need to read many research papers. You will need to write many research papers. There is no guarantee you will finish a thesis "on time". You are expected to be independent and self motivated. I will push you to do good work, and provide the conditions needed for it. But I won't pressure you with deadlines etc. You will have to be self-motivated to be successful in our lab.
 
 # Bachelor and Master projects
 ### Bachelor/Master projects for ETH Zurich students
