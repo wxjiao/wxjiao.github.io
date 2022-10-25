@@ -20,7 +20,7 @@ Here is some information on ways to apply:
 3. If you have (or expect to obtain soon) a M.Sc. degree and are interested in NLP for Education, consider applying to the [ETH Zurich - EPFL Joint Doctoral Program in the Learning Sciences](https://lse.ethz.ch/doctoral-program-in-learning-sciences.html) and mention my name in your application. The program accepts applications twice a year.
 5. If you are a bachelor student **without** a M.Sc. degree, you may apply to the [Direct Doctorate in Computer Science](https://inf.ethz.ch/doctorate/direct-doctorate-computer-science.html) and express specific interest in our research group in your application. You should also tag [Ryan Cotterell](https://rycolab.io/) in your application if you are interested in NLP.
 
-Finally, if you cannot apply to any of the above application deadlines, you can also submit an application through the [department’s admission system](https://www.inf.ethz.ch/phd-application) at any time. In this case, it is okay to send us an email stating your interest with your CV.
+Finally, if you cannot apply to any of the above application deadlines, you can also submit an application through the [department’s admission system](https://www.inf.ethz.ch/phd-application) at any time. In this case, it is okay to send Mrinmaya an email stating your interest with your CV.
 
 We can also host PhD students as a part of the [Ellis PhD program](https://ellis.eu/).
 
