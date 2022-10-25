@@ -24,6 +24,9 @@ Finally, if you cannot apply to any of the above application deadlines, you can 
 
 We can also host PhD students as a part of the [Ellis PhD program](https://ellis.eu/).
 
+### Note to prospective students
+Our group is (and is expected to) conducting research at an international level. We have high standards. You and your work need to be competitive with graduate students in top universities in the world. This is going to be hard work. You will need to read many research papers. You will need to write many research papers. There is no guarantee you will finish a thesis "on time". You are expected to be independent and self motivated. I will push you to do good work, and provide the conditions needed for it. But I won't pressure you with deadlines etc. You need to be self-motivated.
+
 # Bachelor and Master projects
 ### Bachelor/Master projects for ETH Zurich students
 If you are a Master student at ETH Zurich looking for a thesis project, contact Mrinmaya (or any group member) by email with your CV and transcripts. We maintain a list of available thesis projects [here](https://docs.google.com/document/d/1V6VXXAUmfEURldrbPtCiIFAOW4UKoXT49fTvTSOsRTk/edit#). However, you can also propose your own topic.
