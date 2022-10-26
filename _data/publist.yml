@@ -4,16 +4,16 @@
   authors: Zhijing Jin, Abhinav Lalwani, Tejas Vaidhya, Xiaoyu Shen, Yiwen Ding, Zhiheng Lyu, Mrinmaya Sachan, Rada Mihalcea and Bernhard Schölkopf
   link:
     url: https://arxiv.org/abs/2202.13758
-    display: arXiv:2202.13758
+    display: Findings of EMNLP 2022
   highlight: 1
 
-- title: "Understanding Knowledge Integration in Language Models with Graph Convolutions"
+- title: "What has been Enhanced in my Knowledge-Enhanced Language Model?"
   image: gcs.png
   description: We propose a probe model based on graph convolutions to interpret knowledge-enhanced LMs and understand what kind of knowledge is integrated into these models.
   authors: Yifan Hou, Guoji Fu and Mrinmaya Sachan
   link:
     url: https://arxiv.org/abs/2202.00964
-    display: arxiv:2202.00964
+    display: Findings of EMNLP 2022
   codelink:
     url: https://github.com/yifan-h/GCS_KI
     display: Code
@@ -79,7 +79,7 @@
   authors: Zhao Meng, Yihan Dong, Mrinmaya Sachan and Roger Wattenhofer
   link:
     url: https://arxiv.org/pdf/2107.07610.pdf
-    display: NAACL 2022 (Findings)
+    display: Findings of NAACL 2022
   highlight: 1
 
 - title: "Slangvolution: A Causal Analysis of Semantic Change and Frequency Dynamics in Slang"
@@ -97,7 +97,7 @@
   authors: Shehzaad Dhuliawala, Leonard Adolphs, Rajarshi Das and Mrinmaya Sachan
   link:
     url: https://arxiv.org/pdf/2203.10623.pdf
-    display: ACL 2022 (Findings)
+    display: Findings of ACL 2022
   highlight: 1
 
 - title: "Case-based Reasoning for Better Generalization in Text-Adventure Games"
