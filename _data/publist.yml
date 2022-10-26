@@ -1,3 +1,12 @@
+- title: "Autoregressive Structured Prediction with Language Models"
+  image: autoregressive.png
+  description: We introduce a new reasoning task and dataset of Logical fallacy detection.
+  authors: Tianyu Liu, Yuchen Eleanor Jiang, Nicholas Monath, Ryan Cotterell and Mrinmaya Sachan
+  link:
+    url: https://arxiv.org/abs/2202.13758
+    display: Findings of EMNLP 2022
+  highlight: 1
+
 - title: "Adapters for Enhanced Modeling of Multilingual Knowledge and Text"
   image: adapter.png
   description: We introduce a new reasoning task and dataset of Logical fallacy detection.
