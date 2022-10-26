@@ -1,6 +1,6 @@
 - title: "A Causal Framework to Quantify the Robustness of Mathematical Reasoning with Language Models"
   image: causal_robustness.png
-  description: We introduce a new reasoning task and dataset of Logical fallacy detection.
+  description: We propose a causal framework to quantify the robustness of the reasoning abilities of language models.
   authors: Alessandro Stolfo, Zhijing Jin, Kumar Shridhar, Bernhard Schölkopf and Mrinmaya Sachan
   link:
     url: https://arxiv.org/abs/2210.12023
@@ -9,7 +9,7 @@
 
 - title: "LongtoNotes: OntoNotes with Longer Coreference Chains"
   image: longtonotes.png
-  description: We introduce a new reasoning task and dataset of Logical fallacy detection.
+  description: We reconstruct a long document coreference corpus out of Ontonotes, arriving at a more challenging coreference task and dataset.
   authors: Kumar Shridhar, Nicholas Monath, Raghuveer Thirukovalluru, Alessandro Stolfo, Manzil Zaheer, Andrew McCallum and Mrinmaya Sachan
   link:
     url: https://arxiv.org/abs/2210.03650
@@ -18,7 +18,7 @@
 
 - title: "Automatic Generation of Socratic Subquestions for Teaching Math Word Problems"
   image: socratic.png
-  description: We introduce a new reasoning task and dataset of Logical fallacy detection.
+  description: We use reinforcement learning and language models to generate sequential subquestions for guiding (machines/humans) in math word problem-solving.
   authors: Kumar Shridhar, Jakub Macina, Mennatallah El-Assady, Tanmay Sinha, Manu Kapur and Mrinmaya Sachan
   link:
     url: https://arxiv.org/abs/2202.13758
@@ -27,7 +27,7 @@
 
 - title: "Beyond prompting: Making Pre-trained Language Models Better Zero-shot Learners by Clustering Representations"
   image: clusterprompt.png
-  description: We introduce a new reasoning task and dataset of Logical fallacy detection.
+  description: We show that zero-shot text classification can be improved simply by clustering texts in the embedding spaces of LMs.
   authors: Yu Fei, Zhao Meng, Ping Nie, Roger Wattenhofer and Mrinmaya Sachan
   link:
     url: https://arxiv.org/abs/2202.13758
@@ -36,7 +36,7 @@
 
 - title: "Differentially Private Language Models for Secure Data Sharing"
   image: dprivacy.png
-  description: We introduce a new reasoning task and dataset of Logical fallacy detection.
+  description: We generate synthetic datasets from differentially private LMs as a solution for sharing textual data while protecting the privacy of users.
   authors: Justus Mattern, Zhijing Jin, Benjamin Weggenmann, Bernhard Schölkopf and Mrinmaya Sachan
   link:
     url: https://arxiv.org/abs/2202.13758
@@ -45,7 +45,7 @@
 
 - title: "Autoregressive Structured Prediction with Language Models"
   image: autoregressive.png
-  description: We introduce a new reasoning task and dataset of Logical fallacy detection.
+  description: We model structures as an autoregressive sequence of actions with LMs and achieve strong results on various sturctured prediction problems.
   authors: Tianyu Liu, Yuchen Eleanor Jiang, Nicholas Monath, Ryan Cotterell and Mrinmaya Sachan
   link:
     url: https://arxiv.org/abs/2202.13758
@@ -54,7 +54,7 @@
 
 - title: "Adapters for Enhanced Modeling of Multilingual Knowledge and Text"
   image: adapter.png
-  description: We introduce a new reasoning task and dataset of Logical fallacy detection.
+  description: We enhance multilingual LMs with knowledge from multilingual knowledge graphs to tackle language and knowledge graph tasks across many languages.
   authors: Yifan Hou, Wenxiang Jiao, Meizhen Liu, Carl Allen, Zhaopeng Tu and Mrinmaya Sachan
   link:
     url: https://arxiv.org/abs/2210.13617
