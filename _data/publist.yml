@@ -1,3 +1,21 @@
+- title: "A Causal Framework to Quantify the Robustness of Mathematical Reasoning with Language Models"
+  image: causal_robustness.png
+  description: We introduce a new reasoning task and dataset of Logical fallacy detection.
+  authors: Alessandro Stolfo, Zhijing Jin, Kumar Shridhar, Bernhard Schölkopf and Mrinmaya Sachan
+  link:
+    url: https://arxiv.org/abs/2210.12023
+    display: arxiv:2210.12023
+  highlight: 1
+
+- title: "LongtoNotes: OntoNotes with Longer Coreference Chains"
+  image: longtonotes.png
+  description: We introduce a new reasoning task and dataset of Logical fallacy detection.
+  authors: Kumar Shridhar, Nicholas Monath, Raghuveer Thirukovalluru, Alessandro Stolfo, Manzil Zaheer, Andrew McCallum and Mrinmaya Sachan
+  link:
+    url: https://arxiv.org/abs/2210.03650
+    display: arxiv:2210.03650
+  highlight: 1
+
 - title: "Automatic Generation of Socratic Subquestions for Teaching Math Word Problems"
   image: socratic.png
   description: We introduce a new reasoning task and dataset of Logical fallacy detection.
