@@ -48,7 +48,7 @@
   description: We model structures as an autoregressive sequence of actions with LMs and achieve strong results on various sturctured prediction problems.
   authors: Tianyu Liu, Yuchen Eleanor Jiang, Nicholas Monath, Ryan Cotterell and Mrinmaya Sachan
   link:
-    url: https://arxiv.org/abs/2202.13758
+    url: https://arxiv.org/abs/2210.14698
     display: Findings of EMNLP 2022 (Short paper)
   highlight: 1
 
