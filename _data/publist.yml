@@ -18,7 +18,7 @@
 
 - title: "Investigating the Role of Centering Theory in the Context of Neural Coreference Resolution Systems"
   image: ct.png
-  description: We reconstruct a long document coreference corpus out of Ontonotes, arriving at a more challenging coreference task and dataset.
+  description: we investigate the connection between centering theory and modern coreference resolution systems.
   authors: Yuchen Eleanor Jiang, Ryan Cotterell and Mrinmaya Sachan
   link:
     url: https://arxiv.org/abs/2210.14678
@@ -27,7 +27,7 @@
 
 - title: "A Bilingual Parallel Corpus with Discourse Annotations"
   image: bwb.png
-  description: We reconstruct a long document coreference corpus out of Ontonotes, arriving at a more challenging coreference task and dataset.
+  description: We introduce a dataset of Chinese novels translated by experts into English, and an annotated test set to probe the ability of machine translation systems to model various discourse phenomena.
   authors: Yuchen Eleanor Jiang, Tianyu Liu, Shuming Ma, Dongdong Zhang, Mrinmaya Sachan and Ryan Cotterell
   link:
     url: https://arxiv.org/abs/2210.14667
