@@ -59,9 +59,9 @@ ___
 |&nbsp;&nbsp;2|&nbsp;29.09.22&nbsp;&nbsp;&nbsp;&nbsp;|Discussion Forum Activity|||
 |&nbsp;&nbsp;3|&nbsp;06.10.22&nbsp;|<b>Educational Data Mining (Part 1)</b><br>(Prediction + Unsupervised structure discovery)||Assignment 1.1 Released|
 |&nbsp;&nbsp;4|&nbsp;13.10.22&nbsp;&nbsp;&nbsp;&nbsp;|Work on Assignment 1.1 + Discussion Forum Activity|||
-|&nbsp;&nbsp;5|&nbsp;20.10.22&nbsp;|<b>Educational Data Mining (Part 2)</b><br>(Relationship Mining)||Assignment 1.2 Released|
+|&nbsp;&nbsp;5|&nbsp;20.10.22&nbsp;|<b>Educational Data Mining (Part 2)</b><br>(Correlation Mining + Causal Relationship Mining)||Assignment 1.2 Released|
 |&nbsp;&nbsp;6|&nbsp;27.10.22&nbsp;&nbsp;&nbsp;&nbsp;|Work on Assignment 1.2 + Discussion Forum Activity|||
-|&nbsp;&nbsp;7|&nbsp;03.11.22&nbsp;|<b>AIED Tools and Applications</b>|||
+|&nbsp;&nbsp;7|&nbsp;03.11.22&nbsp;|<b>AIED Applications (Content Curation + Dialog Tutoring)</b>|||
 |&nbsp;&nbsp;8|&nbsp;10.11.22&nbsp;&nbsp;&nbsp;&nbsp;|Discussion Forum Activity|||
 |&nbsp;&nbsp;9|&nbsp;17.11.22&nbsp;|<b>Personalization (Part 1)</b><br>(Learner Modeling and Knowledge Tracing)||Assignment 2.1 Released|
 |&nbsp;&nbsp;10|&nbsp;24.11.22&nbsp;&nbsp;&nbsp;&nbsp;|Work on Assignment 2.1 + Discussion Forum Activity|||
