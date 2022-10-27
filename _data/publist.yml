@@ -102,7 +102,7 @@
 
 - title: "Rule-Based but Flexible? Evaluating and Improving Language Models as Accounts of Human Moral Judgment"
   image: moral.png
-  description: We present a novel challenge set that highlights the flexibility of the human moral mind, analyze the performance of language models on it, and proposed a Moral Chain-of-Thought prompting strategy.
+  description: We present a novel challenge set that highlights the flexibility of the human moral mind, analyze the performance of language models on it, and propose a Moral Chain-of-Thought prompting strategy.
   authors: Zhijing Jin, Sydney Levine, Fernando Gonzalez Adauto, Ojasv Kamal, Maarten Sap, Mrinmaya Sachan, Rada Mihalcea, Joshua B. Tenenbaum and Bernhard Schölkopf
   link:
     url: https://arxiv.org/abs/2210.01478
