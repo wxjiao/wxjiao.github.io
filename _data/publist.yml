@@ -39,7 +39,7 @@
   description: We generate synthetic datasets from differentially private LMs as a solution for sharing textual data while protecting the privacy of users.
   authors: Justus Mattern, Zhijing Jin, Benjamin Weggenmann, Bernhard Schölkopf and Mrinmaya Sachan
   link:
-    url: https://arxiv.org/abs/2202.13758
+    url: https://arxiv.org/abs/2210.13918
     display: EMNLP 2022
   highlight: 1
 
