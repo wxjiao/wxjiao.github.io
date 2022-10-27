@@ -67,7 +67,7 @@
   authors: Tianyu Liu, Yuchen Eleanor Jiang, Nicholas Monath, Ryan Cotterell and Mrinmaya Sachan
   link:
     url: https://arxiv.org/abs/2210.14698
-    display: Findings of EMNLP 2022 (Short paper)
+    display: EMNLP 2022 (Findings, Short paper)
   highlight: 1
 
 - title: "Adapters for Enhanced Modeling of Multilingual Knowledge and Text"
@@ -76,7 +76,7 @@
   authors: Yifan Hou, Wenxiang Jiao, Meizhen Liu, Carl Allen, Zhaopeng Tu and Mrinmaya Sachan
   link:
     url: https://arxiv.org/abs/2210.13617
-    display: Findings of EMNLP 2022
+    display: EMNLP 2022 (Findings)
   highlight: 1
 
 - title: "Logical Fallacy Detection"
@@ -85,7 +85,7 @@
   authors: Zhijing Jin, Abhinav Lalwani, Tejas Vaidhya, Xiaoyu Shen, Yiwen Ding, Zhiheng Lyu, Mrinmaya Sachan, Rada Mihalcea and Bernhard Schölkopf
   link:
     url: https://arxiv.org/abs/2202.13758
-    display: Findings of EMNLP 2022
+    display: EMNLP 2022 (Findings)
   highlight: 1
 
 - title: "What has been Enhanced in my Knowledge-Enhanced Language Model?"
@@ -94,7 +94,7 @@
   authors: Yifan Hou, Guoji Fu and Mrinmaya Sachan
   link:
     url: https://arxiv.org/abs/2202.00964
-    display: Findings of EMNLP 2022
+    display: EMNLP 2022 (Findings)
   codelink:
     url: https://github.com/yifan-h/GCS_KI
     display: Code
@@ -160,7 +160,7 @@
   authors: Zhao Meng, Yihan Dong, Mrinmaya Sachan and Roger Wattenhofer
   link:
     url: https://arxiv.org/pdf/2107.07610.pdf
-    display: Findings of NAACL 2022
+    display: NAACL 2022 (Findings)
   highlight: 1
 
 - title: "Slangvolution: A Causal Analysis of Semantic Change and Frequency Dynamics in Slang"
@@ -178,7 +178,7 @@
   authors: Shehzaad Dhuliawala, Leonard Adolphs, Rajarshi Das and Mrinmaya Sachan
   link:
     url: https://arxiv.org/pdf/2203.10623.pdf
-    display: Findings of ACL 2022
+    display: ACL 2022 (Findings)
   highlight: 1
 
 - title: "Case-based Reasoning for Better Generalization in Text-Adventure Games"
@@ -214,7 +214,7 @@
   authors: Faeze Brahman, Meng Huang, Oyvind Tafjord, Chao Zhao, Mrinmaya Sachan and Snigdha Chaturvedi
   link:
     url: https://arxiv.org/abs/2109.05438
-    display: Findings of EMNLP 2021
+    display: EMNLP 2021 (Findings)
   highlight: 1
 
 - title: "Differentiable Subset Pruning of Transformer Heads"
@@ -235,7 +235,7 @@
   authors: Yifan Hou and Mrinmaya Sachan
   link:
     url: https://arxiv.org/abs/2105.02629
-    display: ACL (2021)
+    display: ACL 2021
   codelink:
     url: https://github.com/yifan-h/Graph_Probe-Birds_Eye
     display: Code
@@ -247,7 +247,7 @@
   authors: Raghuveer Thirukovalluru, Nicholas Monath, Kumar Shridhar, Manzil Zaheer, Mrinmaya Sachan and Andrew McCallum
   link:
     url: https://aclanthology.org/2021.findings-acl.343.pdf
-    display: Findings of ACL (2021)
+    display: ACL 2021 (Findings)
   highlight: 1
 
 - title: "How Good Is NLP? A Sober Look at NLP Tasks through the Lens of Social Impact"
@@ -256,7 +256,7 @@
   authors: Zhijing Jin, Geeticka Chauhan, Brian Tse, Mrinmaya Sachan and Rada Mihalcea
   link:
     url: https://arxiv.org/abs/2106.02359
-    display: Findings of ACL (2021)
+    display: ACL 2021 (Findings)
   highlight: 1
 
 - title: "Efficient Text-based Reinforcement Learning by Jointly Leveraging State and Commonsense Graph Representations"
@@ -265,7 +265,7 @@
   authors: Keerthiram Murugesan, Mattia Atzeni, Pavan Kapanipathi,Kartik Talamadupula, Mrinmaya Sachan and Murray Campbell
   link:
     url: https://aclanthology.org/2021.acl-short.91.pdf
-    display: ACL Short (2021)
+    display: ACL 2021 (Short paper)
   highlight: 1
 
 - title: "Text-based RL Agents with Commonsense Knowledge: New Challenges, Environments and Baselines"
@@ -382,7 +382,7 @@
   authors: Mrinmaya Sachan, Avinava Dubey and Eric P. Xing
   link:
     url: https://arxiv.org/pdf/1602.04375v2.pdf
-    display: ACL 2016 (Short)
+    display: ACL 2016 (Short paper)
   highlight: 1
 
 - title: "Machine Comprehension using Rich Semantic Representations"
@@ -391,7 +391,7 @@
   authors: Mrinmaya Sachan and Eric P. Xing
   link:
     url: https://www.aclweb.org/anthology/P16-2079.pdf
-    display: ACL 2016 (Short)
+    display: ACL 2016 (Short paper)
   highlight: 1
 
 - title: "Learning Concept Taxonomies from Multi-modal Data"
