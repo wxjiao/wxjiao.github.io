@@ -106,7 +106,7 @@
   authors: Zhijing Jin, Sydney Levine, Fernando Gonzalez Adauto, Ojasv Kamal, Maarten Sap, Mrinmaya Sachan, Rada Mihalcea, Joshua B. Tenenbaum and Bernhard Schölkopf
   link:
     url: https://arxiv.org/abs/2210.01478
-    display: NeurIPS 2022 (Oral)
+    display: NeurIPS 2022 (Oral) / CogSci 2022 (Disciplinary Diversity and Integration Award)
   highlight: 1
 
 - title: "Learning the Transformer Kernel"
@@ -257,6 +257,9 @@
   link:
     url: https://arxiv.org/abs/2106.02359
     display: ACL 2021 (Findings)
+  codelink:
+    url: https://www.csail.mit.edu/news/3q-how-good-natural-language-processing
+    display: MIT News Article
   highlight: 1
 
 - title: "Efficient Text-based Reinforcement Learning by Jointly Leveraging State and Commonsense Graph Representations"
