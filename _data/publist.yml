@@ -7,6 +7,15 @@
     display: arxiv:2210.12023
   highlight: 1
 
+- title: "Investigating the Role of Centering Theory in the Context of Neural Coreference Resolution Systems"
+  image: ct.png
+  description: We reconstruct a long document coreference corpus out of Ontonotes, arriving at a more challenging coreference task and dataset.
+  authors: Yuchen Eleanor Jiang, Ryan Cotterell and Mrinmaya Sachan
+  link:
+    url: https://arxiv.org/abs/2210.14678
+    display: arxiv:2210.14678
+  highlight: 1
+
 - title: "LongtoNotes: OntoNotes with Longer Coreference Chains"
   image: longtonotes.png
   description: We reconstruct a long document coreference corpus out of Ontonotes, arriving at a more challenging coreference task and dataset.
