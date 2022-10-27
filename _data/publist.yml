@@ -18,7 +18,7 @@
 
 - title: "Investigating the Role of Centering Theory in the Context of Neural Coreference Resolution Systems"
   image: ct.png
-  description: we investigate the connection between centering theory and modern coreference resolution systems.
+  description: We investigate the connection between Centering theory (a classical theory in discourse) and modern coreference resolution systems.
   authors: Yuchen Eleanor Jiang, Ryan Cotterell and Mrinmaya Sachan
   link:
     url: https://arxiv.org/abs/2210.14678
