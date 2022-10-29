@@ -4,7 +4,7 @@
   authors: Alessandro Stolfo, Zhijing Jin, Kumar Shridhar, Bernhard Schölkopf and Mrinmaya Sachan
   link:
     url: https://arxiv.org/abs/2210.12023
-    display: arxiv:2210.12023
+    display: arxiv:2210.12023 (also at MATHAI Workshop at NeurIPS 22)
   highlight: 1
 
 - title: "LongtoNotes: OntoNotes with Longer Coreference Chains"
@@ -40,7 +40,7 @@
   authors: Kumar Shridhar, Jakub Macina, Mennatallah El-Assady, Tanmay Sinha, Manu Kapur and Mrinmaya Sachan
   link:
     url: https://arxiv.org/abs/2202.13758
-    display: EMNLP 2022
+    display: EMNLP 2022 (also at MATHAI Workshop at NeurIPS 22)
   highlight: 1
 
 - title: "Beyond prompting: Making Pre-trained Language Models Better Zero-shot Learners by Clustering Representations"
