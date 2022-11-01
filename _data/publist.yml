@@ -48,7 +48,7 @@
   description: We show that zero-shot text classification can be improved simply by clustering texts in the embedding spaces of LMs.
   authors: Yu Fei, Zhao Meng, Ping Nie, Roger Wattenhofer and Mrinmaya Sachan
   link:
-    url: https://arxiv.org/abs/2202.13758
+    url: https://arxiv.org/abs/2210.16637
     display: EMNLP 2022
   highlight: 1
 
