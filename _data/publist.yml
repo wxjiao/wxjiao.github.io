@@ -32,7 +32,7 @@
   link:
     url: https://arxiv.org/abs/2210.14667
     display: arxiv:2210.14667
-  highlight: 1
+  highlight: 0
 
 - title: "Automatic Generation of Socratic Subquestions for Teaching Math Word Problems"
   image: socratic.png
