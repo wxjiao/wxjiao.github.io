@@ -41,6 +41,9 @@
   link:
     url: https://arxiv.org/abs/2202.13758
     display: EMNLP 2022 (also at MATHAI Workshop at NeurIPS 22)
+  codelink:
+    url: https://github.com/eth-nlped/scaffolding-generation
+    display: Code
   highlight: 1
 
 - title: "Beyond prompting: Making Pre-trained Language Models Better Zero-shot Learners by Clustering Representations"
