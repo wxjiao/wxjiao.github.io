@@ -39,7 +39,7 @@
   description: We use reinforcement learning and language models to generate sequential subquestions for guiding (machines/humans) in math word problem-solving.
   authors: Kumar Shridhar, Jakub Macina, Mennatallah El-Assady, Tanmay Sinha, Manu Kapur and Mrinmaya Sachan
   link:
-    url: https://arxiv.org/abs/2202.13758
+    url: https://arxiv.org/abs/2211.12835
     display: EMNLP 2022 (also at MATHAI Workshop at NeurIPS 22)
   codelink:
     url: https://github.com/eth-nlped/scaffolding-generation
