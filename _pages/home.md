@@ -19,7 +19,7 @@ permalink: /
         </div>
     </div>
 
-
+  <!--
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
@@ -28,6 +28,7 @@ permalink: /
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
+  -->
 </div>
 
 We are a research group in the [Institute for Machine Learning](https://ml.inf.ethz.ch/) within the [Department of Computer Science](https://inf.ethz.ch/) at the [ETH Zurich](https://ethz.ch/). We are also part of the [ETH AI center](https://ai.ethz.ch/), the [Max Planck ETH Center for Learning Systems](https://learning-systems.org/), the [Ellis Society](https://ellis.eu/) and the [ETH Zurich - EPFL Joint Doctoral Program in the Learning Sciences](https://lse.ethz.ch/doctoral-program-in-learning-sciences.html).
