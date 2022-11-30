@@ -39,4 +39,6 @@ Our research spans natural language understanding, neural machine translation (N
 2. Shortcut learning in multilingual pretraining
 3. Knowledge integration and logic reasoning with pretrained language models
 
+We regularly exchange ideas and work with our colleagues in the Machine Translation Group. Particularly, we have maintained a long-term and close cooperation with [Zhaopeng Tu](http://zptu.net/) and [Xing Wang](http://www.xingwang4nlp.com/). 
+
 
