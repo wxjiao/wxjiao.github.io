@@ -1,7 +1,7 @@
 ---
-title: "Mrinmaya's Lab - Home"
+title: "Wenxiang Jiao (焦文祥) - Home"
 layout: homelay
-excerpt: "Mrinmaya's Lab at ETH Zurich."
+excerpt: "Wenxiang's new page."
 sitemap: false
 permalink: /
 ---
