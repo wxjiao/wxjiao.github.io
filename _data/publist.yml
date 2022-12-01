@@ -40,4 +40,14 @@
     display: IEEE/ACM TASLP 2022
   highlight: 1
   
-  
+- title: "Self-training Sampling with Monolingual Data Uncertainty for Neural Machine Translation"
+  image: cover_taslp22_selftrain.jpeg
+  description: We design an uncertainty-based sampling strategy to efficiently exploit the monolingual data for self-training, in which monolingual sentences with higher uncertainty would be sampled with higher probability.
+  authors: Wenxiang Jiao, Xing Wang, Zhaopeng Tu, Shuming Shi, Michael R. Lyu and Irwin King
+  link:
+    url: https://aclanthology.org/2021.acl-long.221.pdf
+    display: ACL 2021
+  codelink:
+    url: https://github.com/wxjiao/UncSamp
+    display: Code
+  highlight: 1
