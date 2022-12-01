@@ -63,3 +63,16 @@
     url: https://github.com/wxjiao/Data-Rejuvenation
     display: Code
   highlight: 1
+  
+- title: "Exploiting Unsupervised Data for Emotion Recognition in Conversations"
+  image: xxx.jpeg
+  description: We Pre-train a COntext-Dependent Encoder (Pre-CODE) on the conversation completion task with unlabled data to boost the performance of conversational emotion recognition task.
+  authors: Wenxiang Jiao, Michael R. Lyu and Irwin King
+  link:
+    url: https://www.aclweb.org/anthology/2020.findings-emnlp.435
+    display: EMNLP 2020 (Findings)
+  codelink:
+    url: https://github.com/wxjiao/Pre-CODE
+    display: Code
+  highlight: 1
+  
