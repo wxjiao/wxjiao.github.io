@@ -17,13 +17,12 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider0.jpeg" alt="Slide 0" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider0.jpeg" alt="Slide 1" />
         </div>
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider1.jpeg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider1.jpeg" alt="Slide 2" />
         </div>
     </div>
-
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
