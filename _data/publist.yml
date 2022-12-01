@@ -30,3 +30,13 @@
     url: https://aclanthology.org/2022.acl-long.185
     display: ACL 2022
   highlight: 1
+
+- title: "Exploiting Inactive Examples for Natural Language Generation with Data Rejuvenation"
+  description: An extended version of data rejuvenation for general NLG tasks, including both machine translation and text summarization.
+  authors: Wenxiang Jiao, Xing Wang, Shilin He, Zhaopeng Tu, Irwin King and Michael R. Lyu
+  link:
+    url: https://ieeexplore.ieee.org/document/9721161
+    display: IEEE/ACM TASLP 2022
+  highlight: 1
+  
+  
