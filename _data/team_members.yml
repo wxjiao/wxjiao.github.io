@@ -6,6 +6,18 @@
   education1: PhD Chinese University of Hong Kong
   education2: BS/MS Nanjing University
 
+- name: Wenxuan Wang
+  photo: wenxuan.jpeg
+  info: PhD student, CUHK
+  number_educ: 1
+  education1: BS HUST
+  
+- name: Jen-tse Huang
+  photo: jentse.jpeg
+  info: PhD student, CUHK
+  number_educ: 1
+  education1: BS PKU
+
 - name: Yifan Hou
   photo: Yifan.jpg
   info: PhD student, SDSC fellow
@@ -13,3 +25,9 @@
   number_educ: 2
   education1: MS CUHK
   education2: BS HUST
+
+- name: Jiarui Li
+  photo: jiarui.jpeg
+  info: MS student, CMU
+  number_educ: 1
+  education1: BS CUHK (Shenzhen)
