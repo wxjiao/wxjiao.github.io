@@ -24,7 +24,7 @@
 
 - title: "Understanding and Improving Sequence-to-Sequence Pretraining for Neural Machine Translation"
   image: cover_acl22_under.png
-  description: We enhance multilingual LMs with knowledge from multilingual knowledge graphs to tackle language and knowledge graph tasks across many languages.
+  description: We point out the discrepancies between Seq2Seq pretraining and NMT finetuning that limit the translation quality (i.e., domain discrepancy) and induce the over-estimation issue (i.e., objective discrepancy), and propose in-domain pretraining and input adaptation as solutions.
   authors: Wenxuan Wang, Wenxiang Jiao, Yongchang Hao, Xing Wang, Shuming Shi, Zhaopeng Tu and Michael R. Lyu
   link:
     url: https://aclanthology.org/2022.acl-long.185
