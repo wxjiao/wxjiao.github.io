@@ -41,7 +41,7 @@
   highlight: 1
   
 - title: "Self-training Sampling with Monolingual Data Uncertainty for Neural Machine Translation"
-  image: cover_taslp22_selftrain.jpeg
+  image: cover_acl21_selftrain.jpeg
   description: We design an uncertainty-based sampling strategy to efficiently exploit the monolingual data for self-training, in which monolingual sentences with higher uncertainty would be sampled with higher probability.
   authors: Wenxiang Jiao, Xing Wang, Zhaopeng Tu, Shuming Shi, Michael R. Lyu and Irwin King
   link:
@@ -49,5 +49,17 @@
     display: ACL 2021
   codelink:
     url: https://github.com/wxjiao/UncSamp
+    display: Code
+  highlight: 1
+
+- title: "Data Rejuvenation: Exploiting Inactive Training Examples for Neural Machine Translation"
+  image: cover_emnlp20_datareju.jpeg
+  description: We introduce data rejuvenation to improve the training of NMT models on large-scale datasets by identifying and re-labeling inactive examples.
+  authors: Wenxiang Jiao, Xing Wang, Shilin He, Irwin King, Michael R. Lyu and Zhaopeng Tu
+  link:
+    url: https://www.aclweb.org/anthology/2020.emnlp-main.176
+    display: EMNLP 2020
+  codelink:
+    url: https://github.com/wxjiao/Data-Rejuvenation
     display: Code
   highlight: 1
