@@ -1,5 +1,5 @@
 - date: Nov 23, 2022
-  headline: "Won <b>Best Paper Award</b> in the <a href='https://sigtyp.github.io/ws2022-mrl.html'><b>MRL 2022 Workshop</b></a> for our paper Adapters for Enhanced Modeling of Multilingual Knowledge and Text (EMNLP 2022 Findings). "
+  headline: "Won <b>Best Paper Award</b> at the <a href='https://sigtyp.github.io/ws2022-mrl.html'><b>MRL Workshop</b></a> at EMNLP 2022 for our paper <a href='https://arxiv.org/pdf/2210.13617.pdf'>Adapters for Enhanced Modeling of Multilingual Knowledge and Text</a>. "
 
 - date: Oct 12, 2022
   headline: "One paper accepted to WMT 2022 for the competition. Congratulations to all the authors!"
@@ -8,7 +8,10 @@
   headline: "One paper accepted to EMNLP 2022 (Findings). Congratulations to all the authors!"
   
 - date: Sep 24, 2022
-  headline: "Won <a href='https://docs.google.com/spreadsheets/d/1NHwPkIK7b5pjTcnZdlH1cxS_orbISjdOv5V12aHj1iY/edit#gid=1337958767'><b>1st place (team Borderline)</b></a> at WMT2022 Large-Scale Machine Translation Evaluation for African Languages (Constrained Track)."
+  headline: "Won <a href='https://www.statmt.org/wmt22/pdf/2022.wmt-1.72.pdf'><b>1st place</b></a> at WMT2022 Large-Scale Machine Translation Evaluation for African Languages (Constrained Track) in terms of both automatic and human evaluation."
+
+- date: Sep 24, 2022
+  headline: "Wenxiang gaved an industrial talk at <a href='http://tcci.ccf.org.cn/conference/2022/indtalks.php'><b>NLPCC 2022</b></a>."
   
 - date: Feb 24, 2022
   headline: "One paper accepted to ACL 2022. Congratulations to all the authors!"
