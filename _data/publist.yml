@@ -4,9 +4,22 @@
   authors: Yifan Hou, Wenxiang Jiao, Meizhen Liu, Carl Allen, Zhaopeng Tu and Mrinmaya Sachan
   link:
     url: https://arxiv.org/abs/2210.13617
-    display: EMNLP 2022 (Findings) / Best paper at the Multilingual Representation Learning (MRL) Workshop 
+    display: EMNLP 2022 (Findings) / Best Paper Award at MRL Workshop 
   codelink:
-    url: https://github.com/yifan-h/GCS_KI
-    display: Code
+    url: https://github.com/yifan-h/Multilingual_Space
+    display: [Code]
   highlight: 1
 
+- title: "Tencent’s Multilingual Machine Translation System for WMT22 Large-Scale African Languages"
+  image: adapter.png
+  description: We xxx.
+  authors: Wenxiang Jiao, Zhaopeng Tu, Jiarui Li, Wenxuan Wang, Jen-tse Huang and Shuming Shi
+  link:
+    url: https://arxiv.org/abs/2210.09644
+    display: WMT 2022 / 1st Place in the Competition 
+  codelink:
+    url: https://github.com/wxjiao/WMT2022-Large-Scale-African
+    display: [Code]
+  highlight: 1
+  
+  
