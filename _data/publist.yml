@@ -1,15 +1,3 @@
-- title: "Adapters for Enhanced Modeling of Multilingual Knowledge and Text"
-  image: adapter.png
-  description: We enhance multilingual LMs with knowledge from multilingual knowledge graphs to tackle language and knowledge graph tasks across many languages.
-  authors: Yifan Hou, Wenxiang Jiao, Meizhen Liu, Carl Allen, Zhaopeng Tu and Mrinmaya Sachan
-  link:
-    url: https://arxiv.org/abs/2210.13617
-    display: EMNLP 2022 (Findings) / Best Paper Award at MRL Workshop 
-  codelink:
-    url: https://github.com/yifan-h/Multilingual_Space
-    display: Code
-  highlight: 1
-
 - title: "Tencent’s Multilingual Machine Translation System for WMT22 Large-Scale African Languages"
   image: cover_wmt22.jpeg
   description: We adopt data augmentation, distributionally robust optimization, and language family grouping, respectively, to develop our multilingual neural machine translation (MNMT) models for African languages. 
@@ -22,4 +10,23 @@
     display: Code
   highlight: 1
   
-  
+- title: "Adapters for Enhanced Modeling of Multilingual Knowledge and Text"
+  image: adapter.png
+  description: We enhance multilingual LMs with knowledge from multilingual knowledge graphs to tackle language and knowledge graph tasks across many languages.
+  authors: Yifan Hou, Wenxiang Jiao, Meizhen Liu, Carl Allen, Zhaopeng Tu and Mrinmaya Sachan
+  link:
+    url: https://arxiv.org/abs/2210.13617
+    display: EMNLP 2022 (Findings) / Best Paper Award at MRL Workshop 
+  codelink:
+    url: https://github.com/yifan-h/Multilingual_Space
+    display: Code
+  highlight: 1
+
+- title: "Understanding and Improving Sequence-to-Sequence Pretraining for Neural Machine Translation"
+  image: cover_acl22_under.png
+  description: We enhance multilingual LMs with knowledge from multilingual knowledge graphs to tackle language and knowledge graph tasks across many languages.
+  authors: Wenxuan Wang, Wenxiang Jiao, Yongchang Hao, Xing Wang, Shuming Shi, Zhaopeng Tu and Michael R. Lyu
+  link:
+    url: https://aclanthology.org/2022.acl-long.185
+    display: ACL 2022
+  highlight: 1
