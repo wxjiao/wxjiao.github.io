@@ -74,5 +74,17 @@
   codelink:
     url: https://github.com/wxjiao/Pre-CODE
     display: Code
-  highlight: 1
+  highlight: 0
+  
+  - title: "Real-Time Emotion Recognition via Attention Gated Hierarchical Memory Network"
+  image: xxx.jpeg
+  description: We propose an Attention Gated Hierarchical Memory Network (AGHMN) to build the memory bank carefully for capturing historical context and summarize the memories appropriately for real-time conversational emotion recognition.
+  authors: Wenxiang Jiao, Michael R. Lyu and Irwin King
+  link:
+    url: https://aaai.org/ojs/index.php/AAAI/article/view/6309
+    display: AAAI 2020
+  codelink:
+    url: https://github.com/wxjiao/AGHMN
+    display: Code
+  highlight: 0
   
