@@ -10,6 +10,7 @@ permalink: /
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel" data-slide-to="1"></li>
     </ol>
 
     <!-- Items -->
@@ -17,9 +18,11 @@ permalink: /
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider0.jpeg" alt="Slide 0" />
         </div>
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider1.jpeg" alt="Slide 1" />
+        </div>
     </div>
 
-  <!--
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
@@ -28,7 +31,6 @@ permalink: /
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-  -->
 </div>
 
 This is my research group in the [Natural Language Processing Center](https://ai.tencent.com/ailab/nlp/en/index.html) within the [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index).
