@@ -1,7 +1,7 @@
 ---
-title: "Mrinmaya's Lab - Team"
+title: "Wenxiang Jiao (焦文祥) - Team"
 layout: gridlay
-excerpt: "Mrinmaya's Lab: Team members"
+excerpt: "Wenxiang's new page: Team members"
 sitemap: false
 permalink: /team/
 ---
