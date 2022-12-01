@@ -88,3 +88,15 @@
     display: Code
   highlight: 0
   
+  - title: "HiGRU: Hierarchical Gated Recurrent Units for Utterance-Level Emotion Recognition"
+  image: xxx.jpeg
+  description: We propose an Attention Gated Hierarchical Memory Network (AGHMN) to build the memory bank carefully for capturing historical context and summarize the memories appropriately for real-time conversational emotion recognition.
+  authors: Wenxiang Jiao, Haiqin Yang, Irwin King and Michael R. Lyu
+  link:
+    url: https://www.aclweb.org/anthology/N19-1037
+    display: NAACL 2019
+  codelink:
+    url: https://github.com/wxjiao/HiGRUs
+    display: Code
+  highlight: 0
+  
