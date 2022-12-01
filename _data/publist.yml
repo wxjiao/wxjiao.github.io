@@ -23,7 +23,7 @@
   highlight: 1
 
 - title: "Understanding and Improving Sequence-to-Sequence Pretraining for Neural Machine Translation"
-  image: cover_acl22_under.png
+  image: cover_acl22_under.jpeg
   description: We point out the discrepancies between Seq2Seq pretraining and NMT finetuning that limit the translation quality (i.e., domain discrepancy) and induce the over-estimation issue (i.e., objective discrepancy), and propose in-domain pretraining and input adaptation as solutions.
   authors: Wenxuan Wang, Wenxiang Jiao, Yongchang Hao, Xing Wang, Shuming Shi, Zhaopeng Tu and Michael R. Lyu
   link:
