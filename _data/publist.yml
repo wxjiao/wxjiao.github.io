@@ -88,7 +88,7 @@
     display: Code
   highlight: 0
   
-  - title: "HiGRU: Hierarchical Gated Recurrent Units for Utterance-Level Emotion Recognition"
+  - title: "HiGRU - Hierarchical Gated Recurrent Units for Utterance-Level Emotion Recognition"
   image: xxx.jpeg
   description: We propose a Hierarchical Gated Recurrent Unit (HiGRU) framework with a lower-level GRU to model the word-level inputs and an upper-level GRU to capture the contexts of utterance-level embeddings for conversational emotion recognition.
   authors: Wenxiang Jiao, Haiqin Yang, Irwin King and Michael R. Lyu
