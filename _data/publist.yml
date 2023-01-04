@@ -1,6 +1,6 @@
 - title: "Is ChatGPT A Good Translator? A Preliminary Study"
   image: cover_tech_chatgpt.png
-  description: We provide a preliminary evaluation of ChatGPT for machine translation, including translation prompt, multilingual translation, and translation robustness. 
+  description: We find that ChatGPT performs competitively with commercial translation products (e.g., Google Translate) on high-resource European languages and is potentially a good translator for spoken language.
   authors: Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Xing Wang and Zhaopeng Tu
   link:
     url: https://wxjiao.github.io/downloads/tech_chatgpt_arxiv.pdf
