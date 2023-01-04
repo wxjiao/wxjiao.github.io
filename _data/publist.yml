@@ -1,3 +1,12 @@
+- title: "Is ChatGPT A Good Translator? A Preliminary Study"
+  image: cover_wmt22.jpeg
+  description: We provide a preliminary evaluation of ChatGPT for machine translation, including translation prompt, multilingual translation, and translation robustness. 
+  authors: Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Xing Wang and Zhaopeng Tu
+  link:
+    url: https://wxjiao.github.io/downloads/tech_chatgpt_arxiv.pdf
+    display: Technical Report 
+  highlight: 1
+
 - title: "Tencent’s Multilingual Machine Translation System for WMT22 Large-Scale African Languages"
   image: cover_wmt22.jpeg
   description: We adopt data augmentation, distributionally robust optimization, and language family grouping, respectively, to develop our multilingual neural machine translation (MNMT) models for African languages. 
