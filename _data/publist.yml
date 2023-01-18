@@ -4,7 +4,10 @@
   authors: Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Xing Wang and Zhaopeng Tu
   link:
     url: https://wxjiao.github.io/downloads/tech_chatgpt_arxiv.pdf
-    display: Technical Report 
+    display: Technical Report
+  codelink:
+    url: https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator
+    display: Code
   highlight: 1
 
 - title: "Tencent’s Multilingual Machine Translation System for WMT22 Large-Scale African Languages"
