@@ -1,7 +1,7 @@
 - title: "Scaling Back-Translation with Domain Text Generation for Sign Language Gloss Translation"
   image: xxx.jpeg
   description: We propose a Prompt based domain text Generation (PGEN) approach to produce the large-scale in-domain spoken language text data so as to scale back-translation for sign language translation.
-  authors: Jinhui Ye*, Wenxiang Jiao*, Xing Wang and Zhaopeng Tu
+  authors: Jinhui Ye, Wenxiang Jiao (co-first), Xing Wang and Zhaopeng Tu
   link:
     url: https://arxiv.org/pdf/2210.07054.pdf
     display: EACL 2023
