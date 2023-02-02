@@ -33,13 +33,14 @@ permalink: /
   </a>
 </div>
 
-This is my research group in the [Natural Language Processing Center](https://ai.tencent.com/ailab/nlp/en/index.html) within the [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index).
-I am now working at Tencent AI Lab as a senior researcher. I received my Ph.D degree from the [Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) in 2021, under the supervision of [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home) and [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Before that, I received my Bachelor degree and Mphil degree at [Nanjing University](https://www.nju.edu.cn) in 2015 and 2017, respectively.
+Currently, I'm working at Tencent AI Lab as a senior researcher.
+I received my Ph.D degree from the [Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) in 2021, under the supervision of [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home) and [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Before that, I received my Bachelor degree and Mphil degree at [Nanjing University](https://www.nju.edu.cn) in 2015 and 2017, respectively.
 
-Our research spans natural language understanding, neural machine translation (NMT), multilingual pretraining, knowledge representation and reasoning. Our current focus areas include:
-1. Zero-shot translation in multilingual NMT
-2. Shortcut learning in multilingual pretraining
-3. Knowledge integration and logic reasoning with pretrained language models
+This is my research group in the [Natural Language Processing Center](https://ai.tencent.com/ailab/nlp/en/index.html) within the [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index).
+Our research spans natural language understanding, machine translation, multilingual pretraining, knowledge representation and reasoning. Our current focus areas include:
+1. Shortcut issues in multilingual pretraining and translation
+2. Knowledge integration and logic reasoning with pretrained language models
+3. Assessing and improving large language models (e.g., ChatGPT) for machine translation
 
 We regularly exchange ideas and work with our colleagues in the Machine Translation Group. Particularly, we have maintained a long-term and close cooperation with [Zhaopeng Tu](http://zptu.net/) and [Xing Wang](http://www.xingwang4nlp.com/). 
 
