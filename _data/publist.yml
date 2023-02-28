@@ -12,7 +12,7 @@
   description: We find that ChatGPT performs competitively with commercial translation products (e.g., Google Translate) on high-resource European languages and is potentially a good translator for spoken language.
   authors: Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Xing Wang and Zhaopeng Tu
   link:
-    url: https://wxjiao.github.io/downloads/tech_chatgpt_arxiv.pdf
+    url: https://arxiv.org/abs/2301.08745
     display: Technical Report
   codelink:
     url: https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator
