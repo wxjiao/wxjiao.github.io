@@ -7,12 +7,12 @@
     display: EACL 2023
   highlight: 0
 
-- title: "Is ChatGPT A Good Translator? A Preliminary Study"
+- title: "Is ChatGPT A Good Translator? A Preliminary Study/Yes With GPT-4 As The Engine"
   image: cover_tech_chatgpt.png
-  description: We find that ChatGPT performs competitively with commercial translation products (e.g., Google Translate) on high-resource European languages and is potentially a good translator for spoken language.
+  description: We find that ChatGPT performs competitively with commercial translation products (e.g., Google Translate) on high-resource European languages and also well on spoken language. GPT-4 further bridges the gap of translation performance for even low-resource or distant languages.
   authors: Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Xing Wang and Zhaopeng Tu
   link:
-    url: https://arxiv.org/abs/2301.08745
+    url: https://www.researchgate.net/publication/367359399_Is_ChatGPT_A_Good_Translator_A_Preliminary_Study
     display: Technical Report
   codelink:
     url: https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator
