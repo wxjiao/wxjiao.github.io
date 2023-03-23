@@ -1,3 +1,6 @@
+- date: Mar 23, 2023
+  headline: "Our reproduced Alpaca-style LLaMA-7b model is pushed to HuggingFace model hub (<a href='https://huggingface.co/wxjiao/alpaca-7b'>wxjiao/alpaca-7b</a>). Evaluation on translation data can also be found at <a href='https://github.com/wxjiao/alpaca-mt'>alpaca-mt</a>. "
+
 - date: Mar 14, 2023
   headline: "Our preliminary report concerning ChatGPT for GEC is out: <a href='https://www.researchgate.net/publication/369231936_ChatGPT_or_Grammarly_Evaluating_ChatGPT_on_Grammatical_Error_Correction_Benchmark'>ChatGPT or Grammarly? Evaluating ChatGPT on Grammatical Error Correction Benchmark (v1)</a>. "
 
