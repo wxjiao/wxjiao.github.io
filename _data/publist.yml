@@ -1,6 +1,6 @@
 - title: "ParroT: Translating During Chat Using Large Language Models"
   image: cover_parrot.png
-  description: We find that ChatGPT performs competitively with commercial translation products (e.g., Google Translate) on high-resource European languages and also well on spoken language. GPT-4 further bridges the gap of translation performance for even low-resource or distant languages.
+  description: We propose the ParroT framework to enhance and regulate the translation abilities during chat based on open-sourced LLMs~(i.e., LLaMA-7b) and human written translation and evaluation data. Specifically, ParroT reformulates translation data into the instruction-following style, and introduces a “Hint” field for incorporating extra requirements to regulate the translation process.
   authors: Wenxiang Jiao, Jen-tse Huang, Wenxuan Wang, Xing Wang, Shuming Shi and Zhaopeng Tu
   link:
     url: https://www.researchgate.net/publication/369797448_PARROT_Translating_During_Chat_Using_Large_Language_Models
