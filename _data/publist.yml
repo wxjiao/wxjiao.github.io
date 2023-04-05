@@ -1,3 +1,15 @@
+- title: "ParroT: Translating During Chat Using Large Language Models"
+  image: cover_tech_chatgpt.png
+  description: We find that ChatGPT performs competitively with commercial translation products (e.g., Google Translate) on high-resource European languages and also well on spoken language. GPT-4 further bridges the gap of translation performance for even low-resource or distant languages.
+  authors: Wenxiang Jiao, Jen-tse Huang, Wenxuan Wang, Xing Wang, Shuming Shi and Zhaopeng Tu
+  link:
+    url: https://www.researchgate.net/publication/369797448_PARROT_Translating_During_Chat_Using_Large_Language_Models
+    display: Preprint
+  codelink:
+    url: https://github.com/wxjiao/ParroT/blob/main/README.md
+    display: Code
+  highlight: 1
+
 - title: "ChatGPT or Grammarly? Evaluating ChatGPT on Grammatical Error Correction Benchmark"
   image: xxx.png
   description: We find that ChatGPT tends to change the surface expression of certain phrases or sentence structure while maintaining grammatical correctness. It is severely under-estimated by the automatic evaluation metrics and could be a promising tool for GEC.
