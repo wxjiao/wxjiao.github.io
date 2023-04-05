@@ -1,5 +1,5 @@
 - title: "ParroT: Translating During Chat Using Large Language Models"
-  image: cover_tech_chatgpt.png
+  image: cover_parrot.png
   description: We find that ChatGPT performs competitively with commercial translation products (e.g., Google Translate) on high-resource European languages and also well on spoken language. GPT-4 further bridges the gap of translation performance for even low-resource or distant languages.
   authors: Wenxiang Jiao, Jen-tse Huang, Wenxuan Wang, Xing Wang, Shuming Shi and Zhaopeng Tu
   link:
