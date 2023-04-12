@@ -40,8 +40,11 @@ This is my research group in the [Natural Language Processing Center](https://ai
 Our research spans natural language understanding, machine translation, multilingual pretraining, knowledge representation and reasoning. Our current focus areas include:
 1. Shortcut issues in multilingual pretraining and translation
 2. Knowledge integration and logic reasoning with pretrained language models
-3. Assessing and improving large language models (e.g., ChatGPT) for machine translation
+3. Assessing and improving large language models (e.g., ChatGPT/GPT-4/LLaMA/BLOOM) for machine translation
 
 We regularly exchange ideas and work with our colleagues in the Machine Translation Group. Particularly, we have maintained a long-term and close cooperation with [Zhaopeng Tu](http://zptu.net/) and [Xing Wang](http://www.xingwang4nlp.com/). 
 
+:star: **Highlight Projects** :star:
+- Translating during Chat: https://github.com/wxjiao/ParroT
+- ChatGPT for Translation: https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator
 
