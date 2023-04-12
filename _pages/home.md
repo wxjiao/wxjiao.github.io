@@ -44,7 +44,7 @@ Our research spans natural language understanding, machine translation, multilin
 
 We regularly exchange ideas and work with our colleagues in the Machine Translation Group. Particularly, we have maintained a long-term and close cooperation with [Zhaopeng Tu](http://zptu.net/) and [Xing Wang](http://www.xingwang4nlp.com/). 
 
-:star: **Highlight Projects** :star:
-- Translating during Chat: https://github.com/wxjiao/ParroT
-- ChatGPT for Translation: https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator
+**Highlight Projects**
+- [Translating during Chat: ParroT](https://github.com/wxjiao/ParroT)
+- [Is ChatGPT A Good Translator](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator)
 
