@@ -1,5 +1,8 @@
+- date: May 09, 2023
+  headline: "Our preprint <a href='https://arxiv.org/abs/2305.04118'>Exploring Human-Like Translation Strategy with Large Language Models</a> is out. "
+
 - date: Apr 05, 2023
-  headline: "Our preprint <a href='https://www.researchgate.net/publication/369797448_PARROT_Translating_During_Chat_Using_Large_Language_Models'>PARROT: Translating During Chat Using Large Language Models</a> is out. "
+  headline: "Our preprint <a href='https://arxiv.org/abs/2304.02426'>PARROT: Translating During Chat Using Large Language Models</a> is out. "
 
 - date: Mar 23, 2023
   headline: "Our reproduced Alpaca-style LLaMA-7b model is pushed to HuggingFace model hub (<a href='https://huggingface.co/wxjiao/alpaca-7b'>wxjiao/alpaca-7b</a>). Evaluation on translation data can also be found at <a href='https://github.com/wxjiao/alpaca-mt'>alpaca-mt</a>. "
