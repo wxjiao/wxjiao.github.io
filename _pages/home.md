@@ -42,9 +42,10 @@ Our research spans natural language understanding, machine translation, multilin
 2. Knowledge integration and logic reasoning with pretrained language models
 3. Assessing and improving large language models (e.g., ChatGPT/GPT-4/LLaMA/BLOOM) for machine translation
 
-We regularly exchange ideas and work with our colleagues in the Machine Translation Group. Particularly, we have maintained a long-term and close cooperation with [Zhaopeng Tu](http://zptu.net/) and [Xing Wang](http://www.xingwang4nlp.com/). 
+We regularly exchange ideas and work with our colleagues in the Machine Translation Group. Particularly, we have maintained a long-term and close cooperation with [Zhaopeng Tu](http://zptu.net/), [Xing Wang](http://www.xingwang4nlp.com/), and [Longyue Wang](http://longyuewang.com/). 
 
-**Highlight Projects**
+**Spotlight Projects**
 - [Translating during Chat: ParroT](https://github.com/wxjiao/ParroT)
 - [Is ChatGPT A Good Translator](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator)
+- [Human-Like Translation Strategy: MAPS](https://github.com/zwhe99/MAPS-mt)
 
