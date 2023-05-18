@@ -1,3 +1,15 @@
+- title: "Exploring Human-Like Translation Strategy with Large Language Models"
+  image: xxx.png
+  description: We propose the MAPS framework to enable LLMs (e.g., ChatGPT, Alpaca) to mimic the human translation process by multi-aspect prompting and selection.
+  authors: Zhiwei He, Tian Liang, Wenxiang Jiao, Zhuosheng Zhang, Yujiu Yang, Rui Wang, Zhaopeng Tu, Shuming Shi and Xing Wang
+  link:
+    url: https://arxiv.org/abs/2305.04118
+    display: Preprint
+  codelink:
+    url: https://github.com/zwhe99/MAPS-mt
+    display: Code
+  highlight: 0
+
 - title: "ParroT: Translating During Chat Using Large Language Models"
   image: cover_parrot.png
   description: We propose the ParroT framework to enhance and regulate the translation abilities during chat based on open-sourced LLMs~(i.e., LLaMA-7b) and human written translation and evaluation data. Specifically, ParroT reformulates translation data into the instruction-following style, and introduces a “Hint” field for incorporating extra requirements to regulate the translation process.
