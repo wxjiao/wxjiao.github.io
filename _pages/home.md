@@ -38,7 +38,7 @@ I received my Ph.D degree from the [Chinese University of Hong Kong](https://www
 
 This is my research group in the [Natural Language Processing Center](https://ai.tencent.com/ailab/nlp/en/index.html) within the [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index).
 Our research spans natural language understanding, machine translation (MT), multilingual pretraining, knowledge representation and reasoning, and large language models. Our current focus areas include:
-1. Evaluating large language models like ChatGPT/GPT-4/LLaMA/BLOOM from various aspects (e.g., Translation, GEC)
+1. Evaluating large language models like ChatGPT/GPT-4/LLaMA/BLOOM from various aspects (e.g., MT, GEC)
 2. Exploring intelligence of large language models (e.g., Multi-Agent Debate)
 3. Instruction tuning and aligning of large language models for machine translation
 4. Challenging benchmarks for exposing what large language models cannot do
