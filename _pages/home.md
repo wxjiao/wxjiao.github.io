@@ -37,15 +37,17 @@ Currently, I'm working at Tencent AI Lab as a senior researcher.
 I received my Ph.D degree from the [Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) in 2021, under the supervision of [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home) and [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Before that, I received my Bachelor degree and Mphil degree at [Nanjing University](https://www.nju.edu.cn) in 2015 and 2017, respectively.
 
 This is my research group in the [Natural Language Processing Center](https://ai.tencent.com/ailab/nlp/en/index.html) within the [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index).
-Our research spans natural language understanding, machine translation, multilingual pretraining, knowledge representation and reasoning. Our current focus areas include:
-1. Shortcut issues in multilingual pretraining and translation
-2. Knowledge integration and logic reasoning with pretrained language models
-3. Assessing and improving large language models (e.g., ChatGPT/GPT-4/LLaMA/BLOOM) for machine translation
+Our research spans natural language understanding, machine translation (MT), multilingual pretraining, knowledge representation and reasoning, and large language models. Our current focus areas include:
+1. Evaluating large language models like ChatGPT/GPT-4/LLaMA/BLOOM from various aspects (e.g., Translation, GEC)
+2. Exploring intelligence of large language models (e.g., Multi-Agent Debate)
+3. Instruction tuning and aligning of large language models for machine translation
+4. Challenging benchmarks for exposing what large language models cannot do
 
 We regularly exchange ideas and work with our colleagues in the Machine Translation Group. Particularly, we have maintained a long-term and close cooperation with [Zhaopeng Tu](http://zptu.net/), [Xing Wang](http://www.xingwang4nlp.com/), and [Longyue Wang](http://longyuewang.com/). 
 
 **Spotlight Projects**
-- [Translating during Chat: ParroT](https://github.com/wxjiao/ParroT)
 - [Is ChatGPT A Good Translator](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator)
 - [Human-Like Translation Strategy: MAPS](https://github.com/zwhe99/MAPS-mt)
+- [Multi-Agents Debate: MAD](https://github.com/Skytliang/Multi-Agents-Debate)
+- [Translating during Chat: ParroT](https://github.com/wxjiao/ParroT)
 
