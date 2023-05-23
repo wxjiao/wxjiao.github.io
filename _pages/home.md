@@ -40,8 +40,8 @@ This is my research group in the [Natural Language Processing Center](https://ai
 Our research spans natural language understanding, machine translation (MT), multilingual pretraining, knowledge representation and reasoning, and large language models. Our current focus areas include:
 1. Evaluating large language models like ChatGPT/GPT-4/LLaMA/BLOOM from various aspects (e.g., MT, GEC)
 2. Exploring intelligence of large language models (e.g., Multi-Agent Debate)
-3. Instruction tuning and aligning of large language models for machine translation (e.g., Privacy)
-4. Challenging benchmarks for exposing what large language models cannot do (e.g., OOD Data)
+3. Instruction tuning and aligning of large language models for machine translation
+4. Challenging benchmarks for exposing what large language models cannot do
 
 We regularly exchange ideas and work with our colleagues in the Machine Translation Group. Particularly, we have maintained a long-term and close cooperation with [Zhaopeng Tu](http://zptu.net/), [Xing Wang](http://www.xingwang4nlp.com/), and [Longyue Wang](http://longyuewang.com/). 
 
