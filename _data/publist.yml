@@ -8,7 +8,7 @@
   codelink:
     url: https://github.com/zwhe99/MAPS-mt
     display: Code
-  link:
+  medialink:
     url: https://slator.com/how-large-language-models-mimic-human-translation-process/
     display: Media Report
   highlight: 1
@@ -53,7 +53,7 @@
   codelink:
     url: https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator
     display: Code
-  link:
+  medialink:
     url: https://slator.com/tencent-pits-chatgpt-translation-quality-against-deepl-google-translate/
     display: Media Report
   highlight: 1
