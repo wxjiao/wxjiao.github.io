@@ -1,14 +1,17 @@
 - title: "Exploring Human-Like Translation Strategy with Large Language Models"
-  image: xxx.png
+  image: cover_maps.png
   description: We propose the MAPS framework to enable LLMs (e.g., ChatGPT, Alpaca) to mimic the human translation process by multi-aspect prompting and selection.
-  authors: Zhiwei He, Tian Liang, Wenxiang Jiao, Zhuosheng Zhang, Yujiu Yang, Rui Wang, Zhaopeng Tu, Shuming Shi and Xing Wang
+  authors: Zhiwei He (1), Tian Liang (1), Wenxiang Jiao, Zhuosheng Zhang, Yujiu Yang, Rui Wang, Zhaopeng Tu, Shuming Shi and Xing Wang
   link:
     url: https://arxiv.org/abs/2305.04118
     display: Preprint
   codelink:
     url: https://github.com/zwhe99/MAPS-mt
     display: Code
-  highlight: 0
+  link:
+    url: https://slator.com/how-large-language-models-mimic-human-translation-process/
+    display: Media Report
+  highlight: 1
 
 - title: "ParroT: Translating During Chat Using Large Language Models"
   image: cover_parrot.png
@@ -27,8 +30,8 @@
   description: We find that ChatGPT tends to change the surface expression of certain phrases or sentence structure while maintaining grammatical correctness. It is severely under-estimated by the automatic evaluation metrics and could be a promising tool for GEC.
   authors: Haoran Wu, Wenxuan Wang, Yuxuan Wan, Wenxiang Jiao and Michael R. Lyu
   link:
-    url: https://www.researchgate.net/publication/369231936_ChatGPT_or_Grammarly_Evaluating_ChatGPT_on_Grammatical_Error_Correction_Benchmark
-    display: Technical Report
+    url: https://arxiv.org/abs/2303.13648
+    display: Preprint
   highlight: 0
 
 - title: "Scaling Back-Translation with Domain Text Generation for Sign Language Gloss Translation"
@@ -45,11 +48,14 @@
   description: We find that ChatGPT performs competitively with commercial translation products (e.g., Google Translate) on high-resource European languages and also well on spoken language. GPT-4 further bridges the gap of translation performance for even low-resource or distant languages.
   authors: Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Xing Wang and Zhaopeng Tu
   link:
-    url: https://www.researchgate.net/publication/367359399_Is_ChatGPT_A_Good_Translator_A_Preliminary_Study
-    display: Technical Report
+    url: https://arxiv.org/abs/2301.08745
+    display: Preprint
   codelink:
     url: https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator
     display: Code
+  link:
+    url: https://slator.com/tencent-pits-chatgpt-translation-quality-against-deepl-google-translate/
+    display: Media Report
   highlight: 1
 
 - title: "Tencent’s Multilingual Machine Translation System for WMT22 Large-Scale African Languages"
@@ -92,7 +98,7 @@
   link:
     url: https://ieeexplore.ieee.org/document/9721161
     display: IEEE/ACM TASLP 2022
-  highlight: 1
+  highlight: 0
   
 - title: "Self-training Sampling with Monolingual Data Uncertainty for Neural Machine Translation"
   image: cover_acl21_selftrain.jpeg
@@ -104,7 +110,7 @@
   codelink:
     url: https://github.com/wxjiao/UncSamp
     display: Code
-  highlight: 1
+  highlight: 0
 
 - title: "Data Rejuvenation: Exploiting Inactive Training Examples for Neural Machine Translation"
   image: cover_emnlp20_datareju.jpeg
@@ -116,7 +122,7 @@
   codelink:
     url: https://github.com/wxjiao/Data-Rejuvenation
     display: Code
-  highlight: 1
+  highlight: 0
   
 - title: "Exploiting Unsupervised Data for Emotion Recognition in Conversations"
   image: xxx.jpeg
