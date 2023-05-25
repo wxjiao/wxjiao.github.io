@@ -35,6 +35,7 @@ permalink: /publications/
   <p><em>{{ publi.authors }}</em></p>
   <span><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong> &nbsp; </span>
   <span><strong><a href="{{ publi.codelink.url }}">{{ publi.codelink.display }}</a></strong> &nbsp; </span>
+  <span><strong><a href="{{ publi.medialink.url }}">{{ publi.medialink.display }}</a></strong> &nbsp; </span>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
