@@ -1,3 +1,15 @@
+- title: "ChatGPT an ENFJ, Bard an ISTJ: Empirical Study on Personalities of Large Language Models"
+  image: cover_xxx.png
+  description: As the title suggests.
+  authors: Jen-tse Huang, Wenxuan Wang, Man Ho Lam, Eric John Li, Wenxiang Jiao and Michael R. Lyu
+  link:
+    url: https://arxiv.org/abs/2305.19926
+    display: Preprint
+  codelink:
+    url: https://github.com/cuhk-arise/llmpersonality
+    display: Code
+  highlight: 0
+
 - title: "Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate"
   image: cover_mad.png
   description: We propose and define the Degeneration-of-Thought (DoT) problem in self-reflection, and address it by proposing the Multi-Agent Debate (MAD) framework to explore divergent chain-of-thoughts.
