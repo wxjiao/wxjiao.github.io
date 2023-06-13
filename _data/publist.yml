@@ -58,15 +58,6 @@
     display: Preprint
   highlight: 0
 
-- title: "Scaling Back-Translation with Domain Text Generation for Sign Language Gloss Translation"
-  image: xxx.jpeg
-  description: We propose a Prompt based domain text Generation (PGEN) approach to produce the large-scale in-domain spoken language text data so as to scale back-translation for sign language translation.
-  authors: Jinhui Ye (1), Wenxiang Jiao (1), Xing Wang and Zhaopeng Tu
-  link:
-    url: https://arxiv.org/pdf/2210.07054.pdf
-    display: EACL 2023
-  highlight: 0
-
 - title: "Is ChatGPT A Good Translator? A Preliminary Study/Yes With GPT-4 As The Engine"
   image: cover_tech_chatgpt.png
   description: We find that ChatGPT performs competitively with commercial translation products (e.g., Google Translate) on high-resource European languages and also well on spoken language. GPT-4 further bridges the gap of translation performance for even low-resource or distant languages.
@@ -81,6 +72,24 @@
     url: https://slator.com/tencent-pits-chatgpt-translation-quality-against-deepl-google-translate/
     display: Media Report
   highlight: 1
+
+- title: "kNN-TL: k-Nearest-Neighbor Transfer Learning for Low-Resource Neural Machine Translation"
+  image: xxx.jpeg
+  description: TBD
+  authors: Shudong Liu, Xuebo Liu, Derek F. Wong, Zhaocong Li, Wenxiang Jiao, Lidia S. Chao and Min Zhang
+  link:
+    url: https://tbd.pdf
+    display: ACL 2023
+  highlight: 0
+
+- title: "Scaling Back-Translation with Domain Text Generation for Sign Language Gloss Translation"
+  image: xxx.jpeg
+  description: We propose a Prompt based domain text Generation (PGEN) approach to produce the large-scale in-domain spoken language text data so as to scale back-translation for sign language translation.
+  authors: Jinhui Ye (1), Wenxiang Jiao (1), Xing Wang and Zhaopeng Tu
+  link:
+    url: https://arxiv.org/pdf/2210.07054.pdf
+    display: EACL 2023
+  highlight: 0
 
 - title: "Tencent’s Multilingual Machine Translation System for WMT22 Large-Scale African Languages"
   image: cover_wmt22.jpeg
