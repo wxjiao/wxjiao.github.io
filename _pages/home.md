@@ -46,8 +46,8 @@ Our research spans natural language understanding, machine translation (MT), mul
 We regularly exchange ideas and work with our colleagues in the Machine Translation Group. Particularly, we have maintained a long-term and close cooperation with [Zhaopeng Tu](http://zptu.net/), [Xing Wang](http://www.xingwang4nlp.com/), and [Longyue Wang](http://longyuewang.com/). 
 
 **Spotlight Projects**
-- [Is ChatGPT A Good Translator](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator)
-- [Human-Like Translation Strategy: MAPS](https://github.com/zwhe99/MAPS-mt)
-- [Multi-Agents Debate: MAD](https://github.com/Skytliang/Multi-Agents-Debate)
-- [Translating during Chat: ParroT](https://github.com/wxjiao/ParroT)
+- [Is ChatGPT A Good Translator](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator)    <a href="https://github.com/wxjiao/ParroT"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wxjiao/ParroT?label=Github%20Stars&style=social"> </a>    
+- [Human-Like Translation Strategy: MAPS](https://github.com/zwhe99/MAPS-mt)    <a href="https://github.com/zwhe99/MAPS-mt"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/zwhe99/MAPS-mt?label=Github%20Stars&style=social"> </a> 
+- [Multi-Agents Debate: MAD](https://github.com/Skytliang/Multi-Agents-Debate)    <a href="https://github.com/Skytliang/Multi-Agents-Debate"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Skytliang/Multi-Agents-Debate?label=Github%20Stars&style=social"> </a> 
+- [Translating during Chat: ParroT](https://github.com/wxjiao/ParroT)    <a href="https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wxjiao/Is-ChatGPT-A-Good-Translator?label=Github%20Stars&style=social"> </a>
 
