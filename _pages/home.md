@@ -50,7 +50,7 @@ Our research spans machine translation (MT), multilingual pretraining, and large
 2. Exploiting LLMs for MT by instruction tuning, alignment, CoT (e.g., ParroT, MAPS)
 3. Exploring LLMs for multi-agent collaboration (e.g., MAD)
 4. Evaluating and manipulating LLMs's cognitive behaviors (e.g., Personality, Emotion)
-5. Testing safety alignment of LLMs
+5. Testing safety alignment of LLMs (e.g., Culture, Non-natural language)
 6. Evaluation benchmark and framework for LLMs
 
 We regularly exchange ideas and work with our colleagues in the Machine Translation Group. Particularly, we have maintained a long-term and close cooperation with [Zhaopeng Tu](http://zptu.net/), [Xing Wang](http://www.xingwang4nlp.com/), and [Longyue Wang](http://longyuewang.com/). 
