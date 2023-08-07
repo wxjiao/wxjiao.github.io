@@ -45,11 +45,13 @@ Currently, I'm working at Tencent AI Lab as a senior researcher.
 I received my Ph.D degree from the [Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) in 2021, under the supervision of [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home) and [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Before that, I received my Bachelor degree and Mphil degree at [Nanjing University](https://www.nju.edu.cn) in 2015 and 2017, respectively.
 
 This is my research group in the [Natural Language Processing Center](https://ai.tencent.com/ailab/nlp/en/index.html) within the [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index).
-Our research spans natural language understanding, machine translation (MT), multilingual pretraining, knowledge representation and reasoning, and large language models. Our current focus areas include:
-1. Evaluating large language models like ChatGPT/GPT-4/LLaMA/BLOOM from various aspects (e.g., MT, GEC)
-2. Exploring intelligence of large language models (e.g., Multi-Agent Debate)
-3. Instruction tuning and aligning of large language models for machine translation
-4. Challenging benchmarks for exposing what large language models cannot do
+Our research spans machine translation (MT), multilingual pretraining, and large language models (LLMs). We currently focus on LLMs in several aspects:
+1. Evaluating LLMs like ChatGPT/GPT-4/LLaMA/BLOOM on NLP tasks (e.g., MT, GEC)
+2. Exploiting LLMs for MT by instruction tuning, alignment, CoT (e.g., ParroT, MAPS)
+3. Exploring LLMs for multi-agent collaboration (e.g., MAD)
+4. Evaluating and manipulating LLMs's cognitive behaviors (e.g., Personality, Emotion)
+5. Testing safety alignment of LLMs
+6. Evaluation benchmark and framework for LLMs
 
 We regularly exchange ideas and work with our colleagues in the Machine Translation Group. Particularly, we have maintained a long-term and close cooperation with [Zhaopeng Tu](http://zptu.net/), [Xing Wang](http://www.xingwang4nlp.com/), and [Longyue Wang](http://longyuewang.com/). 
 
