@@ -49,7 +49,7 @@ Our research spans machine translation (MT), multilingual pretraining, and large
 1. Evaluating LLMs like ChatGPT/GPT-4/LLaMA/BLOOM on NLP tasks (e.g., MT, GEC)
 2. Exploiting LLMs for MT by instruction tuning, alignment, CoT (e.g., ParroT, MAPS)
 3. Exploring LLMs for multi-agent collaboration (e.g., MAD)
-4. Evaluating and manipulating LLMs's cognitive behaviors (e.g., Personality, Emotion)
+4. Evaluating and manipulating LLMs' cognitive behaviors (e.g., Personality, Emotion)
 5. Testing safety alignment of LLMs (e.g., Culture, Non-natural language)
 6. Evaluation benchmark and framework for LLMs
 
