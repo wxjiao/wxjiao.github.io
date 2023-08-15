@@ -1,3 +1,6 @@
+- date: Aug 15, 2023
+  headline: "Our preprint <a href='https://arxiv.org/abs/2308.06463'>GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher</a> is out. Refer to the Github repo <a href='https://github.com/RobustNLP/CipherChat'>CipherChat</a> and Demo page <a href='https://llmcipherchat.github.io/'>LLMCipherChat</a> for more details."
+
 - date: Aug 08, 2023
   headline: "Our preprint <a href='https://arxiv.org/abs/2308.03656'>Emotionally Numb or Empathetic? Evaluating How LLMs Feel Using EmotionBench</a> is out. Refer to the Github repo for <a href='https://github.com/CUHK-ARISE/EmotionBench'>EmotionBench</a>."
 
