@@ -56,10 +56,10 @@ Our research spans machine translation (MT), multilingual pretraining, and large
 We regularly exchange ideas and work with our colleagues in the Machine Translation Group. Particularly, we have maintained a long-term and close cooperation with [Zhaopeng Tu](http://zptu.net/), [Xing Wang](http://www.xingwang4nlp.com/), and [Longyue Wang](http://longyuewang.com/). 
 
 
-<h2>Spotlight Projects</h2>
+<h3>Spotlight Projects</h3>
 <p>
     <ul>
-        <div style="float:right;"><a href="https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wxjiao/Is-ChatGPT-A-Good-Translator?label=Github%20Stars&style=social"> </a></A></div>
+        <div style="float:right;"><i><a href="https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wxjiao/Is-ChatGPT-A-Good-Translator?label=Github%20Stars&style=social"></a></i></A></div>
         Is ChatGPT A Good Translator <br>
     </ul>
 </p>
