@@ -50,17 +50,17 @@ Our research spans machine translation (MT), multilingual pretraining, and large
 2. Exploiting LLMs for MT by instruction tuning, alignment, CoT (e.g., ParroT, MAPS)
 3. Exploring LLMs for multi-agent collaboration (e.g., MAD)
 4. Evaluating and manipulating LLMs' cognitive behaviors (e.g., Personality, Emotion)
-5. Testing safety alignment of LLMs (e.g., Culture, Non-natural language)
+5. Testing safety alignment of LLMs (e.g., Culture, Cipher)
 6. Evaluation benchmark and framework for LLMs
 
 We regularly exchange ideas and work with our colleagues in the Machine Translation Group. Particularly, we have maintained a long-term and close cooperation with [Zhaopeng Tu](http://zptu.net/), [Xing Wang](http://www.xingwang4nlp.com/), and [Longyue Wang](http://longyuewang.com/). 
 
 
 **Spotlight Projects**
-- [Is ChatGPT A Good Translator](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator) <a href="https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wxjiao/Is-ChatGPT-A-Good-Translator?label=Github%20Stars&style=social"> </a>
-- [Translating during Chat: ParroT](https://github.com/wxjiao/ParroT)  <a href="https://github.com/wxjiao/ParroT"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wxjiao/ParroT?label=Github%20Stars&style=social"> </a> 
-- [Human-Like Translation Strategy](https://github.com/zwhe99/MAPS-mt)    <a href="https://github.com/zwhe99/MAPS-mt"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/zwhe99/MAPS-mt?label=Github%20Stars&style=social"> </a> 
-- [Multi-Agent Debate](https://github.com/Skytliang/Multi-Agents-Debate)    <a href="https://github.com/Skytliang/Multi-Agents-Debate"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Skytliang/Multi-Agents-Debate?label=Github%20Stars&style=social"> </a>
-- [EmotionBench](https://github.com/CUHK-ARISE/EmotionBench)    <a href="https://github.com/CUHK-ARISE/EmotionBench"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/CUHK-ARISE/EmotionBench?label=Github%20Stars&style=social"> </a>
-- [CipherChat](https://github.com/RobustNLP/CipherChat)    <a href="https://github.com/RobustNLP/CipherChat"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RobustNLP/CipherChat?label=Github%20Stars&style=social"> </a> 
+-  <a href="https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wxjiao/Is-ChatGPT-A-Good-Translator?label=Github%20Stars&style=social"> </a>: [Is ChatGPT A Good Translator](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator)
+- <a href="https://github.com/wxjiao/ParroT"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wxjiao/ParroT?label=Github%20Stars&style=social"> </a>: [Translating during Chat: ParroT](https://github.com/wxjiao/ParroT)  
+- <a href="https://github.com/zwhe99/MAPS-mt"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/zwhe99/MAPS-mt?label=Github%20Stars&style=social"> </a>: [Human-Like Translation Strategy](https://github.com/zwhe99/MAPS-mt)     
+- <a href="https://github.com/Skytliang/Multi-Agents-Debate"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Skytliang/Multi-Agents-Debate?label=Github%20Stars&style=social"> </a>: [Multi-Agent Debate](https://github.com/Skytliang/Multi-Agents-Debate)    
+- <a href="https://github.com/CUHK-ARISE/EmotionBench"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/CUHK-ARISE/EmotionBench?label=Github%20Stars&style=social"> </a>: [EmotionBench](https://github.com/CUHK-ARISE/EmotionBench)    
+- <a href="https://github.com/RobustNLP/CipherChat"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RobustNLP/CipherChat?label=Github%20Stars&style=social"> </a>: [CipherChat](https://github.com/RobustNLP/CipherChat)    
 
