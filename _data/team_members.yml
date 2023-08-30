@@ -1,22 +1,22 @@
 - name: Wenxiang Jiao
-  photo: wxjiao.jpeg
+  photo: wxjiao2016.jpeg
   info: Senior Researcher, Tencent AI Lab
   hobbies: Fitness, Mobile games
   number_educ: 2
   education1: PhD CUHK
   education2: BS/MS NJU
-
-- name: Wenxuan Wang
-  photo: wenxuan.jpeg
-  info: PhD student, CUHK
-  number_educ: 1
-  education1: BS HUST
   
 - name: Jen-tse Huang
   photo: jentse.jpeg
   info: PhD student, CUHK
   number_educ: 1
   education1: BS PKU
+
+- name: Wenxuan Wang
+  photo: wenxuan.jpeg
+  info: PhD student, CUHK
+  number_educ: 1
+  education1: BS HUST
 
 - name: Yifan Hou
   photo: Yifan.jpg
