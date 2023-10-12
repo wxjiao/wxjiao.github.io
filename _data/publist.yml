@@ -67,7 +67,7 @@
   authors: Wenxiang Jiao, Jen-tse Huang, Wenxuan Wang, Xing Wang, Shuming Shi and Zhaopeng Tu
   link:
     url: https://www.researchgate.net/publication/369797448_PARROT_Translating_During_Chat_Using_Large_Language_Models
-    display: Preprint
+    display: EMNLP 2023 (Findings)
   codelink:
     url: https://github.com/wxjiao/ParroT/blob/main/README.md
     display: Code
@@ -104,6 +104,15 @@
   link:
     url: https://tbd.pdf
     display: ACL 2023
+  highlight: 0
+
+- title: "Cross-modality Data Augmentation for End-to-End Sign Language Translation"
+  image: xxx.jpeg
+  description: TBD
+  authors: Jinhui Ye, Wenxiang Jiao, Xing Wang, Zhaopeng Tu and Hui Xiong
+  link:
+    url: https://tbd.pdf
+    display: EMNLP 2023 (Findings)
   highlight: 0
 
 - title: "Scaling Back-Translation with Domain Text Generation for Sign Language Gloss Translation"
