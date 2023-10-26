@@ -14,6 +14,7 @@ permalink: /
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
     </ol>
 
     <!-- Items -->
@@ -29,6 +30,9 @@ permalink: /
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider3.jpeg" alt="Slide 4" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider4.jpeg" alt="Slide 5" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -48,8 +52,8 @@ This is my research group in the [Natural Language Processing Center](https://ai
 Our research spans machine translation (MT), multilingual pretraining, and large language models (LLMs). We currently focus on LLMs in several aspects:
 1. Evaluating LLMs like ChatGPT/GPT-4/LLaMA/BLOOM on NLP tasks (e.g., MT, GEC)
 2. Exploiting LLMs for MT by instruction tuning, alignment, CoT (e.g., ParroT, MAPS)
-3. Exploring LLMs for multi-agent collaboration (e.g., MAD)
-4. Evaluating and manipulating LLMs' cognitive behaviors (e.g., Personality, Emotion)
+3. Exploring LLMs for multi-agent collaboration (e.g., MAD, SpyGPT)
+4. Evaluating and manipulating LLMs' cognitive behaviors (e.g., Personality, Emotion, Psycology)
 5. Testing safety alignment of LLMs (e.g., Culture, Cipher)
 6. Evaluation benchmark and framework for LLMs
 
