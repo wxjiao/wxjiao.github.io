@@ -1,10 +1,22 @@
+- title: "On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs"
+  image: cover_xxx.png
+  description: As the title suggests.
+  authors: Jen-tse Huang, Wenxuan Wang, Eric John Li, Man Ho LAM, Shujie Ren, Youliang Yuan, Wenxiang Jiao*, Zhaopeng Tu and Michael Lyu
+  link:
+    url: https://arxiv.org/abs/2310.01386
+    display: ICLR Oral (Top 1.2%)
+  codelink:
+    url: https://github.com/CUHK-ARISE/PsychoBench
+    display: Code
+  highlight: 0
+
 - title: "GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher"
   image: cover_xxx.png
   description: As the title suggests.
   authors: Youliang Yuan, Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Pinjia He, Shuming Shi and Zhaopeng Tu
   link:
     url: https://arxiv.org/abs/2308.06463
-    display: Preprint
+    display: ICLR
   codelink:
     url: https://llmcipherchat.github.io/
     display: Code
@@ -52,7 +64,7 @@
   authors: Zhiwei He (1), Tian Liang (1), Wenxiang Jiao, Zhuosheng Zhang, Yujiu Yang, Rui Wang, Zhaopeng Tu, Shuming Shi and Xing Wang
   link:
     url: https://arxiv.org/abs/2305.04118
-    display: Preprint
+    display: TACL
   codelink:
     url: https://github.com/zwhe99/MAPS-mt
     display: Code
