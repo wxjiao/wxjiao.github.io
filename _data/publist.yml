@@ -49,7 +49,7 @@
 - title: "Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate"
   image: cover_mad.png
   description: We propose and define the Degeneration-of-Thought (DoT) problem in self-reflection, and address it by proposing the Multi-Agent Debate (MAD) framework to explore divergent chain-of-thoughts.
-  authors: Tian Liang*, Zhiwei He*, Wenxiang Jiao*, Xing Wang, Yan Wang, Rui Wang, Yujiu Yang, Zhaopeng Tu and Shuming Shi
+  authors: Tian Liang *, Zhiwei He *, Wenxiang Jiao *, Xing Wang, Yan Wang, Rui Wang, Yujiu Yang, Zhaopeng Tu and Shuming Shi
   link:
     url: https://arxiv.org/abs/2305.19118
     display: Preprint
@@ -61,7 +61,7 @@
 - title: "Exploring Human-Like Translation Strategy with Large Language Models"
   image: cover_maps.png
   description: We propose the MAPS framework to enable LLMs (e.g., ChatGPT, Alpaca) to mimic the human translation process by multi-aspect prompting and selection.
-  authors: Zhiwei He*, Tian Liang*, Wenxiang Jiao, Zhuosheng Zhang, Yujiu Yang, Rui Wang, Zhaopeng Tu, Shuming Shi and Xing Wang
+  authors: Zhiwei He *, Tian Liang *, Wenxiang Jiao, Zhuosheng Zhang, Yujiu Yang, Rui Wang, Zhaopeng Tu, Shuming Shi and Xing Wang
   link:
     url: https://arxiv.org/abs/2305.04118
     display: TACL 2024
@@ -130,7 +130,7 @@
 - title: "Scaling Back-Translation with Domain Text Generation for Sign Language Gloss Translation"
   image: xxx.jpeg
   description: We propose a Prompt based domain text Generation (PGEN) approach to produce the large-scale in-domain spoken language text data so as to scale back-translation for sign language translation.
-  authors: Jinhui Ye*, Wenxiang Jiao*, Xing Wang and Zhaopeng Tu
+  authors: Jinhui Ye *, Wenxiang Jiao *, Xing Wang and Zhaopeng Tu
   link:
     url: https://arxiv.org/pdf/2210.07054.pdf
     display: EACL 2023
