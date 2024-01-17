@@ -1,7 +1,7 @@
 - title: "On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs"
   image: cover_ppbench.png
   description: We propose a framework, PPBench, for evaluating diverse psychological aspects of LLMs, including personality traits, interpersonal relationships, motivational tests, and emotional abilities.
-  authors: Jen-tse Huang, Wenxuan Wang, Eric John Li, Man Ho LAM, Shujie Ren, Youliang Yuan, Wenxiang Jiao*, Zhaopeng Tu and Michael Lyu
+  authors: Jen-tse Huang, Wenxuan Wang, Eric John Li, Man Ho LAM, Shujie Ren, Youliang Yuan, Wenxiang Jiao**, Zhaopeng Tu and Michael Lyu
   link:
     url: https://arxiv.org/abs/2310.01386
     display: ICLR 2024 Oral (Top 1.2%)
@@ -11,8 +11,8 @@
   highlight: 1
 
 - title: "GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher"
-  image: cover_xxx.png
-  description: As the title suggests.
+  image: cover_cipherchat.png
+  description: We propose a novel framework, CipherChat, to systematically examine the generalizability of safety alignment to non-natural languages – ciphers. GPT-4 understands ciphers such that it tend to generate unsafe outputs with CipherChat.
   authors: Youliang Yuan, Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Pinjia He, Shuming Shi and Zhaopeng Tu
   link:
     url: https://arxiv.org/abs/2308.06463
@@ -20,12 +20,12 @@
   codelink:
     url: https://llmcipherchat.github.io/
     display: Code
-  highlight: 0
+  highlight: 1
 
 - title: "Emotionally Numb or Empathetic? Evaluating How LLMs Feel Using EmotionBench"
   image: cover_xxx.png
   description: As the title suggests.
-  authors: Jen-tse Huang, Man Ho Lam, Eric John Li, Shujie Ren, Wenxuan Wang, Wenxiang Jiao*, Zhaopeng Tu and Michael R. Lyu
+  authors: Jen-tse Huang, Man Ho Lam, Eric John Li, Shujie Ren, Wenxuan Wang, Wenxiang Jiao**, Zhaopeng Tu and Michael R. Lyu
   link:
     url: https://arxiv.org/abs/2308.03656
     display: Preprint
@@ -37,7 +37,7 @@
 - title: "ChatGPT an ENFJ, Bard an ISTJ: Empirical Study on Personalities of Large Language Models"
   image: cover_xxx.png
   description: As the title suggests.
-  authors: Jen-tse Huang, Wenxuan Wang, Man Ho Lam, Eric John Li, Wenxiang Jiao* and Michael R. Lyu
+  authors: Jen-tse Huang, Wenxuan Wang, Man Ho Lam, Eric John Li, Wenxiang Jiao** and Michael R. Lyu
   link:
     url: https://arxiv.org/abs/2305.19926
     display: Preprint
@@ -49,7 +49,7 @@
 - title: "Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate"
   image: cover_mad.png
   description: We propose and define the Degeneration-of-Thought (DoT) problem in self-reflection, and address it by proposing the Multi-Agent Debate (MAD) framework to explore divergent chain-of-thoughts.
-  authors: Tian Liang (1), Zhiwei He (1), Wenxiang Jiao (1), Xing Wang, Yan Wang, Rui Wang, Yujiu Yang, Zhaopeng Tu and Shuming Shi
+  authors: Tian Liang*, Zhiwei He*, Wenxiang Jiao*, Xing Wang, Yan Wang, Rui Wang, Yujiu Yang, Zhaopeng Tu and Shuming Shi
   link:
     url: https://arxiv.org/abs/2305.19118
     display: Preprint
@@ -61,7 +61,7 @@
 - title: "Exploring Human-Like Translation Strategy with Large Language Models"
   image: cover_maps.png
   description: We propose the MAPS framework to enable LLMs (e.g., ChatGPT, Alpaca) to mimic the human translation process by multi-aspect prompting and selection.
-  authors: Zhiwei He (1), Tian Liang (1), Wenxiang Jiao, Zhuosheng Zhang, Yujiu Yang, Rui Wang, Zhaopeng Tu, Shuming Shi and Xing Wang
+  authors: Zhiwei He*, Tian Liang*, Wenxiang Jiao, Zhuosheng Zhang, Yujiu Yang, Rui Wang, Zhaopeng Tu, Shuming Shi and Xing Wang
   link:
     url: https://arxiv.org/abs/2305.04118
     display: TACL 2024
@@ -130,7 +130,7 @@
 - title: "Scaling Back-Translation with Domain Text Generation for Sign Language Gloss Translation"
   image: xxx.jpeg
   description: We propose a Prompt based domain text Generation (PGEN) approach to produce the large-scale in-domain spoken language text data so as to scale back-translation for sign language translation.
-  authors: Jinhui Ye (1), Wenxiang Jiao (1), Xing Wang and Zhaopeng Tu
+  authors: Jinhui Ye*, Wenxiang Jiao*, Xing Wang and Zhaopeng Tu
   link:
     url: https://arxiv.org/pdf/2210.07054.pdf
     display: EACL 2023
@@ -167,7 +167,7 @@
   link:
     url: https://aclanthology.org/2022.acl-long.185
     display: ACL 2022
-  highlight: 1
+  highlight: 0
 
 - title: "Exploiting Inactive Examples for Natural Language Generation with Data Rejuvenation"
   image: cover_taslp22_exploit.jpeg
