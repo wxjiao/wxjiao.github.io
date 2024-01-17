@@ -1,6 +1,6 @@
 - title: "On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs"
-  image: cover_xxx.png
-  description: As the title suggests.
+  image: cover_ppbench.png
+  description: We propose a framework, PPBench, for evaluating diverse psychological aspects of LLMs, including personality traits, interpersonal relationships, motivational tests, and emotional abilities.
   authors: Jen-tse Huang, Wenxuan Wang, Eric John Li, Man Ho LAM, Shujie Ren, Youliang Yuan, Wenxiang Jiao*, Zhaopeng Tu and Michael Lyu
   link:
     url: https://arxiv.org/abs/2310.01386
@@ -8,7 +8,7 @@
   codelink:
     url: https://github.com/CUHK-ARISE/PsychoBench
     display: Code
-  highlight: 0
+  highlight: 1
 
 - title: "GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher"
   image: cover_xxx.png
