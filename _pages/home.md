@@ -45,7 +45,7 @@ permalink: /
   </a>
 </div>
 
-Currently, I'm working at Tencent AI Lab as a senior researcher.
+I'm working at Tencent AI Lab as a senior research scientist.
 I received my Ph.D degree from the [Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) in 2021, under the supervision of [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home) and [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Before that, I received my Bachelor degree and Mphil degree at [Nanjing University](https://www.nju.edu.cn) in 2015 and 2017, respectively.
 
 This is my research group in the [Natural Language Processing Center](https://ai.tencent.com/ailab/nlp/en/index.html) within the [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index).
@@ -64,7 +64,7 @@ We regularly exchange ideas and work with our colleagues in the Machine Translat
 -  <a href="https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wxjiao/Is-ChatGPT-A-Good-Translator?label=Github%20Stars&style=social"> </a>: [Is ChatGPT A Good Translator](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator)
 - <a href="https://github.com/wxjiao/ParroT"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wxjiao/ParroT?label=Github%20Stars&style=social"> </a>: [Translating during Chat: ParroT](https://github.com/wxjiao/ParroT)  
 - <a href="https://github.com/zwhe99/MAPS-mt"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/zwhe99/MAPS-mt?label=Github%20Stars&style=social"> </a>: [Human-Like Translation Strategy](https://github.com/zwhe99/MAPS-mt)     
-- <a href="https://github.com/Skytliang/Multi-Agents-Debate"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Skytliang/Multi-Agents-Debate?label=Github%20Stars&style=social"> </a>: [Multi-Agent Debate](https://github.com/Skytliang/Multi-Agents-Debate)    
-- <a href="https://github.com/CUHK-ARISE/EmotionBench"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/CUHK-ARISE/EmotionBench?label=Github%20Stars&style=social"> </a>: [EmotionBench](https://github.com/CUHK-ARISE/EmotionBench)    
-- <a href="https://github.com/RobustNLP/CipherChat"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RobustNLP/CipherChat?label=Github%20Stars&style=social"> </a>: [CipherChat](https://github.com/RobustNLP/CipherChat)    
+- <a href="https://github.com/Skytliang/Multi-Agents-Debate"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Skytliang/Multi-Agents-Debate?label=Github%20Stars&style=social"> </a>: [Multi-Agent Debate](https://github.com/Skytliang/Multi-Agents-Debate)       
+- <a href="https://github.com/RobustNLP/CipherChat"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RobustNLP/CipherChat?label=Github%20Stars&style=social"> </a>: [CipherChat](https://github.com/RobustNLP/CipherChat)
+- <a href="https://github.com/CUHK-ARISE/PsychoBench"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/CUHK-ARISE/PsychoBench?label=Github%20Stars&style=social"> </a>: [PsychoBench](https://github.com/CUHK-ARISE/PsychoBench)    
 
