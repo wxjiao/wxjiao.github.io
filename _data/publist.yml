@@ -1,3 +1,39 @@
+- title: "Emotionally Numb or Empathetic? Evaluating How LLMs Feel using EmotionBench"
+  image: cover_xxx.png
+  description: As the title suggests.
+  authors: Jen-tse Huang, Man Ho Lam, Eric John Li, Shujie Ren, Wenxuan Wang, Wenxiang Jiao**, Zhaopeng Tu and Michael R. Lyu
+  link:
+    url: https://arxiv.org/abs/2308.03656
+    display: NeurIPS 2024
+  codelink:
+    url: https://github.com/CUHK-ARISE/EmotionBench
+    display: Code
+  highlight: 0
+
+- title: "Improving Gloss-free Sign Language Translation by Reducing Representation Density"
+  image: cover_xxx.png
+  description: As the title suggests.
+  authors: Jinhui Ye, Xing Wang, Wenxiang Jiao**, Junwei Liang, Hui Xiong
+  link:
+    url: https://arxiv.org/abs/2405.14312
+    display: NeurIPS 2024
+  codelink:
+    url: https://github.com/JinhuiYE/SignCL
+    display: Code
+  highlight: 0
+
+- title: "NewTerm: Benchmarking Real-Time New Terms for Large Language Models with Annual Updates"
+  image: cover_xxx.png
+  description: As the title suggests.
+  authors: Hexuan Deng, Wenxiang Jiao, Xuebo Liu, Min Zhang, Zhaopeng Tu
+  link:
+    url: https://arxiv.org/abs/2405.14312
+    display: NeurIPS 2024 Datasets & Benchmarks
+  codelink:
+    url: https://github.com/hexuandeng/NewTerm
+    display: Code
+  highlight: 0
+
 - title: "On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs"
   image: cover_ppbench.png
   description: We propose a framework, PPBench, for evaluating diverse psychological aspects of LLMs, including personality traits, interpersonal relationships, motivational tests, and emotional abilities.
@@ -21,18 +57,6 @@
     url: https://llmcipherchat.github.io/
     display: Code
   highlight: 1
-
-- title: "Emotionally Numb or Empathetic? Evaluating How LLMs Feel Using EmotionBench"
-  image: cover_xxx.png
-  description: As the title suggests.
-  authors: Jen-tse Huang, Man Ho Lam, Eric John Li, Shujie Ren, Wenxuan Wang, Wenxiang Jiao**, Zhaopeng Tu and Michael R. Lyu
-  link:
-    url: https://arxiv.org/abs/2308.03656
-    display: Preprint
-  codelink:
-    url: https://github.com/CUHK-ARISE/EmotionBench
-    display: Code
-  highlight: 0
 
 - title: "ChatGPT an ENFJ, Bard an ISTJ: Empirical Study on Personalities of Large Language Models"
   image: cover_xxx.png
