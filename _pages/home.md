@@ -54,13 +54,10 @@ Currently, I focus on Large Language Models (LLMs), including both research and 
 1. Hunyuan Translation: Improving Hunyuan on multilingual translations; Please try Yuanbao APP's "Super Translation Officer (超能翻译官)".
 2. Hunyuan AI Reading: Improving Hunyuan on AI reading; Please try Yuanbao APP's "Deep Reading Mode (深度阅读模式)", which provides great reading experience by rendering the text summaries with formulas, tables, and figures.
 
-**LLM Research**
-1. Evaluating LLMs like ChatGPT/GPT-4/LLaMA/BLOOM on NLP tasks (e.g., MT, GEC)
-2. Exploiting LLMs for MT by instruction tuning, alignment, CoT (e.g., ParroT, MAPS)
-3. Exploring LLMs for multi-agent collaboration (e.g., MAD, SpyGPT)
-4. Evaluating and manipulating LLMs' cognitive behaviors (e.g., Personality, Emotion, Psychology)
-5. Testing safety alignment of LLMs (e.g., Culture, Cipher)
-6. Evaluation benchmark and framework for LLMs
+**LLM Cognition**
+1. Emotionally Numb or Empathetic? Evaluating How LLMs Feel using EmotionBench. NeurIPS 2024.
+2. On the reliability of psychological scales on large language models. EMNLP 2024.
+3. On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs. ICLR 2024 Oral.
 
 <!--
 This is my research group in the [Natural Language Processing Center](https://ai.tencent.com/ailab/nlp/en/index.html) within the [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index).
