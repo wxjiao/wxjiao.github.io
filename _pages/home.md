@@ -54,10 +54,19 @@ Currently, I focus on Large Language Models (LLMs), including both research and 
 1. Hunyuan Translation: Improving Hunyuan on multilingual translations; Please try Yuanbao APP's "Super Translation Officer (超能翻译官)".
 2. Hunyuan AI Reading: Improving Hunyuan on AI reading; Please try Yuanbao APP's "Deep Reading Mode (深度阅读模式)", which provides great reading experience by rendering the text summaries with formulas, tables, and figures.
 
+**LLM Agents/Reasoning**
+1. Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate. EMNLP 2024.
+2. LogicAsker: Evaluating and Improving the Logical Reasoning Ability of Large Language Models. EMNLP 2024.
+
 **LLM Cognition**
 1. Emotionally Numb or Empathetic? Evaluating How LLMs Feel using EmotionBench. NeurIPS 2024.
 2. On the reliability of psychological scales on large language models. EMNLP 2024.
 3. On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs. ICLR 2024 Oral.
+
+**LLM Safety**
+1. GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher. ICLR 2024.
+2. Not all countries celebrate thanksgiving: On the cultural dominance in large language models. ACL 2024.
+3. All languages matter: On the multilingual safety of large language models. ACL 2024 Findings.
 
 <!--
 This is my research group in the [Natural Language Processing Center](https://ai.tencent.com/ailab/nlp/en/index.html) within the [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index).
@@ -68,9 +77,9 @@ Our research spans machine translation (MT), multilingual pretraining, and large
 4. Evaluating and manipulating LLMs' cognitive behaviors (e.g., Personality, Emotion, Psychology)
 5. Testing safety alignment of LLMs (e.g., Culture, Cipher)
 6. Evaluation benchmark and framework for LLMs
--->
 
 We regularly exchange ideas and work with our colleagues in the Machine Translation Group. Particularly, we have maintained a long-term and close cooperation with [Zhaopeng Tu](http://zptu.net/), [Xing Wang](http://www.xingwang4nlp.com/), and [Longyue Wang](http://longyuewang.com/). 
+-->
 
 
 **Spotlight Projects**
