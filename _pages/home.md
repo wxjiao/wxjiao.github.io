@@ -51,8 +51,8 @@ I received my Ph.D degree from the [Chinese University of Hong Kong](https://www
 Currently, I focus on Large Language Models (LLMs), including both research and application.
 
 **LLM Applications**
-1. Hunyuan Translation: Improving Hunyuan on multilingual translations; Please try Yuanbao APP's "Super Translation Officer (超能翻译官)".
-2. Hunyuan AI Reading: Improving Hunyuan on AI reading; Please try Yuanbao APP's "Deep Reading Mode (深度阅读模式)", which provides great reading experience by rendering the text summaries with formulas, tables, and figures.
+1. Hunyuan AI Reading: Improving Hunyuan on AI reading; Please try Yuanbao APP's "Deep Reading Mode (深度阅读模式)", which provides great reading experience by rendering the text summaries with formulas, tables, and figures.
+2. Hunyuan Translation: Improving Hunyuan on multilingual translations; Please try Yuanbao APP's "Super Translation Officer (超能翻译官)".
 
 **LLM Agents/Reasoning**
 1. Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate. EMNLP 2024.
