@@ -54,9 +54,14 @@ Currently, I focus on Large Language Models (LLMs), including both research and 
 1. Hunyuan AI Reading: Improving Hunyuan on AI reading; Please try Yuanbao APP's "Deep Reading Mode (深度阅读模式)", which provides great reading experience by rendering the text summaries with formulas, tables, and figures.
 2. Hunyuan Translation: Improving Hunyuan on multilingual translations; Please try Yuanbao APP's "Super Translation Officer (超能翻译官)".
 
-**LLM Agents/Reasoning**
+**LLM Continual Learning**
+1. NewTerm: Benchmarking Real- Time New Terms for Large Language Models with Annual Updates. NeurIPS 2024 D&B.
+2. DRPruning: Efficient Large Lan- guage Model Pruning through Distributionally Robust Optimization. ArXiv 2024.
+
+**LLM Agents & Reasoning**
 1. Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate. EMNLP 2024.
 2. LogicAsker: Evaluating and Improving the Logical Reasoning Ability of Large Language Models. EMNLP 2024.
+3. How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments. ArXiv 2024.
 
 **LLM Cognition**
 1. Emotionally Numb or Empathetic? Evaluating How LLMs Feel using EmotionBench. NeurIPS 2024.
@@ -66,7 +71,12 @@ Currently, I focus on Large Language Models (LLMs), including both research and 
 **LLM Safety**
 1. GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher. ICLR 2024.
 2. Not all countries celebrate thanksgiving: On the cultural dominance in large language models. ACL 2024.
-3. All languages matter: On the multilingual safety of large language models. ACL 2024 Findings.
+3. All languages matter: On the multilingual safety of large language models. Findings of ACL 2024.
+
+**Sign Language Translation**
+1. Improving Gloss-free Sign Language Translation by Reducing Representation Density. NeurIPS 2024.
+2. Unsupervised Sign Language Translation and Generation. Findings of ACL 2024.
+3. Cross-modality Data Augmentation for End-to-End Sign Language Translation. Findings of EMNLP 2023.
 
 <!--
 This is my research group in the [Natural Language Processing Center](https://ai.tencent.com/ailab/nlp/en/index.html) within the [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index).
