@@ -45,14 +45,18 @@ permalink: /
   </a>
 </div>
 
-I'm working at Tencent AI Lab and [Hunyuan (混元)](https://hunyuan.tencent.com/) as a senior researcher.
-I received my Ph.D degree from the [Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) in 2021, under the supervision of [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home) and [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Before that, I received my Bachelor degree and Mphil degree at [Nanjing University](https://www.nju.edu.cn) in 2015 and 2017, respectively.
-
+<!--
+[Hunyuan (混元)](https://hunyuan.tencent.com/)
 Currently, I focus on Large Language Models (LLMs), including both research and application.
-
 **LLM Applications**
 1. Hunyuan AI Reading: Improving Hunyuan on AI reading; Please try Yuanbao APP's "Deep Reading Mode (深度阅读模式)", which provides great reading experience by rendering the text summaries with formulas, tables, and figures.
 2. Hunyuan Translation: Improving Hunyuan on multilingual translations; Please try Yuanbao APP's "Super Translation Officer (超能翻译官)".
+-->
+
+I'm working at Tencent AI Lab as a senior researcher.
+I received my Ph.D degree from the [Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) in 2021, under the supervision of [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home) and [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Before that, I received my Bachelor degree and Mphil degree at [Nanjing University](https://www.nju.edu.cn) in 2015 and 2017, respectively.
+
+Currently, I focus on Large Language Models (LLMs), including various interesting topics.
 
 **LLM Continual Learning**
 1. NewTerm: Benchmarking Real- Time New Terms for Large Language Models with Annual Updates. NeurIPS 2024 D&B.
@@ -61,7 +65,7 @@ Currently, I focus on Large Language Models (LLMs), including both research and 
 **LLM Agents & Reasoning**
 1. Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate. EMNLP 2024.
 2. LogicAsker: Evaluating and Improving the Logical Reasoning Ability of Large Language Models. EMNLP 2024.
-3. How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments. ArXiv 2024.
+3. How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments. ICLR 2025.
 
 **LLM Cognition**
 1. Emotionally Numb or Empathetic? Evaluating How LLMs Feel using EmotionBench. NeurIPS 2024.
