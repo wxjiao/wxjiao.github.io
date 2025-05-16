@@ -59,13 +59,13 @@ I received my Ph.D degree from the [Chinese University of Hong Kong](https://www
 Currently, I focus on Large Language Models (LLMs), including various interesting topics.
 
 **LLM Continual Learning**
-1. NewTerm: Benchmarking Real- Time New Terms for Large Language Models with Annual Updates. NeurIPS 2024 D&B.
-2. DRPruning: Efficient Large Lan- guage Model Pruning through Distributionally Robust Optimization. ArXiv 2024.
+1. DRPruning: Efficient Large Language Model Pruning through Distributionally Robust Optimization. ACL 2025.
+2. NewTerm: Benchmarking Real- Time New Terms for Large Language Models with Annual Updates. NeurIPS 2024 D&B.
 
 **LLM Agents & Reasoning**
-1. Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate. EMNLP 2024.
+1. How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments. ICLR 2025.
 2. LogicAsker: Evaluating and Improving the Logical Reasoning Ability of Large Language Models. EMNLP 2024.
-3. How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments. ICLR 2025.
+3. Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate. EMNLP 2024.
 
 **LLM Cognition**
 1. Emotionally Numb or Empathetic? Evaluating How LLMs Feel using EmotionBench. NeurIPS 2024.
@@ -73,9 +73,11 @@ Currently, I focus on Large Language Models (LLMs), including various interestin
 3. On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs. ICLR 2024 Oral.
 
 **LLM Safety**
-1. GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher. ICLR 2024.
-2. Not all countries celebrate thanksgiving: On the cultural dominance in large language models. ACL 2024.
-3. All languages matter: On the multilingual safety of large language models. Findings of ACL 2024.
+1. Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training. ACL 2025.
+2. Chain-of-Jailbreak Attack for Image Generation Models via Step by Step Editing. Findings of ACL 2025.
+3. GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher. ICLR 2024.
+4. Not all countries celebrate thanksgiving: On the cultural dominance in large language models. ACL 2024.
+5. All languages matter: On the multilingual safety of large language models. Findings of ACL 2024.
 
 **Sign Language Translation**
 1. Improving Gloss-free Sign Language Translation by Reducing Representation Density. NeurIPS 2024.
