@@ -34,6 +34,18 @@
     display: Code
   highlight: 0
 
+- title: "How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments"
+  image: cover_xxx.png
+  description: As the title suggests.
+  authors: Jen-tse Huang, Eric John Li, Man Ho Lam, Tian Liang, Wenxuan Wang, Youliang Yuan, Wenxiang Jiao**, Xing Wang, Zhaopeng Tu, Michael R Lyu
+  link:
+    url: https://arxiv.org/abs/2403.11807
+    display: ICLR 2025
+  codelink:
+    url: https://github.com/CUHK-ARISE/GAMABench
+    display: Code
+  highlight: 0
+
 - title: "Emotionally Numb or Empathetic? Evaluating How LLMs Feel using EmotionBench"
   image: cover_xxx.png
   description: As the title suggests.
