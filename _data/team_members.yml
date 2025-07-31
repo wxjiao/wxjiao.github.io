@@ -4,13 +4,31 @@
   hobbies: Fitness, Mobile games
   number_educ: 2
   education1: PhD CUHK
-  education2: BS/MS NJU
+  education2: BS/MS Nanjing-U
+
+- name: Hexuan Deng
+  photo: hexuan.jpeg
+  info: PhD student, HIT (SZ)
+  number_educ: 1
+  education1: BS Nankai-U
+
+- name: Youliang Yuan
+  photo: youliang.jpeg
+  info: PhD student, CUHK (SZ)
+  number_educ: 1
+  education1: BS Tongji-U
+
+- name: Jinhui Ye
+  photo: jinhui.jpeg
+  info: Mphil student, HKUST (GZ)
+  number_educ: 1
+  education1: BS SCUT
   
 - name: Jen-tse Huang
   photo: jentse.jpeg
   info: PhD student, CUHK
   number_educ: 1
-  education1: BS PKU
+  education1: BS Peking-U
 
 - name: Wenxuan Wang
   photo: wenxuan.jpeg
@@ -30,4 +48,4 @@
   photo: jiarui.jpeg
   info: MS student, CMU
   number_educ: 1
-  education1: BS CUHK (Shenzhen)
+  education1: BS CUHK (SZ)
