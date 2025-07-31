@@ -15,26 +15,30 @@
 - name: Youliang Yuan
   photo: youliang.jpg
   info: PhD student, CUHK (SZ)
-  number_educ: 1
-  education1: BS Tongji-U
+  number_educ: 2
+  education1: MS Wuhan-U
+  education2: BS Tongji-U
 
 - name: Jinhui Ye
   photo: jinhui.jpg
-  info: Mphil student, HKUST (GZ)
-  number_educ: 1
-  education1: BS SCUT
+  info: PhD student, HKUST
+  number_educ: 2
+  education1: MS HKUST (GZ)
+  education2: BS SCUT
   
 - name: Jen-tse Huang
   photo: jentse.jpeg
-  info: PhD student, CUHK
-  number_educ: 1
-  education1: BS Peking-U
+  info: Post-doc, JHU
+  number_educ: 2
+  education1: PhD CUHK
+  education2: BS Peking-U
 
 - name: Wenxuan Wang
   photo: wenxuan.jpeg
-  info: PhD student, CUHK
-  number_educ: 1
-  education1: BS HUST
+  info: Assistant Prof, Remin-U
+  number_educ: 2
+  education1: PhD CUHK
+  education2: BS HUST
 
 - name: Yifan Hou
   photo: Yifan.jpg
