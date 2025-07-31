@@ -1,3 +1,39 @@
+- title: "DRPruning: Efficient Large Language Model Pruning through Distributionally Robust Optimization"
+  image: cover_xxx.png
+  description: As the title suggests.
+  authors: Hexuan Deng, Wenxiang Jiao, Xuebo Liu, Min Zhang, Zhaopeng Tu
+  link:
+    url: https://arxiv.org/abs/2411.14055
+    display: ACL 2025
+  codelink:
+    url: https://github.com/hexuandeng/DRPruning
+    display: Code
+  highlight: 0
+
+- title: "Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training"
+  image: cover_xxx.png
+  description: As the title suggests.
+  authors: Youliang Yuan, Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Jiahao Xu, Tian Liang, Pinjia He, Zhaopeng Tu
+  link:
+    url: https://arxiv.org/abs/2407.09121
+    display: ACL 2025
+  codelink:
+    url: https://github.com/RobustNLP/DeRTa
+    display: Code
+  highlight: 0
+
+- title: "Chain-of-Jailbreak Attack for Image Generation Models via Editing Step by Step"
+  image: cover_xxx.png
+  description: As the title suggests.
+  authors: Wenxuan Wang, Kuiyi Gao, Zihan Jia, Youliang Yuan, Jen-tse Huang, Qiuzhi Liu, Shuai Wang, Wenxiang Jiao**, Zhaopeng Tu
+  link:
+    url: https://arxiv.org/abs/2410.03869
+    display: ACL 2025 (Findings)
+  codelink:
+    url: https://github.com/Jarviswang94/Chain-of-Jailbreak
+    display: Code
+  highlight: 0
+
 - title: "Emotionally Numb or Empathetic? Evaluating How LLMs Feel using EmotionBench"
   image: cover_xxx.png
   description: As the title suggests.
@@ -76,7 +112,7 @@
   authors: Tian Liang *, Zhiwei He *, Wenxiang Jiao *, Xing Wang, Yan Wang, Rui Wang, Yujiu Yang, Zhaopeng Tu and Shuming Shi
   link:
     url: https://arxiv.org/abs/2305.19118
-    display: Preprint
+    display: EMNLP 2024
   codelink:
     url: https://github.com/Skytliang/Multi-Agents-Debate
     display: Code
