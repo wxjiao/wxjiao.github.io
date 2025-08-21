@@ -74,19 +74,17 @@ Currently, I focus on Large Language Models (LLMs), including various interestin
 5. All languages matter: On the multilingual safety of large language models. Findings of ACL 2024.
 
 <details>
-    <summary><strong>LLM Personality</strong></summary>
-
-1. Emotionally Numb or Empathetic? Evaluating How LLMs Feel using EmotionBench. NeurIPS 2024.
-2. On the reliability of psychological scales on large language models. EMNLP 2024.
-3. On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs. ICLR 2024 Oral.
-</details>
-
-<details>
-    <summary><strong>Sign Language Translation</strong></summary>
+<summary>More</summary>
     
+<strong>LLM Personality</strong><br>
+1. Emotionally Numb or Empathetic? Evaluating How LLMs Feel using EmotionBench. NeurIPS 2024.<br>
+2. On the reliability of psychological scales on large language models. EMNLP 2024.<br>
+3. On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs. ICLR 2024 Oral.<br>
+
+<strong>Sign Language Translation</strong><br>    
 1. Improving Gloss-free Sign Language Translation by Reducing Representation Density. NeurIPS 2024.<br>
 2. Unsupervised Sign Language Translation and Generation. Findings of ACL 2024.<br>
-3. Cross-modality Data Augmentation for End-to-End Sign Language Translation. Findings of EMNLP 2023.
+3. Cross-modality Data Augmentation for End-to-End Sign Language Translation. Findings of EMNLP 2023.<br>
 </details>
 
 <!--
