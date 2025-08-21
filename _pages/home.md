@@ -74,32 +74,15 @@ Currently, I focus on Large Language Models (LLMs), including various interestin
 4. Not all countries celebrate thanksgiving: On the cultural dominance in large language models. ACL 2024.
 5. All languages matter: On the multilingual safety of large language models. Findings of ACL 2024.
 
-<details>
-<summary>More</summary>
-    
-<strong>LLM Personality</strong><br>
-1. Emotionally Numb or Empathetic? Evaluating How LLMs Feel using EmotionBench. NeurIPS 2024.<br>
-2. On the reliability of psychological scales on large language models. EMNLP 2024.<br>
-3. On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs. ICLR 2024 Oral.<br>
+**LLM Personality**
+1. Emotionally Numb or Empathetic? Evaluating How LLMs Feel using EmotionBench. NeurIPS 2024.
+2. On the reliability of psychological scales on large language models. EMNLP 2024.
+3. On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs. ICLR 2024 Oral.
 
-<strong>Sign Language Translation</strong><br>    
-1. Improving Gloss-free Sign Language Translation by Reducing Representation Density. NeurIPS 2024.<br>
-2. Unsupervised Sign Language Translation and Generation. Findings of ACL 2024.<br>
-3. Cross-modality Data Augmentation for End-to-End Sign Language Translation. Findings of EMNLP 2023.<br>
-</details>
-
-<!--
-This is my research group in the [Natural Language Processing Center](https://ai.tencent.com/ailab/nlp/en/index.html) within the [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index).
-Our research spans machine translation (MT), multilingual pretraining, and large language models (LLMs). We currently focus on LLMs in several aspects:
-1. Evaluating LLMs like ChatGPT/GPT-4/LLaMA/BLOOM on NLP tasks (e.g., MT, GEC)
-2. Exploiting LLMs for MT by instruction tuning, alignment, CoT (e.g., ParroT, MAPS)
-3. Exploring LLMs for multi-agent collaboration (e.g., MAD, SpyGPT)
-4. Evaluating and manipulating LLMs' cognitive behaviors (e.g., Personality, Emotion, Psychology)
-5. Testing safety alignment of LLMs (e.g., Culture, Cipher)
-6. Evaluation benchmark and framework for LLMs
-
-We regularly exchange ideas and work with our colleagues in the Machine Translation Group. Particularly, we have maintained a long-term and close cooperation with [Zhaopeng Tu](http://zptu.net/), [Xing Wang](http://www.xingwang4nlp.com/), and [Longyue Wang](http://longyuewang.com/). 
--->
+**Sign Language Translation**  
+1. Improving Gloss-free Sign Language Translation by Reducing Representation Density. NeurIPS 2024.
+2. Unsupervised Sign Language Translation and Generation. Findings of ACL 2024.
+3. Cross-modality Data Augmentation for End-to-End Sign Language Translation. Findings of EMNLP 2023.
 
 
 **Spotlight Projects**
