@@ -51,19 +51,20 @@ I received my Ph.D degree from the [Chinese University of Hong Kong](https://www
 
 Currently, I focus on Large Language Models (LLMs), including various interesting topics.
 
+**LLM Proactivity**
+1. Towards Evaluating Proactive Risk Awareness of Multimodal Language Models. Under Review 2025.
+2. Learning to Ask: When LLM Agents Meet Unclear Instruction. EMNLP 2025.
+
 **LLM Continual Learning**
-1. DRPruning: Efficient Large Language Model Pruning through Distributionally Robust Optimization. ACL 2025.
-2. NewTerm: Benchmarking Real- Time New Terms for Large Language Models with Annual Updates. NeurIPS 2024 D&B.
+1. REA-RL: Reflection-Aware Online Reinforcement Learning for Efficient Large Reasoning Models. Under Review 2025.
+2. DRPruning: Efficient Large Language Model Pruning through Distributionally Robust Optimization. ACL 2025.
+3. NewTerm: Benchmarking Real-Time New Terms for Large Language Models with Annual Updates. NeurIPS 2024 D&B.
+4. Tencent's Multilingual Machine Translation System for WMT22 Large-Scale African Languages. WMT 2022.
 
 **LLM Agents & Reasoning**
 1. How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments. ICLR 2025.
 2. LogicAsker: Evaluating and Improving the Logical Reasoning Ability of Large Language Models. EMNLP 2024.
 3. Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate. EMNLP 2024.
-
-**LLM Cognition**
-1. Emotionally Numb or Empathetic? Evaluating How LLMs Feel using EmotionBench. NeurIPS 2024.
-2. On the reliability of psychological scales on large language models. EMNLP 2024.
-3. On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs. ICLR 2024 Oral.
 
 **LLM Safety**
 1. Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training. ACL 2025.
@@ -72,10 +73,21 @@ Currently, I focus on Large Language Models (LLMs), including various interestin
 4. Not all countries celebrate thanksgiving: On the cultural dominance in large language models. ACL 2024.
 5. All languages matter: On the multilingual safety of large language models. Findings of ACL 2024.
 
-**Sign Language Translation**
-1. Improving Gloss-free Sign Language Translation by Reducing Representation Density. NeurIPS 2024.
-2. Unsupervised Sign Language Translation and Generation. Findings of ACL 2024.
+<details>
+    <summary><strong>LLM Personality</strong></summary>
+
+1. Emotionally Numb or Empathetic? Evaluating How LLMs Feel using EmotionBench. NeurIPS 2024.
+2. On the reliability of psychological scales on large language models. EMNLP 2024.
+3. On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs. ICLR 2024 Oral.
+</details>
+
+<details>
+    <summary><strong>Sign Language Translation</strong></summary>
+    
+1. Improving Gloss-free Sign Language Translation by Reducing Representation Density. NeurIPS 2024.<br>
+2. Unsupervised Sign Language Translation and Generation. Findings of ACL 2024.<br>
 3. Cross-modality Data Augmentation for End-to-End Sign Language Translation. Findings of EMNLP 2023.
+</details>
 
 <!--
 This is my research group in the [Natural Language Processing Center](https://ai.tencent.com/ailab/nlp/en/index.html) within the [Tencent AI Lab](https://ai.tencent.com/ailab/zh/index).
