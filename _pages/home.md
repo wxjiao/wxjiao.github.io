@@ -65,6 +65,7 @@ Currently, I focus on Large Language Models (LLMs), including various interestin
 1. How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments. ICLR 2025.
 2. LogicAsker: Evaluating and Improving the Logical Reasoning Ability of Large Language Models. EMNLP 2024.
 3. Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate. EMNLP 2024.
+4. CoAct: A Global-Local Hierarchy for Autonomous Agent Collaboration. Preprint 2024.
 
 **LLM Safety**
 1. Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training. ACL 2025.
