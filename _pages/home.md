@@ -50,16 +50,15 @@ I'm working at Tencent AI Lab as a senior researcher.
 I received my Ph.D degree from the [Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) in 2021, under the supervision of [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home) and [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Before that, I received my Bachelor degree and Mphil degree at [Nanjing University](https://www.nju.edu.cn) in 2015 and 2017, respectively.
 
 
-
 :office: **Experiences**
-- Tencent AI Lab (2021 - Present), Senior Researcher
+- Tencent AI Lab (2021 - 2025), Senior Researcher
 - Tencent AI Lab (2019 - 2021), Research Intern
-
 
 
 :books: **Research**
 
 Currently, I focus on Large Language Models (LLMs), including various interesting topics.
+Representative works include `Is ChatGPT A Good Translator`, `Multi-Agent Debate`, `CipherChat`, `PsychoBench`.
 
 _LLM Proactivity_
 1. Towards Evaluating Proactive Risk Awareness of Multimodal Language Models. Under Review 2025.
