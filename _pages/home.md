@@ -61,7 +61,7 @@ Currently, I focus on Large Language Models (LLMs), including various interestin
 Representative works include `Is ChatGPT A Good Translator`, `Multi-Agent Debate`, `CipherChat`, `PsychoBench`.
 
 _LLM Proactivity_
-1. Towards Evaluating Proactive Risk Awareness of Multimodal Language Models. Under Review 2025.
+1. Towards Evaluating Proactive Risk Awareness of Multimodal Language Models. NeurIPS 2025 D&B.
 2. Learning to Ask: When LLM Agents Meet Unclear Instruction. EMNLP 2025.
 
 _LLM Continual Learning_
