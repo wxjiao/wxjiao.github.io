@@ -1,0 +1,44 @@
+<!-- _includes/pinned-repos.html -->
+<section id="pinned-repos" style="margin-top: 2rem;">
+  <h2>📌 My Pinned GitHub Projects</h2>
+  <div id="repos-container"></div>
+</section>
+
+<script>
+  const username = "wxjiao";
+  const apiUrl = `https://api.github.com/users/${username}/pins`;
+
+  fetch(apiUrl, { headers: { Accept: "application/vnd.github.v3+json" } })
+    .then(res => res.json())
+    .then(repos => {
+      const container = document.getElementById("repos-container");
+      repos.forEach(item => {
+        const repo = item.repository;
+        const card = document.createElement("div");
+        card.style.border = "1px solid #eee";
+        card.style.borderRadius = "6px";
+        card.style.padding = "1rem";
+        card.style.marginBottom = "1rem";
+        card.style.boxShadow = "0 2px 4px rgba(0,0,0,0.05)";
+
+        card.innerHTML = `
+          <h3 style="margin-top: 0;">
+            <a href="${repo.html_url}" target="_blank" style="text-decoration: none; color: #0969da;">
+              ${repo.name}
+            </a>
+          </h3>
+          <p style="color: #57606a; margin-bottom: 0.5rem;">${repo.description || "No description"}</p>
+          <div style="display: flex; gap: 1rem; color: #57606a; font-size: 0.9rem;">
+            <span>⭐ ${repo.stargazers_count}</span>
+            <span>🍴 ${repo.forks_count}</span>
+            <span>💻 ${repo.language || "Unknown"}</span>
+          </div>
+        `;
+        container.appendChild(card);
+      });
+    })
+    .catch(err => {
+      console.error("Failed to fetch pinned repos:", err);
+      document.getElementById("repos-container").innerHTML = "<p>Failed to load pinned repositories.</p>";
+    });
+</script>
