@@ -103,5 +103,3 @@ _Sign Language Translation_
 - <a href="https://github.com/RobustNLP/CipherChat"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RobustNLP/CipherChat?label=Github%20Stars&style=social"> </a>: [CipherChat](https://github.com/RobustNLP/CipherChat)
 - <a href="https://github.com/CUHK-ARISE/PsychoBench"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/CUHK-ARISE/PsychoBench?label=Github%20Stars&style=social"> </a>: [PsychoBench](https://github.com/CUHK-ARISE/PsychoBench)    
 
-
-{% include pinned-repos.html %}
