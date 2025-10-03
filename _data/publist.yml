@@ -1,3 +1,12 @@
+- title: "Towards Evaluating Proactive Risk Awareness of Multimodal Language Models"
+  image: cover_xxx.png
+  description: As the title suggests.
+  authors: Youliang Yuan, Wenxiang Jiao, Yuejin Xie, Chihao Shen, Menghan Tian, Wenxuan Wang, Jen-tse Huang, Pinjia He
+  link:
+    url: https://arxiv.org/abs/2505.17455
+    display: NeurIPS 2025 Datasets & Benchmarks
+  highlight: 0
+
 - title: "Learning to Ask: When LLM Agents Meet Unclear Instruction"
   image: cover_xxx.png
   description: As the title suggests.
