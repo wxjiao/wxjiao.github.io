@@ -1,3 +1,12 @@
+- title: "Learning to Ask: When LLM Agents Meet Unclear Instruction"
+  image: cover_xxx.png
+  description: As the title suggests.
+  authors: Wenxuan Wang, Juluan Shi, Zixuan Ling, Yuk-Kit Chan, Chaozheng Wang, Cheryl Lee, Youliang Yuan, Jen-tse Huang, Wenxiang Jiao**, Michael R Lyu
+  link:
+    url: https://arxiv.org/abs/2409.00557
+    display: EMNLP 2025
+  highlight: 0
+
 - title: "DRPruning: Efficient Large Language Model Pruning through Distributionally Robust Optimization"
   image: cover_xxx.png
   description: As the title suggests.
