@@ -45,8 +45,10 @@ permalink: /
   </a>
 </div>
 
+**Biography**
 
-I'm working at Tencent AI Lab as a senior researcher.
+Hi, this is **Wenxiang Jiao (焦文祥)**, an NLP researcher whose interests include LLM agents, reasoning, and personality.
+Previously, I was also an experienced researcher on machine translation and multilingualism.
 I received my Ph.D degree from the [Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) in 2021, under the supervision of [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home) and [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Before that, I received my Bachelor degree and Mphil degree at [Nanjing University](https://www.nju.edu.cn) in 2015 and 2017, respectively.
 
 
@@ -60,33 +62,33 @@ I received my Ph.D degree from the [Chinese University of Hong Kong](https://www
 Currently, I focus on Large Language Models (LLMs), including various interesting topics.
 Representative works include `Is ChatGPT A Good Translator`, `Multi-Agent Debate`, `CipherChat`, `PsychoBench`.
 
-_LLM Proactivity_
-1. Towards Evaluating Proactive Risk Awareness of Multimodal Language Models. NeurIPS 2025 D&B.
-2. Learning to Ask: When LLM Agents Meet Unclear Instruction. EMNLP 2025.
-
-_LLM Continual Learning_
-1. REA-RL: Reflection-Aware Online Reinforcement Learning for Efficient Large Reasoning Models. Under Review 2025.
-2. DRPruning: Efficient Large Language Model Pruning through Distributionally Robust Optimization. ACL 2025.
-3. NewTerm: Benchmarking Real-Time New Terms for Large Language Models with Annual Updates. NeurIPS 2024 D&B.
-4. Tencent's Multilingual Machine Translation System for WMT22 Large-Scale African Languages. WMT 2022.
-
 _LLM Agents & Reasoning_
-1. How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments. ICLR 2025.
-2. LogicAsker: Evaluating and Improving the Logical Reasoning Ability of Large Language Models. EMNLP 2024.
-3. Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate. EMNLP 2024.
-4. CoAct: A Global-Local Hierarchy for Autonomous Agent Collaboration. Preprint 2024.
-
-_LLM Safety_
-1. Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training. ACL 2025.
-2. Chain-of-Jailbreak Attack for Image Generation Models via Step by Step Editing. Findings of ACL 2025.
-3. GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher. ICLR 2024.
-4. Not all countries celebrate thanksgiving: On the cultural dominance in large language models. ACL 2024.
-5. All languages matter: On the multilingual safety of large language models. Findings of ACL 2024.
+1. DeepAgent: A General Reasoning Agent with Scalable Toolsets. Under Review 2025.
+2. LoopTool: Closing the Data–Training Loop for Robust LLM Tool Calls. Under Review 2025.
+3. Curing Miracle Steps in LLM Mathematical Reasoning with Rubric Rewards. Under Review 2025.
+4. REA-RL: Reflection-Aware Online Reinforcement Learning for Efficient Large Reasoning Models. Under Review 2025.
+5. Learning to Ask: When LLM Agents Meet Unclear Instruction. EMNLP 2025.
+6. How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments. ICLR 2025.
+7. **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate. EMNLP 2024.**
 
 _LLM Personality_
-1. Emotionally Numb or Empathetic? Evaluating How LLMs Feel using EmotionBench. NeurIPS 2024.
-2. On the reliability of psychological scales on large language models. EMNLP 2024.
-3. On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs. ICLR 2024 Oral.
+1. Fints: Efficient Inference-Time Personalization for LLMs with Fine-Grained Instance-Tailored Steering. Under Review 2025.
+2. Emotionally Numb or Empathetic? Evaluating How LLMs Feel using EmotionBench. NeurIPS 2024.
+3. On the reliability of psychological scales on large language models. EMNLP 2024.
+4. **On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs. ICLR 2024 Oral.**
+
+_LLM Safety_
+1. Towards Evaluating Proactive Risk Awareness of Multimodal Language Models. NeurIPS 2025 D&B.
+2. Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training. ACL 2025.
+3. Chain-of-Jailbreak Attack for Image Generation Models via Step by Step Editing. Findings of ACL 2025.
+4. Not all countries celebrate thanksgiving: On the cultural dominance in large language models. ACL 2024.
+5. All languages matter: On the multilingual safety of large language models. Findings of ACL 2024.
+6. **GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher. ICLR 2024.**
+
+_LLM Continual Learning_ 
+1. DRPruning: Efficient Large Language Model Pruning through Distributionally Robust Optimization. ACL 2025.
+2. NewTerm: Benchmarking Real-Time New Terms for Large Language Models with Annual Updates. NeurIPS 2024 D&B.
+3. Tencent's Multilingual Machine Translation System for WMT22 Large-Scale African Languages. WMT 2022.
 
 _Sign Language Translation_
 1. Improving Gloss-free Sign Language Translation by Reducing Representation Density. NeurIPS 2024.
