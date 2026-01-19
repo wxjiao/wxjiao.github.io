@@ -60,16 +60,19 @@ I received my Ph.D degree from the [Chinese University of Hong Kong](https://www
 **Research**
 
 Currently, I focus on Large Language Models (LLMs), including various interesting topics.
-Representative works include `Is ChatGPT A Good Translator`, `Multi-Agent Debate`, `CipherChat`, `PsychoBench`.
+Representative works include `Is ChatGPT A Good Translator`, `Multi-Agent Debate`, `CipherChat`, `PsychoBench`, `DeepAgent`.
 
 _LLM Agents & Reasoning_
-1. DeepAgent: A General Reasoning Agent with Scalable Toolsets. Under Review 2025.
-2. LoopTool: Closing the Data–Training Loop for Robust LLM Tool Calls. Under Review 2025.
-3. Curing Miracle Steps in LLM Mathematical Reasoning with Rubric Rewards. Under Review 2025.
-4. REA-RL: Reflection-Aware Online Reinforcement Learning for Efficient Large Reasoning Models. Under Review 2025.
-5. Learning to Ask: When LLM Agents Meet Unclear Instruction. EMNLP 2025.
-6. How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments. ICLR 2025.
-7. **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate. EMNLP 2024.**
+1. TourPlanner: A Competitive Consensus Framework with Constraint-Gated Reinforcement Learning for Travel Planning. Under Review 2026.
+2. Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback. Under Review 2026.
+3. LoopTool: Closing the Data–Training Loop for Robust LLM Tool Calls. Under Review 2026.
+4. Curing Miracle Steps in LLM Mathematical Reasoning with Rubric Rewards. Under Review 2026.
+5. DeepCompress: A Dual Reward Strategy for Dynamically Exploring and Compressing Reasoning Chains. Under Review 2025.
+6. REA-RL: Reflection-Aware Online Reinforcement Learning for Efficient Large Reasoning Models. Under Review 2025.
+7. **DeepAgent: A General Reasoning Agent with Scalable Toolsets. WWW 2026.**
+8. Learning to Ask: When LLM Agents Meet Unclear Instruction. EMNLP 2025.
+9. How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments. ICLR 2025.
+10. **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate. EMNLP 2024.**
 
 _LLM Personality_
 1. Fints: Efficient Inference-Time Personalization for LLMs with Fine-Grained Instance-Tailored Steering. Under Review 2025.
