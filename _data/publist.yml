@@ -5,6 +5,12 @@
   link:
     url: https://arxiv.org/abs/2510.21618
     display: WWW 2026
+  codelink:
+    url: https://github.com/DeepExperience/DeepAgent
+    display: Code
+  medialink:
+    url: https://x.com/rryssf_/status/1983842885784269116
+    display: X (Twitter)
   highlight: 1
 
 - title: "Towards Evaluating Proactive Risk Awareness of Multimodal Language Models"
