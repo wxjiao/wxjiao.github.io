@@ -1,5 +1,5 @@
 - title: "DeepAgent: A General Reasoning Agent with Scalable Toolsets"
-  image: cover_xxx.png
+  image: cover_deepagent.png
   description: DeepAgent is a reasoning agent with scalable toolsets, capable of tackling general tasks by searching for and using the appropriate tools from over 16,000 RapidAPIs in an end-to-end agentic reasoning process.
   authors: Xiaoxi Li, Wenxiang Jiao, Jiarui Jin, Guanting Dong, Jiajie Jin, Yinuo Wang, Hao Wang, Yutao Zhu, Ji-Rong Wen, Yuan Lu, Zhicheng Dou
   link:
