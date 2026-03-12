@@ -106,3 +106,5 @@ _Sign Language Translation_
 - <a href="https://github.com/CUHK-ARISE/PsychoBench"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/CUHK-ARISE/PsychoBench?label=Github%20Stars&style=social"> </a>: [PsychoBench](https://github.com/CUHK-ARISE/PsychoBench)
 -  <a href="https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wxjiao/Is-ChatGPT-A-Good-Translator?label=Github%20Stars&style=social"> </a>: [Is ChatGPT A Good Translator](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator)    
 
+
+{% include visitor-map.html %}
