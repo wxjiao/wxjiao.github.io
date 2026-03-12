@@ -164,6 +164,7 @@
   </div>
 </div>
 
+{% raw %}
 <!-- D3 v7 -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
 <!-- topojson -->
@@ -175,8 +176,8 @@
   /* ══════════════════════════════════════════════
      ▶  CONFIGURATION  — replace these values
      ══════════════════════════════════════════════ */
-  const SUPABASE_URL      = 'https://yocgiwmzqbqjnfixjfyt.supabase.co';   // ← change
-  const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlvY2dpd216cWJxam5maXhqZnl0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzMzMTI5OTIsImV4cCI6MjA4ODg4ODk5Mn0.uzoZYPLkN-OQ9Z_RhY3D4Lt2tpq9UwyYirFmlZ08q_U';                       // ← change
+  const SUPABASE_URL      = 'https://YOUR_PROJECT.supabase.co';   // ← change
+  const SUPABASE_ANON_KEY = 'YOUR_ANON_KEY';                       // ← change
   /* ═════════════════════════════════════════════ */
 
   const HEADERS = {
@@ -261,10 +262,6 @@
   // Draw countries
   const countries = topojson.feature(world, world.objects.countries).features;
 
-  // We need country names — use a simple ISO numeric → name lookup via a
-  // lightweight inline approach (map the visitors' country strings to shapes
-  // via centroid matching is complex; instead we highlight dots only and
-  // colour all land uniformly, using visited dots as markers)
   svg.selectAll('.land')
     .data(countries)
     .join('path')
@@ -326,3 +323,4 @@
 
 })();
 </script>
+{% endraw %}
