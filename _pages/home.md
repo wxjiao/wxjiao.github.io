@@ -98,13 +98,18 @@ _Sign Language Translation_
 2. Unsupervised Sign Language Translation and Generation. Findings of ACL 2024.
 3. Cross-modality Data Augmentation for End-to-End Sign Language Translation. Findings of EMNLP 2023.
 
-
+<!-- 
 **Spotlight Projects**
 -  <a href="https://github.com/RUC-NLPIR/DeepAgent"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RUC-NLPIR/DeepAgent?label=Github%20Stars&style=social"> </a>: [DeepAgent](https://github.com/RUC-NLPIR/DeepAgent) 
 - <a href="https://github.com/Skytliang/Multi-Agents-Debate"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Skytliang/Multi-Agents-Debate?label=Github%20Stars&style=social"> </a>: [Multi-Agent Debate](https://github.com/Skytliang/Multi-Agents-Debate)       
 - <a href="https://github.com/RobustNLP/CipherChat"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RobustNLP/CipherChat?label=Github%20Stars&style=social"> </a>: [CipherChat](https://github.com/RobustNLP/CipherChat)
 - <a href="https://github.com/CUHK-ARISE/PsychoBench"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/CUHK-ARISE/PsychoBench?label=Github%20Stars&style=social"> </a>: [PsychoBench](https://github.com/CUHK-ARISE/PsychoBench)
--  <a href="https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wxjiao/Is-ChatGPT-A-Good-Translator?label=Github%20Stars&style=social"> </a>: [Is ChatGPT A Good Translator](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator)    
+-  <a href="https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wxjiao/Is-ChatGPT-A-Good-Translator?label=Github%20Stars&style=social"> </a>: [Is ChatGPT A Good Translator](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator)
+-->
+
+**Spotlight Projects**
+
+{% include spotlight-projects.html %}
 
 
 {% include visitor-map.html %}
