@@ -81,13 +81,13 @@ permalink: /
 
 <div markdown="0"><div class="sec-divider"><span class="sec-divider-label">Biography</span><span class="sec-divider-line"></span></div></div>
 
-Hi, this is **Wenxiang Jiao (焦文祥)**, an NLP researcher whose interests include LLM agents, reasoning, and personality.
-Previously, I was also an experienced researcher on machine translation and multilingualism.
+Hi, this is **Wenxiang Jiao (焦文祥)**, a researcher focused on large language models — their reasoning capabilities, agentic behavior, safety, and psychological properties. I build benchmarks, agents, and alignment techniques that push LLMs toward being more capable, reliable, and self-aware.
 I received my Ph.D degree from the [Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) in 2021, under the supervision of [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home) and [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Before that, I received my Bachelor degree and Mphil degree at [Nanjing University](https://www.nju.edu.cn) in 2015 and 2017, respectively.
 
 
 <div markdown="0"><div class="sec-divider"><span class="sec-divider-label">Experiences</span><span class="sec-divider-line"></span></div></div>
 
+- Xiaohongshu Inc. (2025 - Present), LLM Application Algorithm Expert
 - Tencent AI Lab (2021 - 2025), Senior Researcher
 - Tencent AI Lab (2019 - 2021), Research Intern
 
