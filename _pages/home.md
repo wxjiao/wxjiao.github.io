@@ -111,6 +111,11 @@ _Sign Language Translation_
 **Spotlight Projects**
 
 <div markdown="0">
+{% include spotlight-projects.html %}
+</div>
+
+<!--
+<div markdown="0">
 <style>
 .projects-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px;margin:12px 0 32px}
 .project-card{background:#fff;border:1px solid #e2e8f0;border-radius:10px;padding:14px 16px;display:flex;flex-direction:column;gap:10px;transition:box-shadow 0.2s,border-color 0.2s}
@@ -176,6 +181,9 @@ _Sign Language Translation_
 
 </div>
 </div>
+-->
 
 
+<div markdown="0">
 {% include visitor-map.html %}
+</div>
