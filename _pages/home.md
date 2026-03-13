@@ -45,24 +45,60 @@ permalink: /
   </a>
 </div>
 
-**Biography**
+<div markdown="0">
+<style>
+  .sec-divider {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin: 40px 0 18px;
+  }
+  .sec-divider-label {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #1a202c;
+    white-space: nowrap;
+    letter-spacing: 0.01em;
+  }
+  .sec-divider-line {
+    flex: 1;
+    height: 1px;
+    background: #e2e8f0;
+  }
+  .subsec-label {
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: #3b82f6;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin: 24px 0 6px;
+    padding-left: 10px;
+    border-left: 3px solid #3b82f6;
+  }
+</style>
+</div>
+
+
+<div markdown="0"><div class="sec-divider"><span class="sec-divider-label">Biography</span><span class="sec-divider-line"></span></div></div>
 
 Hi, this is **Wenxiang Jiao (焦文祥)**, an NLP researcher whose interests include LLM agents, reasoning, and personality.
 Previously, I was also an experienced researcher on machine translation and multilingualism.
 I received my Ph.D degree from the [Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) in 2021, under the supervision of [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home) and [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Before that, I received my Bachelor degree and Mphil degree at [Nanjing University](https://www.nju.edu.cn) in 2015 and 2017, respectively.
 
 
-**Experiences**
+<div markdown="0"><div class="sec-divider"><span class="sec-divider-label">Experiences</span><span class="sec-divider-line"></span></div></div>
+
 - Tencent AI Lab (2021 - 2025), Senior Researcher
 - Tencent AI Lab (2019 - 2021), Research Intern
 
 
-**Research**
+<div markdown="0"><div class="sec-divider"><span class="sec-divider-label">Research</span><span class="sec-divider-line"></span></div></div>
 
 Currently, I focus on Large Language Models (LLMs), including various interesting topics.
 Representative works include `Is ChatGPT A Good Translator`, `Multi-Agent Debate`, `CipherChat`, `PsychoBench`, `DeepAgent`.
 
-_LLM Agents & Reasoning_
+<div markdown="0"><div class="subsec-label">LLM Agents &amp; Reasoning</div></div>
+
 1. TourPlanner: A Competitive Consensus Framework with Constraint-Gated Reinforcement Learning for Travel Planning. Under Review 2026.
 2. Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback. Under Review 2026.
 3. LoopTool: Closing the Data–Training Loop for Robust LLM Tool Calls. Under Review 2026.
@@ -74,13 +110,15 @@ _LLM Agents & Reasoning_
 9. How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments. ICLR 2025.
 10. **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate. EMNLP 2024.**
 
-_LLM Personality_
+<div markdown="0"><div class="subsec-label">LLM Personality</div></div>
+
 1. Fints: Efficient Inference-Time Personalization for LLMs with Fine-Grained Instance-Tailored Steering. Under Review 2025.
 2. Emotionally Numb or Empathetic? Evaluating How LLMs Feel using EmotionBench. NeurIPS 2024.
 3. On the reliability of psychological scales on large language models. EMNLP 2024.
 4. **On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs. ICLR 2024 Oral.**
 
-_LLM Safety_
+<div markdown="0"><div class="subsec-label">LLM Safety</div></div>
+
 1. Towards Evaluating Proactive Risk Awareness of Multimodal Language Models. NeurIPS 2025 D&B.
 2. Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training. ACL 2025.
 3. Chain-of-Jailbreak Attack for Image Generation Models via Step by Step Editing. Findings of ACL 2025.
@@ -88,18 +126,20 @@ _LLM Safety_
 5. All languages matter: On the multilingual safety of large language models. Findings of ACL 2024.
 6. **GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher. ICLR 2024.**
 
-_LLM Continual Learning_ 
+<div markdown="0"><div class="subsec-label">LLM Continual Learning</div></div>
+
 1. DRPruning: Efficient Large Language Model Pruning through Distributionally Robust Optimization. ACL 2025.
 2. NewTerm: Benchmarking Real-Time New Terms for Large Language Models with Annual Updates. NeurIPS 2024 D&B.
 3. Tencent's Multilingual Machine Translation System for WMT22 Large-Scale African Languages. WMT 2022.
 
-_Sign Language Translation_
+<div markdown="0"><div class="subsec-label">Sign Language Translation</div></div>
+
 1. Improving Gloss-free Sign Language Translation by Reducing Representation Density. NeurIPS 2024.
 2. Unsupervised Sign Language Translation and Generation. Findings of ACL 2024.
 3. Cross-modality Data Augmentation for End-to-End Sign Language Translation. Findings of EMNLP 2023.
 
 
-**Spotlight Projects**
+<div markdown="0"><div class="sec-divider"><span class="sec-divider-label">Spotlight Projects</span><span class="sec-divider-line"></span></div></div>
 
 <div markdown="0">
 {% include spotlight-projects.html %}
