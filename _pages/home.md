@@ -54,7 +54,7 @@ permalink: /
     margin: 40px 0 18px;
   }
   .sec-divider-label {
-    font-size: 1rem;
+    font-size: 2rem;
     font-weight: 700;
     color: #1a202c;
     white-space: nowrap;
@@ -66,7 +66,7 @@ permalink: /
     background: #e2e8f0;
   }
   .subsec-label {
-    font-size: 0.78rem;
+    font-size: 1.6rem;
     font-weight: 600;
     color: #3b82f6;
     text-transform: uppercase;
