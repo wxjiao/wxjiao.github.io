@@ -107,9 +107,75 @@ _Sign Language Translation_
 -  <a href="https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/wxjiao/Is-ChatGPT-A-Good-Translator?label=Github%20Stars&style=social"> </a>: [Is ChatGPT A Good Translator](https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator)
 -->
 
+
 **Spotlight Projects**
 
-{% include spotlight-projects.html %}
+<div markdown="0">
+<style>
+.projects-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px;margin:12px 0 32px}
+.project-card{background:#fff;border:1px solid #e2e8f0;border-radius:10px;padding:14px 16px;display:flex;flex-direction:column;gap:10px;transition:box-shadow 0.2s,border-color 0.2s}
+.project-card:hover{box-shadow:0 4px 16px rgba(0,0,0,0.08);border-color:#cbd5e1}
+.project-card-top{display:flex;align-items:flex-start;justify-content:space-between;gap:8px}
+.project-name{font-size:14px;font-weight:600;color:#1a202c;text-decoration:none;line-height:1.4}
+.project-name:hover{color:#2563eb;text-decoration:underline}
+.project-badge img{display:block;height:18px}
+.project-tag{display:inline-block;font-size:11px;font-weight:500;padding:2px 8px;border-radius:20px;width:fit-content}
+.project-tag-blue{background:#eff6ff;color:#1d4ed8;border:1px solid #bfdbfe}
+.project-tag-green{background:#f0fdf4;color:#15803d;border:1px solid #bbf7d0}
+.project-tag-red{background:#fef2f2;color:#b91c1c;border:1px solid #fecaca}
+.project-tag-gray{background:#f8fafc;color:#475569;border:1px solid #e2e8f0}
+.project-desc{font-size:12px;color:#64748b;margin:0;line-height:1.5}
+</style>
+
+<div class="projects-grid">
+
+  <div class="project-card">
+    <div class="project-card-top">
+      <a class="project-name" href="https://github.com/RUC-NLPIR/DeepAgent" target="_blank">DeepAgent</a>
+      <span class="project-badge"><a href="https://github.com/RUC-NLPIR/DeepAgent" target="_blank"><img src="https://img.shields.io/github/stars/RUC-NLPIR/DeepAgent?label=Stars&style=flat&color=b87a00&labelColor=faeeda" alt="Stars"></a></span>
+    </div>
+    <span class="project-tag project-tag-blue">WWW 2026</span>
+    <p class="project-desc">A general reasoning agent with scalable toolsets for complex multi-step tasks.</p>
+  </div>
+
+  <div class="project-card">
+    <div class="project-card-top">
+      <a class="project-name" href="https://github.com/Skytliang/Multi-Agents-Debate" target="_blank">Multi-Agent Debate</a>
+      <span class="project-badge"><a href="https://github.com/Skytliang/Multi-Agents-Debate" target="_blank"><img src="https://img.shields.io/github/stars/Skytliang/Multi-Agents-Debate?label=Stars&style=flat&color=b87a00&labelColor=faeeda" alt="Stars"></a></span>
+    </div>
+    <span class="project-tag project-tag-blue">EMNLP 2024</span>
+    <p class="project-desc">Encouraging divergent thinking in LLMs through structured multi-agent debate.</p>
+  </div>
+
+  <div class="project-card">
+    <div class="project-card-top">
+      <a class="project-name" href="https://github.com/RobustNLP/CipherChat" target="_blank">CipherChat</a>
+      <span class="project-badge"><a href="https://github.com/RobustNLP/CipherChat" target="_blank"><img src="https://img.shields.io/github/stars/RobustNLP/CipherChat?label=Stars&style=flat&color=b87a00&labelColor=faeeda" alt="Stars"></a></span>
+    </div>
+    <span class="project-tag project-tag-red">ICLR 2024</span>
+    <p class="project-desc">Stealthy chat with LLMs via cipher encoding — GPT-4 is too smart to be safe.</p>
+  </div>
+
+  <div class="project-card">
+    <div class="project-card-top">
+      <a class="project-name" href="https://github.com/CUHK-ARISE/PsychoBench" target="_blank">PsychoBench</a>
+      <span class="project-badge"><a href="https://github.com/CUHK-ARISE/PsychoBench" target="_blank"><img src="https://img.shields.io/github/stars/CUHK-ARISE/PsychoBench?label=Stars&style=flat&color=b87a00&labelColor=faeeda" alt="Stars"></a></span>
+    </div>
+    <span class="project-tag project-tag-green">ICLR 2024 Oral</span>
+    <p class="project-desc">Evaluating the psychological portrayal of LLMs via standardized psychometric scales.</p>
+  </div>
+
+  <div class="project-card">
+    <div class="project-card-top">
+      <a class="project-name" href="https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator" target="_blank">Is ChatGPT A Good Translator</a>
+      <span class="project-badge"><a href="https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator" target="_blank"><img src="https://img.shields.io/github/stars/wxjiao/Is-ChatGPT-A-Good-Translator?label=Stars&style=flat&color=b87a00&labelColor=faeeda" alt="Stars"></a></span>
+    </div>
+    <span class="project-tag project-tag-gray">Machine Translation</span>
+    <p class="project-desc">A systematic evaluation of ChatGPT's translation capabilities across languages and domains.</p>
+  </div>
+
+</div>
+</div>
 
 
 {% include visitor-map.html %}
