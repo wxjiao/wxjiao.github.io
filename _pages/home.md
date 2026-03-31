@@ -95,7 +95,7 @@ I received my Ph.D degree from the [Chinese University of Hong Kong](https://www
 <div markdown="0"><div class="sec-divider"><span class="sec-divider-label">Research</span><span class="sec-divider-line"></span></div></div>
 
 Currently, I focus on Large Language Models (LLMs), including various interesting topics.
-Representative works include `Is ChatGPT A Good Translator`, `Multi-Agent Debate`, `CipherChat`, `PsychoBench`, `DeepAgent`.
+Representative works include `ChatGPT Translator`, `Multi-Agent Debate`, `CipherChat`, `PsychoBench`, `DeepAgent`, `OmniGAIA`.
 
 <div markdown="0"><div class="subsec-label">LLM Agents &amp; Reasoning</div></div>
 
