@@ -102,8 +102,8 @@ Representative works include `ChatGPT Translator`, `Multi-Agent Debate`, `Cipher
 1. OmniGAIA: Towards Native Omni-Modal AI Agents. Under Review 2026.
 2. Tool-Genesis: A Task-Driven Tool Creation Benchmark for Self-Evolving Language Agent. Under Review 2026.
 3. Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback. Under Review 2026.
-4. LoopTool: Closing the Data–Training Loop for Robust LLM Tool Calls. Under Review 2026.
-5. Curing Miracle Steps in LLM Mathematical Reasoning with Rubric Rewards. Under Review 2026.
+4. LoopTool: Closing the Data–Training Loop for Robust LLM Tool Calls. ACL 2026.
+5. Curing Miracle Steps in LLM Mathematical Reasoning with Rubric Rewards. ACL 2026.
 6. DeepCompress: A Dual Reward Strategy for Dynamically Exploring and Compressing Reasoning Chains. ICLR 2026.
 7. REA-RL: Reflection-Aware Online Reinforcement Learning for Efficient Large Reasoning Models. ICLR 2026.
 8. **DeepAgent: A General Reasoning Agent with Scalable Toolsets. WWW 2026.**
