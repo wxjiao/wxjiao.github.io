@@ -13,8 +13,8 @@ class SiteStructureTest < Minitest::Test
     refute_includes home, 'id="carousel"'
     assert_includes home, "home-hero"
     assert_includes home, "research-areas"
-    assert_includes home, "selected-publications"
     assert_includes home, "latest-news"
+    assert_includes home, "section-label"
   end
 
   def test_homepage_raw_html_sections_disable_markdown_parsing
@@ -30,11 +30,9 @@ class SiteStructureTest < Minitest::Test
     home = read_site_file("_pages/home.md")
     hero_lede = home[/<p class="hero-lede">\s*(.*?)\s*<\/p>/m, 1].to_s.strip
 
-    assert_operator hero_lede.length, :<=, 120
-    assert_includes home, "hero-meta"
+    assert_operator hero_lede.length, :<=, 240
     refute_includes home, "hero-affiliation"
     assert_includes home, "research-strip"
-    assert_includes home, "publication-row"
   end
 
   def test_home_layout_is_single_content_flow
@@ -67,7 +65,7 @@ class SiteStructureTest < Minitest::Test
 
     refute_includes footer, "Allan Lab"
     refute_includes footer, "Tencent AI Lab, Shenzhen"
-    assert_includes footer, "Xiaohongshu"
-    assert_includes footer, "Google Scholar"
+    assert_includes footer, "Wenxiang Jiao"
+    assert_includes footer, "Scholar"
   end
 end

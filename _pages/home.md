@@ -13,11 +13,6 @@ permalink: /
     <p class="hero-lede">
       I build benchmarks, agents, and alignment methods that expose where large language models break — in reasoning, safety, and psychological behavior — and turn the findings into systems that ship.
     </p>
-    <div class="hero-meta">
-      <span>LLM Algorithm Expert, Xiaohongshu</span>
-      <span>Former Senior Researcher, Tencent AI Lab</span>
-      <span>Ph.D., CUHK</span>
-    </div>
     <div class="hero-links">
       <a href="https://scholar.google.com/citations?hl=zh-CN&user=CvtODukAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
       <a href="https://github.com/wxjiao">GitHub</a>
@@ -32,13 +27,9 @@ permalink: /
 
 <section markdown="0" class="section-block about-block">
   <div class="section-heading">
-    <p class="eyebrow">Profile</p>
-    <h2>About</h2>
+    <p class="section-label">About</p>
   </div>
   <div class="section-body">
-    <p>
-      My work studies how large language models reason, act, refuse unsafe requests, and portray psychological traits. I turn these questions into benchmarks, open-source systems, and training techniques for robust AI applications.
-    </p>
     <div class="compact-list">
       <div><strong>Current</strong><span>Xiaohongshu Inc., LLM Algorithm Expert, 2025 - Present</span></div>
       <div><strong>Previously</strong><span>Tencent AI Lab, Senior Researcher, 2021 - 2025</span></div>
@@ -60,8 +51,7 @@ permalink: /
 
 <section markdown="0" class="section-block latest-news">
   <div class="section-heading">
-    <p class="eyebrow">Updates</p>
-    <h2>Latest News</h2>
+    <p class="section-label">Updates</p>
   </div>
   <div class="news-list">
     {% for article in site.data.news limit:5 %}
@@ -76,8 +66,7 @@ permalink: /
 
 <section markdown="0" class="section-block">
   <div class="section-heading">
-    <p class="eyebrow">Selected Work</p>
-    <h2>Highlighted Work</h2>
+    <p class="section-label">Selected Work</p>
   </div>
   {% include spotlight-projects.html %}
   <p class="section-link"><a href="{{ site.url }}{{ site.baseurl }}/publications/">View all publications</a></p>
@@ -85,8 +74,7 @@ permalink: /
 
 <section markdown="0" class="section-block research-areas">
   <div class="section-heading">
-    <p class="eyebrow">Research</p>
-    <h2>Research Areas</h2>
+    <p class="section-label">Research</p>
   </div>
   <div class="research-strip">
     <article class="research-topic">

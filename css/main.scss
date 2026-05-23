@@ -189,24 +189,21 @@ img {
 }
 
 .section-heading {
-  display: grid;
-  grid-template-columns: 180px minmax(0, 1fr);
-  gap: 26px;
-  align-items: start;
   margin-bottom: 18px;
 }
 
-.section-heading h2 {
+.section-label {
   margin: 0;
   color: var(--text);
-  font-size: 24px;
-  font-weight: 790;
-  letter-spacing: 0;
+  font-size: 22px;
+  font-weight: 760;
+  line-height: 1.2;
+  letter-spacing: -0.005em;
 }
 
 .section-body {
   max-width: 760px;
-  margin-left: 206px;
+  margin-left: 0;
 }
 
 .section-body > p {
