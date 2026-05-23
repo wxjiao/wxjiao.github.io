@@ -188,6 +188,20 @@ img {
   border-bottom: 1px solid var(--line);
 }
 
+.page-header {
+  padding: 48px 0 22px;
+  border-bottom: 1px solid var(--line);
+}
+
+.page-header h1 {
+  margin: 0;
+  color: var(--text);
+  font-size: 38px;
+  line-height: 1.1;
+  font-weight: 820;
+  letter-spacing: -0.005em;
+}
+
 .section-heading {
   margin-bottom: 18px;
 }
