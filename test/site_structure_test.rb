@@ -26,6 +26,17 @@ class SiteStructureTest < Minitest::Test
            "All raw HTML sections in _pages/home.md must include markdown=\"0\" so kramdown does not render nested tags as code blocks."
   end
 
+  def test_homepage_copy_is_compact_and_scannable
+    home = read_site_file("_pages/home.md")
+    hero_lede = home[/<p class="hero-lede">\s*(.*?)\s*<\/p>/m, 1].to_s.strip
+
+    assert_operator hero_lede.length, :<=, 120
+    assert_includes home, "hero-meta"
+    refute_includes home, "hero-affiliation"
+    assert_includes home, "research-strip"
+    assert_includes home, "publication-row"
+  end
+
   def test_home_layout_is_single_content_flow
     layout = read_site_file("_layouts/homelay.html")
 

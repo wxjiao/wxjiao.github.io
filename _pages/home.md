@@ -8,14 +8,16 @@ permalink: /
 
 <section markdown="0" class="home-hero">
   <div class="home-hero-copy">
-    <p class="eyebrow">Large Language Models · AI Agents · Reasoning · Safety</p>
+    <p class="eyebrow">LLMs · Agents · Reasoning · Safety</p>
     <h1>Wenxiang Jiao <span>焦文祥</span></h1>
     <p class="hero-lede">
-      I build benchmarks, agents, and alignment techniques that make large language models more capable, reliable, and aware of their limits.
+      Researcher building evaluations, agents, and alignment methods for more reliable large language models.
     </p>
-    <p class="hero-affiliation">
-      LLM Application Algorithm Expert at Xiaohongshu. Previously Senior Researcher at Tencent AI Lab. Ph.D., The Chinese University of Hong Kong.
-    </p>
+    <div class="hero-meta">
+      <span>LLM Application Algorithm Expert, Xiaohongshu</span>
+      <span>Former Senior Researcher, Tencent AI Lab</span>
+      <span>Ph.D., CUHK</span>
+    </div>
     <div class="hero-links">
       <a href="https://scholar.google.com/citations?hl=zh-CN&user=CvtODukAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
       <a href="https://github.com/wxjiao">GitHub</a>
@@ -35,7 +37,7 @@ permalink: /
   </div>
   <div class="section-body">
     <p>
-      My research focuses on large language models, especially their reasoning capabilities, agentic behavior, safety, and psychological properties. I am interested in turning these questions into concrete benchmarks, open-source systems, and practical techniques for more robust AI applications.
+      My work studies how large language models reason, act, refuse unsafe requests, and portray psychological traits. I turn these questions into benchmarks, open-source systems, and training techniques for robust AI applications.
     </p>
     <div class="compact-list">
       <div><strong>Current</strong><span>Xiaohongshu Inc., LLM Application Algorithm Expert, 2025 - Present</span></div>
@@ -51,25 +53,25 @@ permalink: /
     <p class="eyebrow">Research</p>
     <h2>Research Areas</h2>
   </div>
-  <div class="research-grid">
-    <article class="research-card">
+  <div class="research-strip">
+    <article class="research-topic">
       <h3>General Agents</h3>
-      <p>Building multimodal and tool-using agents for complex, open-ended tasks.</p>
-      <span>DeepAgent · OmniGAIA · Multi-Agent Debate</span>
+      <p>Multimodal, tool-using, and collaborative agents for complex tasks.</p>
+      <span>DeepAgent · OmniGAIA · MAD</span>
     </article>
-    <article class="research-card">
+    <article class="research-topic">
       <h3>LLM Reasoning</h3>
-      <p>Improving mathematical, reflective, and efficient long-chain reasoning.</p>
-      <span>DeepCompress · REA-RL · Rubric Rewards</span>
+      <p>Mathematical, reflective, and efficient long-chain reasoning.</p>
+      <span>DeepCompress · REA-RL</span>
     </article>
-    <article class="research-card">
+    <article class="research-topic">
       <h3>LLM Safety</h3>
-      <p>Evaluating risk awareness, jailbreak robustness, multilingual safety, and refusal behavior.</p>
-      <span>CipherChat · DeRTa · Multilingual Safety</span>
+      <p>Risk awareness, jailbreak robustness, multilingual safety, and refusal.</p>
+      <span>CipherChat · DeRTa</span>
     </article>
-    <article class="research-card">
+    <article class="research-topic">
       <h3>LLM Personality</h3>
-      <p>Studying how conversational AI portrays emotion, personality, and psychological traits.</p>
+      <p>Emotion, personality, and psychological portrayals in conversational AI.</p>
       <span>PsychoBench · EmotionBench · Fints</span>
     </article>
   </div>
@@ -81,40 +83,48 @@ permalink: /
     <h2>Selected Publications</h2>
   </div>
   <div class="publication-list">
-    <article class="publication-item">
+    <article class="publication-row">
       <div class="publication-meta">WWW 2026</div>
-      <h3>DeepAgent: A General Reasoning Agent with Scalable Toolsets</h3>
-      <p>A general reasoning agent that searches for and uses tools from large-scale toolsets.</p>
-      <div class="inline-links">
-        <a href="https://arxiv.org/abs/2510.21618">Paper</a>
-        <a href="https://github.com/DeepExperience/DeepAgent">Code</a>
+      <div class="publication-main">
+        <h3>DeepAgent: A General Reasoning Agent with Scalable Toolsets</h3>
+        <p>A general reasoning agent that searches for and uses tools from large-scale toolsets.</p>
+        <div class="inline-links">
+          <a href="https://arxiv.org/abs/2510.21618">Paper</a>
+          <a href="https://github.com/DeepExperience/DeepAgent">Code</a>
+        </div>
       </div>
     </article>
-    <article class="publication-item">
+    <article class="publication-row">
       <div class="publication-meta">ICLR 2024 Oral</div>
-      <h3>On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs</h3>
-      <p>PPBench evaluates personality, relationships, motivations, and emotional abilities in LLMs.</p>
-      <div class="inline-links">
-        <a href="https://arxiv.org/abs/2310.01386">Paper</a>
-        <a href="https://github.com/CUHK-ARISE/PsychoBench">Code</a>
+      <div class="publication-main">
+        <h3>On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs</h3>
+        <p>PPBench evaluates personality, relationships, motivations, and emotional abilities in LLMs.</p>
+        <div class="inline-links">
+          <a href="https://arxiv.org/abs/2310.01386">Paper</a>
+          <a href="https://github.com/CUHK-ARISE/PsychoBench">Code</a>
+        </div>
       </div>
     </article>
-    <article class="publication-item">
+    <article class="publication-row">
       <div class="publication-meta">ICLR 2024</div>
-      <h3>GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher</h3>
-      <p>CipherChat studies how safety alignment generalizes to cipher-based non-natural languages.</p>
-      <div class="inline-links">
-        <a href="https://arxiv.org/abs/2308.06463">Paper</a>
-        <a href="https://llmcipherchat.github.io/">Project</a>
+      <div class="publication-main">
+        <h3>GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher</h3>
+        <p>CipherChat studies how safety alignment generalizes to cipher-based non-natural languages.</p>
+        <div class="inline-links">
+          <a href="https://arxiv.org/abs/2308.06463">Paper</a>
+          <a href="https://llmcipherchat.github.io/">Project</a>
+        </div>
       </div>
     </article>
-    <article class="publication-item">
+    <article class="publication-row">
       <div class="publication-meta">EMNLP 2024</div>
-      <h3>Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate</h3>
-      <p>Multi-Agent Debate explores divergent chains of thought through structured agent interaction.</p>
-      <div class="inline-links">
-        <a href="https://arxiv.org/abs/2305.19118">Paper</a>
-        <a href="https://github.com/Skytliang/Multi-Agents-Debate">Code</a>
+      <div class="publication-main">
+        <h3>Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate</h3>
+        <p>Multi-Agent Debate explores divergent chains of thought through structured agent interaction.</p>
+        <div class="inline-links">
+          <a href="https://arxiv.org/abs/2305.19118">Paper</a>
+          <a href="https://github.com/Skytliang/Multi-Agents-Debate">Code</a>
+        </div>
       </div>
     </article>
   </div>
