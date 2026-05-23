@@ -1,0 +1,41 @@
+- name: OmniGAIA
+  url: https://github.com/RUC-NLPIR/OmniGAIA
+  repo: RUC-NLPIR/OmniGAIA
+  venue: ArXiv 2026
+  tone: red
+  description: A benchmark for evaluating omni-modal general AI assistants.
+
+- name: DeepAgent
+  url: https://github.com/RUC-NLPIR/DeepAgent
+  repo: RUC-NLPIR/DeepAgent
+  venue: WWW 2026
+  tone: green
+  description: A general reasoning agent with scalable toolsets for complex multi-step tasks.
+
+- name: Multi-Agent Debate
+  url: https://github.com/Skytliang/Multi-Agents-Debate
+  repo: Skytliang/Multi-Agents-Debate
+  venue: EMNLP 2024
+  tone: blue
+  description: A framework for encouraging divergent thinking in LLMs through structured debate.
+
+- name: CipherChat
+  url: https://github.com/RobustNLP/CipherChat
+  repo: RobustNLP/CipherChat
+  venue: ICLR 2024
+  tone: red
+  description: A safety evaluation framework for stealthy chat with LLMs via cipher encoding.
+
+- name: PsychoBench
+  url: https://github.com/CUHK-ARISE/PsychoBench
+  repo: CUHK-ARISE/PsychoBench
+  venue: ICLR 2024 Oral
+  tone: green
+  description: A benchmark for evaluating psychological portrayals in large language models.
+
+- name: Is ChatGPT A Good Translator
+  url: https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator
+  repo: wxjiao/Is-ChatGPT-A-Good-Translator
+  venue: ArXiv 2023
+  tone: blue
+  description: A systematic evaluation of ChatGPT translation across languages and domains.

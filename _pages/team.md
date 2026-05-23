@@ -1,7 +1,7 @@
 ---
 title: "Wenxiang Jiao (焦文祥) - Team"
 layout: gridlay
-excerpt: "Wenxiang's new page: Team members"
+excerpt: "Team members, collaborators, and students working with Wenxiang Jiao."
 sitemap: false
 permalink: /team/
 ---
