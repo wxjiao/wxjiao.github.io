@@ -6,7 +6,7 @@ sitemap: true
 permalink: /
 ---
 
-<section class="home-hero">
+<section markdown="0" class="home-hero">
   <div class="home-hero-copy">
     <p class="eyebrow">Large Language Models · AI Agents · Reasoning · Safety</p>
     <h1>Wenxiang Jiao <span>焦文祥</span></h1>
@@ -28,7 +28,7 @@ permalink: /
   </div>
 </section>
 
-<section class="section-block about-block">
+<section markdown="0" class="section-block about-block">
   <div class="section-heading">
     <p class="eyebrow">Profile</p>
     <h2>About</h2>
@@ -46,7 +46,7 @@ permalink: /
   </div>
 </section>
 
-<section class="section-block research-areas">
+<section markdown="0" class="section-block research-areas">
   <div class="section-heading">
     <p class="eyebrow">Research</p>
     <h2>Research Areas</h2>
@@ -75,7 +75,7 @@ permalink: /
   </div>
 </section>
 
-<section class="section-block selected-publications">
+<section markdown="0" class="section-block selected-publications">
   <div class="section-heading">
     <p class="eyebrow">Selected Work</p>
     <h2>Selected Publications</h2>
@@ -121,7 +121,7 @@ permalink: /
   <p class="section-link"><a href="{{ site.url }}{{ site.baseurl }}/publications/">View all publications</a></p>
 </section>
 
-<section class="section-block">
+<section markdown="0" class="section-block">
   <div class="section-heading">
     <p class="eyebrow">Open Source</p>
     <h2>Spotlight Projects</h2>
@@ -129,7 +129,7 @@ permalink: /
   {% include spotlight-projects.html %}
 </section>
 
-<section class="section-block latest-news">
+<section markdown="0" class="section-block latest-news">
   <div class="section-heading">
     <p class="eyebrow">Updates</p>
     <h2>Latest News</h2>
