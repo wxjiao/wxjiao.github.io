@@ -1,7 +1,7 @@
 ---
 title: "Wenxiang Jiao (焦文祥) - Publications"
 layout: gridlay
-excerpt: "Wenxiang's new page: Publications."
+excerpt: "Selected and full publication list for Wenxiang Jiao."
 sitemap: false
 permalink: /publications/
 ---

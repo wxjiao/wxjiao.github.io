@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Recent research updates, publications, talks, and project news from Wenxiang Jiao."
 sitemap: false
 permalink: /allnews.html
 ---
