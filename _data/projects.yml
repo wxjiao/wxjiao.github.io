@@ -3,6 +3,7 @@
   repo: RUC-NLPIR/OmniGAIA
   venue: ArXiv 2026
   tone: preprint
+  paper: https://arxiv.org/abs/2602.22897
   description: A benchmark for evaluating omni-modal general AI assistants.
 
 - name: DeepAgent
@@ -42,4 +43,5 @@
   repo: wxjiao/Is-ChatGPT-A-Good-Translator
   venue: ArXiv 2023
   tone: preprint
+  paper: https://arxiv.org/abs/2301.08745
   description: A systematic evaluation of ChatGPT translation across languages and domains.
