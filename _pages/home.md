@@ -43,9 +43,44 @@ permalink: /
       <div><strong>Current</strong><span>Xiaohongshu Inc., LLM Algorithm Expert, 2025 - Present</span></div>
       <div><strong>Previously</strong><span>Tencent AI Lab, Senior Researcher, 2021 - 2025</span></div>
       <div><strong>Education</strong><span>Ph.D., The Chinese University of Hong Kong, 2021</span></div>
-      <div><strong>Service</strong><span>Reviewer for Nature, Nature Machine Intelligence, NeurIPS, ICML, and ACL</span></div>
+      <div class="service-row">
+        <strong>Service</strong>
+        <span class="service-venues">
+          <span class="venue-label">Reviewer for</span>
+          <span class="venue-chip">Nature</span>
+          <span class="venue-chip">Nature Machine Intelligence</span>
+          <span class="venue-chip">NeurIPS</span>
+          <span class="venue-chip">ICML</span>
+          <span class="venue-chip">ACL</span>
+        </span>
+      </div>
     </div>
   </div>
+</section>
+
+<section markdown="0" class="section-block latest-news">
+  <div class="section-heading">
+    <p class="eyebrow">Updates</p>
+    <h2>Latest News</h2>
+  </div>
+  <div class="news-list">
+    {% for article in site.data.news limit:5 %}
+    <article class="news-item">
+      <time>{{ article.date }}</time>
+      <p>{{ article.headline }}</p>
+    </article>
+    {% endfor %}
+  </div>
+  <p class="section-link"><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">Read all news</a></p>
+</section>
+
+<section markdown="0" class="section-block">
+  <div class="section-heading">
+    <p class="eyebrow">Selected Work</p>
+    <h2>Highlighted Work</h2>
+  </div>
+  {% include spotlight-projects.html %}
+  <p class="section-link"><a href="{{ site.url }}{{ site.baseurl }}/publications/">View all publications</a></p>
 </section>
 
 <section markdown="0" class="section-block research-areas">
@@ -75,82 +110,4 @@ permalink: /
       <span>PsychoBench · EmotionBench · Fints</span>
     </article>
   </div>
-</section>
-
-<section markdown="0" class="section-block selected-publications">
-  <div class="section-heading">
-    <p class="eyebrow">Selected Work</p>
-    <h2>Selected Publications</h2>
-  </div>
-  <div class="publication-list">
-    <article class="publication-row">
-      <div class="publication-meta">WWW 2026</div>
-      <div class="publication-main">
-        <h3>DeepAgent: A General Reasoning Agent with Scalable Toolsets</h3>
-        <p>A general reasoning agent that searches for and uses tools from large-scale toolsets.</p>
-        <div class="inline-links">
-          <a href="https://arxiv.org/abs/2510.21618">Paper</a>
-          <a href="https://github.com/DeepExperience/DeepAgent">Code</a>
-        </div>
-      </div>
-    </article>
-    <article class="publication-row">
-      <div class="publication-meta">ICLR 2024 Oral</div>
-      <div class="publication-main">
-        <h3>On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs</h3>
-        <p>PPBench evaluates personality, relationships, motivations, and emotional abilities in LLMs.</p>
-        <div class="inline-links">
-          <a href="https://arxiv.org/abs/2310.01386">Paper</a>
-          <a href="https://github.com/CUHK-ARISE/PsychoBench">Code</a>
-        </div>
-      </div>
-    </article>
-    <article class="publication-row">
-      <div class="publication-meta">ICLR 2024</div>
-      <div class="publication-main">
-        <h3>GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher</h3>
-        <p>CipherChat studies how safety alignment generalizes to cipher-based non-natural languages.</p>
-        <div class="inline-links">
-          <a href="https://arxiv.org/abs/2308.06463">Paper</a>
-          <a href="https://llmcipherchat.github.io/">Project</a>
-        </div>
-      </div>
-    </article>
-    <article class="publication-row">
-      <div class="publication-meta">EMNLP 2024</div>
-      <div class="publication-main">
-        <h3>Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate</h3>
-        <p>Multi-Agent Debate explores divergent chains of thought through structured agent interaction.</p>
-        <div class="inline-links">
-          <a href="https://arxiv.org/abs/2305.19118">Paper</a>
-          <a href="https://github.com/Skytliang/Multi-Agents-Debate">Code</a>
-        </div>
-      </div>
-    </article>
-  </div>
-  <p class="section-link"><a href="{{ site.url }}{{ site.baseurl }}/publications/">View all publications</a></p>
-</section>
-
-<section markdown="0" class="section-block">
-  <div class="section-heading">
-    <p class="eyebrow">Open Source</p>
-    <h2>Spotlight Projects</h2>
-  </div>
-  {% include spotlight-projects.html %}
-</section>
-
-<section markdown="0" class="section-block latest-news">
-  <div class="section-heading">
-    <p class="eyebrow">Updates</p>
-    <h2>Latest News</h2>
-  </div>
-  <div class="news-list">
-    {% for article in site.data.news limit:5 %}
-    <article class="news-item">
-      <time>{{ article.date }}</time>
-      <p>{{ article.headline }}</p>
-    </article>
-    {% endfor %}
-  </div>
-  <p class="section-link"><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">Read all news</a></p>
 </section>
