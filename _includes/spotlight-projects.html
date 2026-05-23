@@ -4,11 +4,15 @@
     <div class="project-card-top">
       <a class="project-name" href="{{ project.url }}">{{ project.name }}</a>
       <a class="project-badge" href="{{ project.url }}" aria-label="{{ project.name }} GitHub stars">
-        <img src="https://img.shields.io/github/stars/{{ project.repo }}?label=Stars&style=flat&color=2563eb&labelColor=eff6ff" alt="GitHub stars for {{ project.name }}">
+        <img loading="lazy" src="https://img.shields.io/github/stars/{{ project.repo }}?label=&style=flat&color=2563eb&labelColor=eff6ff" alt="GitHub stars for {{ project.name }}">
       </a>
     </div>
     <span class="project-tag project-tag-{{ project.tone }}">{{ project.venue }}</span>
     <p>{{ project.description }}</p>
+    <div class="inline-links project-links">
+      {% if project.paper %}<a href="{{ project.paper }}">Paper</a>{% endif %}
+      <a href="{{ project.url }}">Code</a>
+    </div>
   </article>
   {% endfor %}
 </div>

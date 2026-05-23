@@ -360,19 +360,70 @@ img {
   font-weight: 800;
 }
 
-.project-tag-blue {
+.project-tag-conf {
   background: #eff6ff;
   color: #1d4ed8;
 }
 
-.project-tag-green {
-  background: #ecfdf5;
-  color: var(--green);
+.project-tag-oral {
+  background: #fff8e1;
+  color: #92590b;
+  box-shadow: inset 0 0 0 1px #f4cf66;
 }
 
-.project-tag-red {
-  background: #fef2f2;
-  color: var(--red);
+.project-tag-oral::before {
+  content: "★ ";
+  margin-right: 2px;
+}
+
+.project-tag-preprint {
+  background: transparent;
+  color: var(--muted);
+  box-shadow: inset 0 0 0 1px var(--line);
+}
+
+.project-tag-workshop {
+  background: #f1f5f9;
+  color: #475569;
+}
+
+.project-links {
+  margin-top: 12px;
+}
+
+.project-links a {
+  min-height: 28px;
+  padding: 3px 9px;
+  font-size: 12px;
+}
+
+.service-row {
+  align-items: start !important;
+}
+
+.service-venues {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+}
+
+.service-venues .venue-label {
+  color: var(--muted);
+  margin-right: 2px;
+}
+
+.service-venues .venue-chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 9px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--soft);
+  color: var(--text);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.01em;
 }
 
 .news-list {
@@ -415,6 +466,32 @@ img {
   display: grid;
   grid-template-columns: 2fr 1fr 1.1fr;
   gap: 24px;
+}
+
+.footer-grid-compact {
+  grid-template-columns: 1fr auto;
+  align-items: center;
+}
+
+.footer-brand p {
+  margin: 2px 0 0;
+  font-size: 13px;
+}
+
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  font-size: 14px;
+  font-weight: 650;
+}
+
+.footer-links a {
+  color: var(--muted);
+}
+
+.footer-links a:hover {
+  color: var(--accent);
 }
 
 .footer-grid strong {
