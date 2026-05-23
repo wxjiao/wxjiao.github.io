@@ -39,9 +39,6 @@ permalink: /
     <p>
       My work studies how large language models reason, act, refuse unsafe requests, and portray psychological traits. I turn these questions into benchmarks, open-source systems, and training techniques for robust AI applications.
     </p>
-    <p>
-      At Xiaohongshu I lead LLM application algorithms — taking research on agents, reasoning, and safety, and turning it into models and systems that serve hundreds of millions of users. I continue to publish and collaborate with academic groups in NLP and AI.
-    </p>
     <div class="compact-list">
       <div><strong>Current</strong><span>Xiaohongshu Inc., LLM Application Algorithm Expert, 2025 - Present</span></div>
       <div><strong>Previously</strong><span>Tencent AI Lab, Senior Researcher, 2021 - 2025</span></div>
