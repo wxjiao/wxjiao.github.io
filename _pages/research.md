@@ -30,6 +30,7 @@ permalink: /research/
       <div class="publication-meta">ArXiv 2026</div>
       <div class="publication-main">
         <h3>MuSEAgent: A Multimodal Reasoning Agent with Stateful Experiences</h3>
+        <p>Abstracts interaction data into atomic decision experiences via hindsight reasoning, then retrieves them at inference through policy-driven wide- and deep-search strategies, improving fine-grained visual perception and multimodal reasoning over trajectory-level retrieval baselines.</p>
         <div class="inline-links">
           <a href="https://arxiv.org/abs/2603.27813">Paper</a>
           <a href="https://github.com/DeepExperience/MuSEAgent">Code</a>
@@ -40,6 +41,7 @@ permalink: /research/
       <div class="publication-meta">ArXiv 2026</div>
       <div class="publication-main">
         <h3>MMSkills: Towards Multimodal Skills for General Visual Agents</h3>
+        <p>Represents reusable multimodal procedures as compact, state-conditioned skill packages — a textual procedure paired with runtime state cards and multi-view keyframes — generated from public trajectories and consulted by a branch-loaded skill agent at runtime.</p>
         <div class="inline-links">
           <a href="https://arxiv.org/abs/2605.13527">Paper</a>
           <a href="https://github.com/DeepExperience/MMSkills">Code</a>
@@ -93,13 +95,22 @@ permalink: /research/
     <article class="publication-row">
       <div class="publication-meta">ICLR 2026</div>
       <div class="publication-main">
-        <h3>REA-RL</h3>
+        <h3>REA-RL: Reflection-Aware Online Reinforcement Learning for Efficient Large Reasoning Models</h3>
+        <p>Tackles overthinking in large reasoning models with a small reflection model that enables parallel sampling and sequential revision during online RL, plus a reflection reward that preserves reflection ability — reducing inference cost by ~35% without sacrificing accuracy.</p>
+        <div class="inline-links">
+          <a href="https://arxiv.org/abs/2505.19862">Paper</a>
+          <a href="https://github.com/hexuandeng/REA-RL">Code</a>
+        </div>
       </div>
     </article>
     <article class="publication-row">
       <div class="publication-meta">ICLR 2026</div>
       <div class="publication-main">
-        <h3>DeepCompress</h3>
+        <h3>DeepCompress: A Dual Reward Strategy for Dynamically Exploring and Compressing Reasoning Chains</h3>
+        <p>A dual-reward RL framework that classifies problems as Simple or Hard in real time and adaptively shortens or extends Chain-of-Thought, improving both accuracy and token efficiency on challenging math benchmarks.</p>
+        <div class="inline-links">
+          <a href="https://arxiv.org/abs/2510.27419">Paper</a>
+        </div>
       </div>
     </article>
     <article class="publication-row">
