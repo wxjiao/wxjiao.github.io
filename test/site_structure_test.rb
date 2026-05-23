@@ -17,6 +17,15 @@ class SiteStructureTest < Minitest::Test
     assert_includes home, "latest-news"
   end
 
+  def test_homepage_raw_html_sections_disable_markdown_parsing
+    home = read_site_file("_pages/home.md")
+    section_lines = home.lines.grep(/<section\b/)
+
+    refute_empty section_lines
+    assert section_lines.all? { |line| line.include?('markdown="0"') },
+           "All raw HTML sections in _pages/home.md must include markdown=\"0\" so kramdown does not render nested tags as code blocks."
+  end
+
   def test_home_layout_is_single_content_flow
     layout = read_site_file("_layouts/homelay.html")
 
