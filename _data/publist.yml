@@ -1,0 +1,345 @@
+- title: "DeepAgent: A General Reasoning Agent with Scalable Toolsets"
+  image: cover_deepagent.png
+  description: DeepAgent is a reasoning agent with scalable toolsets, capable of tackling general tasks by searching for and using the appropriate tools from over 16,000 RapidAPIs in an end-to-end agentic reasoning process.
+  authors: Xiaoxi Li, Wenxiang Jiao, Jiarui Jin, Guanting Dong, Jiajie Jin, Yinuo Wang, Hao Wang, Yutao Zhu, Ji-Rong Wen, Yuan Lu, Zhicheng Dou
+  link:
+    url: https://arxiv.org/abs/2510.21618
+    display: WWW 2026
+  codelink:
+    url: https://github.com/DeepExperience/DeepAgent
+    display: Code
+  medialink:
+    url: https://x.com/rryssf_/status/1983842885784269116
+    display: X (Twitter)
+  highlight: 1
+
+- title: "Towards Evaluating Proactive Risk Awareness of Multimodal Language Models"
+  image: cover_xxx.png
+  description: As the title suggests.
+  authors: Youliang Yuan, Wenxiang Jiao, Yuejin Xie, Chihao Shen, Menghan Tian, Wenxuan Wang, Jen-tse Huang, Pinjia He
+  link:
+    url: https://arxiv.org/abs/2505.17455
+    display: NeurIPS 2025 Datasets & Benchmarks
+  highlight: 0
+
+- title: "Learning to Ask: When LLM Agents Meet Unclear Instruction"
+  image: cover_xxx.png
+  description: As the title suggests.
+  authors: Wenxuan Wang, Juluan Shi, Zixuan Ling, Yuk-Kit Chan, Chaozheng Wang, Cheryl Lee, Youliang Yuan, Jen-tse Huang, Wenxiang Jiao**, Michael R Lyu
+  link:
+    url: https://arxiv.org/abs/2409.00557
+    display: EMNLP 2025
+  highlight: 0
+
+- title: "DRPruning: Efficient Large Language Model Pruning through Distributionally Robust Optimization"
+  image: cover_xxx.png
+  description: As the title suggests.
+  authors: Hexuan Deng, Wenxiang Jiao, Xuebo Liu, Min Zhang, Zhaopeng Tu
+  link:
+    url: https://arxiv.org/abs/2411.14055
+    display: ACL 2025
+  codelink:
+    url: https://github.com/hexuandeng/DRPruning
+    display: Code
+  highlight: 0
+
+- title: "Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training"
+  image: cover_xxx.png
+  description: As the title suggests.
+  authors: Youliang Yuan, Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Jiahao Xu, Tian Liang, Pinjia He, Zhaopeng Tu
+  link:
+    url: https://arxiv.org/abs/2407.09121
+    display: ACL 2025
+  codelink:
+    url: https://github.com/RobustNLP/DeRTa
+    display: Code
+  highlight: 0
+
+- title: "Chain-of-Jailbreak Attack for Image Generation Models via Editing Step by Step"
+  image: cover_xxx.png
+  description: As the title suggests.
+  authors: Wenxuan Wang, Kuiyi Gao, Zihan Jia, Youliang Yuan, Jen-tse Huang, Qiuzhi Liu, Shuai Wang, Wenxiang Jiao**, Zhaopeng Tu
+  link:
+    url: https://arxiv.org/abs/2410.03869
+    display: ACL 2025 (Findings)
+  codelink:
+    url: https://github.com/Jarviswang94/Chain-of-Jailbreak
+    display: Code
+  highlight: 0
+
+- title: "How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments"
+  image: cover_xxx.png
+  description: As the title suggests.
+  authors: Jen-tse Huang, Eric John Li, Man Ho Lam, Tian Liang, Wenxuan Wang, Youliang Yuan, Wenxiang Jiao**, Xing Wang, Zhaopeng Tu, Michael R Lyu
+  link:
+    url: https://arxiv.org/abs/2403.11807
+    display: ICLR 2025
+  codelink:
+    url: https://github.com/CUHK-ARISE/GAMABench
+    display: Code
+  highlight: 0
+
+- title: "Emotionally Numb or Empathetic? Evaluating How LLMs Feel using EmotionBench"
+  image: cover_xxx.png
+  description: As the title suggests.
+  authors: Jen-tse Huang, Man Ho Lam, Eric John Li, Shujie Ren, Wenxuan Wang, Wenxiang Jiao**, Zhaopeng Tu and Michael R. Lyu
+  link:
+    url: https://arxiv.org/abs/2308.03656
+    display: NeurIPS 2024
+  codelink:
+    url: https://github.com/CUHK-ARISE/EmotionBench
+    display: Code
+  highlight: 0
+
+- title: "Improving Gloss-free Sign Language Translation by Reducing Representation Density"
+  image: cover_xxx.png
+  description: As the title suggests.
+  authors: Jinhui Ye, Xing Wang, Wenxiang Jiao**, Junwei Liang, Hui Xiong
+  link:
+    url: https://arxiv.org/abs/2405.14312
+    display: NeurIPS 2024
+  codelink:
+    url: https://github.com/JinhuiYE/SignCL
+    display: Code
+  highlight: 0
+
+- title: "NewTerm: Benchmarking Real-Time New Terms for Large Language Models with Annual Updates"
+  image: cover_xxx.png
+  description: As the title suggests.
+  authors: Hexuan Deng, Wenxiang Jiao, Xuebo Liu, Min Zhang, Zhaopeng Tu
+  link:
+    url: https://arxiv.org/abs/2405.14312
+    display: NeurIPS 2024 Datasets & Benchmarks
+  codelink:
+    url: https://github.com/hexuandeng/NewTerm
+    display: Code
+  highlight: 0
+
+- title: "On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs"
+  image: cover_ppbench.png
+  description: We propose a framework, PPBench, for evaluating diverse psychological aspects of LLMs, including personality traits, interpersonal relationships, motivational tests, and emotional abilities.
+  authors: Jen-tse Huang, Wenxuan Wang, Eric John Li, Man Ho LAM, Shujie Ren, Youliang Yuan, Wenxiang Jiao**, Zhaopeng Tu and Michael Lyu
+  link:
+    url: https://arxiv.org/abs/2310.01386
+    display: ICLR 2024 Oral (1.2%)
+  codelink:
+    url: https://github.com/CUHK-ARISE/PsychoBench
+    display: Code
+  highlight: 1
+
+- title: "GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher"
+  image: cover_cipherchat.png
+  description: We propose a novel framework, CipherChat, to systematically examine the generalizability of safety alignment to non-natural languages – ciphers. GPT-4 understands ciphers such that it tend to generate unsafe outputs with CipherChat.
+  authors: Youliang Yuan, Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Pinjia He, Shuming Shi and Zhaopeng Tu
+  link:
+    url: https://arxiv.org/abs/2308.06463
+    display: ICLR 2024
+  codelink:
+    url: https://llmcipherchat.github.io/
+    display: Code
+  highlight: 1
+
+- title: "ChatGPT an ENFJ, Bard an ISTJ: Empirical Study on Personalities of Large Language Models"
+  image: cover_xxx.png
+  description: As the title suggests.
+  authors: Jen-tse Huang, Wenxuan Wang, Man Ho Lam, Eric John Li, Wenxiang Jiao** and Michael R. Lyu
+  link:
+    url: https://arxiv.org/abs/2305.19926
+    display: Preprint
+  codelink:
+    url: https://github.com/cuhk-arise/llmpersonality
+    display: Code
+  highlight: 0
+
+- title: "Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate"
+  image: cover_mad.png
+  description: We propose and define the Degeneration-of-Thought (DoT) problem in self-reflection, and address it by proposing the Multi-Agent Debate (MAD) framework to explore divergent chain-of-thoughts.
+  authors: Tian Liang *, Zhiwei He *, Wenxiang Jiao *, Xing Wang, Yan Wang, Rui Wang, Yujiu Yang, Zhaopeng Tu and Shuming Shi
+  link:
+    url: https://arxiv.org/abs/2305.19118
+    display: EMNLP 2024
+  codelink:
+    url: https://github.com/Skytliang/Multi-Agents-Debate
+    display: Code
+  highlight: 1
+
+- title: "Exploring Human-Like Translation Strategy with Large Language Models"
+  image: cover_maps.png
+  description: We propose the MAPS framework to enable LLMs (e.g., ChatGPT, Alpaca) to mimic the human translation process by multi-aspect prompting and selection.
+  authors: Zhiwei He *, Tian Liang *, Wenxiang Jiao, Zhuosheng Zhang, Yujiu Yang, Rui Wang, Zhaopeng Tu, Shuming Shi and Xing Wang
+  link:
+    url: https://arxiv.org/abs/2305.04118
+    display: TACL 2024
+  codelink:
+    url: https://github.com/zwhe99/MAPS-mt
+    display: Code
+  medialink:
+    url: https://slator.com/how-large-language-models-mimic-human-translation-process/
+    display: Media Report
+  highlight: 1
+
+- title: "ParroT: Translating During Chat Using Large Language Models"
+  image: cover_parrot.png
+  description: We propose the ParroT framework to enhance and regulate the translation abilities during chat based on open-sourced LLMs~(i.e., LLaMA-7b) and human written translation and evaluation data. Specifically, ParroT reformulates translation data into the instruction-following style, and introduces a “Hint” field for incorporating extra requirements to regulate the translation process.
+  authors: Wenxiang Jiao, Jen-tse Huang, Wenxuan Wang, Xing Wang, Shuming Shi and Zhaopeng Tu
+  link:
+    url: https://www.researchgate.net/publication/369797448_PARROT_Translating_During_Chat_Using_Large_Language_Models
+    display: EMNLP 2023 (Findings)
+  codelink:
+    url: https://github.com/wxjiao/ParroT/blob/main/README.md
+    display: Code
+  highlight: 1
+
+- title: "ChatGPT or Grammarly? Evaluating ChatGPT on Grammatical Error Correction Benchmark"
+  image: xxx.png
+  description: We find that ChatGPT tends to change the surface expression of certain phrases or sentence structure while maintaining grammatical correctness. It is severely under-estimated by the automatic evaluation metrics and could be a promising tool for GEC.
+  authors: Haoran Wu, Wenxuan Wang, Yuxuan Wan, Wenxiang Jiao and Michael R. Lyu
+  link:
+    url: https://arxiv.org/abs/2303.13648
+    display: Preprint
+  highlight: 0
+
+- title: "Is ChatGPT A Good Translator? A Preliminary Study/Yes With GPT-4 As The Engine"
+  image: cover_tech_chatgpt.png
+  description: We find that ChatGPT performs competitively with commercial translation products (e.g., Google Translate) on high-resource European languages and also well on spoken language. GPT-4 further bridges the gap of translation performance for even low-resource or distant languages.
+  authors: Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Xing Wang, Shuming Shi and Zhaopeng Tu
+  link:
+    url: https://arxiv.org/abs/2301.08745
+    display: Preprint
+  codelink:
+    url: https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator
+    display: Code
+  medialink:
+    url: https://slator.com/tencent-pits-chatgpt-translation-quality-against-deepl-google-translate/
+    display: Media Report
+  highlight: 1
+
+- title: "kNN-TL: k-Nearest-Neighbor Transfer Learning for Low-Resource Neural Machine Translation"
+  image: xxx.jpeg
+  description: TBD
+  authors: Shudong Liu, Xuebo Liu, Derek F. Wong, Zhaocong Li, Wenxiang Jiao, Lidia S. Chao and Min Zhang
+  link:
+    url: https://tbd.pdf
+    display: ACL 2023
+  highlight: 0
+
+- title: "Cross-modality Data Augmentation for End-to-End Sign Language Translation"
+  image: xxx.jpeg
+  description: TBD
+  authors: Jinhui Ye, Wenxiang Jiao, Xing Wang, Zhaopeng Tu and Hui Xiong
+  link:
+    url: https://tbd.pdf
+    display: EMNLP 2023 (Findings)
+  highlight: 0
+
+- title: "Scaling Back-Translation with Domain Text Generation for Sign Language Gloss Translation"
+  image: xxx.jpeg
+  description: We propose a Prompt based domain text Generation (PGEN) approach to produce the large-scale in-domain spoken language text data so as to scale back-translation for sign language translation.
+  authors: Jinhui Ye *, Wenxiang Jiao *, Xing Wang and Zhaopeng Tu
+  link:
+    url: https://arxiv.org/pdf/2210.07054.pdf
+    display: EACL 2023
+  highlight: 0
+
+- title: "Tencent’s Multilingual Machine Translation System for WMT22 Large-Scale African Languages"
+  image: cover_wmt22.jpeg
+  description: We adopt data augmentation, distributionally robust optimization, and language family grouping, respectively, to develop our multilingual neural machine translation (MNMT) models for African languages. 
+  authors: Wenxiang Jiao, Zhaopeng Tu, Jiarui Li, Wenxuan Wang, Jen-tse Huang and Shuming Shi
+  link:
+    url: https://arxiv.org/abs/2210.09644
+    display: WMT 2022 / 1st Place in the Competition 
+  codelink:
+    url: https://github.com/wxjiao/WMT2022-Large-Scale-African
+    display: Code
+  highlight: 1
+  
+- title: "Adapters for Enhanced Modeling of Multilingual Knowledge and Text"
+  image: adapter.png
+  description: We enhance multilingual LMs with knowledge from multilingual knowledge graphs to tackle language and knowledge graph tasks across many languages.
+  authors: Yifan Hou, Wenxiang Jiao, Meizhen Liu, Carl Allen, Zhaopeng Tu and Mrinmaya Sachan
+  link:
+    url: https://arxiv.org/abs/2210.13617
+    display: EMNLP 2022 (Findings) / Best Paper Award at MRL Workshop 
+  codelink:
+    url: https://github.com/yifan-h/Multilingual_Space
+    display: Code
+  highlight: 1
+
+- title: "Understanding and Improving Sequence-to-Sequence Pretraining for Neural Machine Translation"
+  image: cover_acl22_under.jpeg
+  description: We point out the discrepancies between Seq2Seq pretraining and NMT finetuning that limit the translation quality (i.e., domain discrepancy) and induce the over-estimation issue (i.e., objective discrepancy), and propose in-domain pretraining and input adaptation as solutions.
+  authors: Wenxuan Wang, Wenxiang Jiao, Yongchang Hao, Xing Wang, Shuming Shi, Zhaopeng Tu and Michael R. Lyu
+  link:
+    url: https://aclanthology.org/2022.acl-long.185
+    display: ACL 2022
+  highlight: 0
+
+- title: "Exploiting Inactive Examples for Natural Language Generation with Data Rejuvenation"
+  image: cover_taslp22_exploit.jpeg
+  description: An extended version of data rejuvenation for general NLG tasks, including both machine translation and text summarization.
+  authors: Wenxiang Jiao, Xing Wang, Shilin He, Zhaopeng Tu, Irwin King and Michael R. Lyu
+  link:
+    url: https://ieeexplore.ieee.org/document/9721161
+    display: IEEE/ACM TASLP 2022
+  highlight: 0
+  
+- title: "Self-training Sampling with Monolingual Data Uncertainty for Neural Machine Translation"
+  image: cover_acl21_selftrain.jpeg
+  description: We design an uncertainty-based sampling strategy to efficiently exploit the monolingual data for self-training, in which monolingual sentences with higher uncertainty would be sampled with higher probability.
+  authors: Wenxiang Jiao, Xing Wang, Zhaopeng Tu, Shuming Shi, Michael R. Lyu and Irwin King
+  link:
+    url: https://aclanthology.org/2021.acl-long.221.pdf
+    display: ACL 2021
+  codelink:
+    url: https://github.com/wxjiao/UncSamp
+    display: Code
+  highlight: 0
+
+- title: "Data Rejuvenation: Exploiting Inactive Training Examples for Neural Machine Translation"
+  image: cover_emnlp20_datareju.jpeg
+  description: We introduce data rejuvenation to improve the training of NMT models on large-scale datasets by identifying and re-labeling inactive examples.
+  authors: Wenxiang Jiao, Xing Wang, Shilin He, Irwin King, Michael R. Lyu and Zhaopeng Tu
+  link:
+    url: https://www.aclweb.org/anthology/2020.emnlp-main.176
+    display: EMNLP 2020
+  codelink:
+    url: https://github.com/wxjiao/Data-Rejuvenation
+    display: Code
+  highlight: 0
+  
+- title: "Exploiting Unsupervised Data for Emotion Recognition in Conversations"
+  image: xxx.jpeg
+  description: We Pre-train a COntext-Dependent Encoder (Pre-CODE) on the conversation completion task with unlabled data to boost the performance of conversational emotion recognition task.
+  authors: Wenxiang Jiao, Michael R. Lyu and Irwin King
+  link:
+    url: https://www.aclweb.org/anthology/2020.findings-emnlp.435
+    display: EMNLP 2020 (Findings)
+  codelink:
+    url: https://github.com/wxjiao/Pre-CODE
+    display: Code
+  highlight: 0
+  
+- title: "Real-Time Emotion Recognition via Attention Gated Hierarchical Memory Network"
+  image: xxx.jpeg
+  description: We propose an Attention Gated Hierarchical Memory Network (AGHMN) to build the memory bank carefully for capturing historical context and summarize the memories appropriately for real-time conversational emotion recognition.
+  authors: Wenxiang Jiao, Michael R. Lyu and Irwin King
+  link:
+    url: https://aaai.org/ojs/index.php/AAAI/article/view/6309
+    display: AAAI 2020
+  codelink:
+    url: https://github.com/wxjiao/AGHMN
+    display: Code
+  highlight: 0
+  
+- title: "HiGRU - Hierarchical Gated Recurrent Units for Utterance-Level Emotion Recognition"
+  image: xxx.jpeg
+  description: We propose a Hierarchical Gated Recurrent Unit (HiGRU) framework with a lower-level GRU to model the word-level inputs and an upper-level GRU to capture the contexts of utterance-level embeddings for conversational emotion recognition.
+  authors: Wenxiang Jiao, Haiqin Yang, Irwin King and Michael R. Lyu
+  link:
+    url: https://www.aclweb.org/anthology/N19-1037
+    display: NAACL 2019
+  codelink:
+    url: https://github.com/wxjiao/HiGRUs
+    display: Code
+  highlight: 0
+  

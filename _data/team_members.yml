@@ -1,0 +1,55 @@
+- name: Wenxiang Jiao
+  photo: wxjiao2016.jpeg
+  info: Senior Researcher, Tencent AI Lab
+  hobbies: Fitness, Mobile games
+  number_educ: 2
+  education1: PhD CUHK
+  education2: BS/MS Nanjing-U
+
+- name: Hexuan Deng
+  photo: hexuan.jpg
+  info: PhD student, HIT (SZ)
+  number_educ: 1
+  education1: BS Nankai-U
+
+- name: Youliang Yuan
+  photo: youliang.jpg
+  info: PhD student, CUHK (SZ)
+  number_educ: 2
+  education1: MS Wuhan-U
+  education2: BS Tongji-U
+
+- name: Jinhui Ye
+  photo: jinhui.jpg
+  info: PhD student, HKUST
+  number_educ: 2
+  education1: MS HKUST (GZ)
+  education2: BS SCUT
+  
+- name: Jen-tse Huang
+  photo: jentse.jpeg
+  info: Post-doc, JHU
+  number_educ: 2
+  education1: PhD CUHK
+  education2: BS Peking-U
+
+- name: Wenxuan Wang
+  photo: wenxuan.jpeg
+  info: Assistant Prof, Renmin-U
+  number_educ: 2
+  education1: PhD CUHK
+  education2: BS HUST
+
+- name: Yifan Hou
+  photo: Yifan.jpg
+  info: PhD student, ETH Zurich
+  hobbies: Fitness, PC games, Cycling
+  number_educ: 2
+  education1: MS CUHK
+  education2: BS HUST
+
+- name: Jiarui Li
+  photo: jiarui.jpeg
+  info: MS student, CMU
+  number_educ: 1
+  education1: BS CUHK (SZ)

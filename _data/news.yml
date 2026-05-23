@@ -1,0 +1,113 @@
+- date: Apr 7, 2026
+  headline: "Three papers accepted to ACL 2026 conference (2 main + 1 findings). Congratulations!"
+
+- date: Jan 26, 2026
+  headline: "Two papers (REA-RL, DeepCompress) accepted to ICLR 2026. Congratulations!"
+
+- date: Jan 17, 2026
+  headline: "Gave an invited talk at Agentic AI Summit 2026 titled <a href='https://www.bagevent.com/event/9095910/p/568383'>Scalable and Personalizable AI Agents</a>."
+
+- date: Jan 13, 2026
+  headline: "<a href='https://github.com/DeepExperience/DeepAgent'>DeepAgent</a> accepted to WWW 2026. Congratulations!"
+
+- date: Sep 19, 2025
+  headline: "One paper accepted to NeurIPS 2025 D&B. Congratulations!"
+
+- date: Aug 21, 2025
+  headline: "One paper accepted to EMNLP 2025 main conference. Congratulations!"
+  
+- date: May 16, 2025
+  headline: "Three papers accepted to ACL 2025 conference (2 main + 1 findings). Congratulations to all the co-authors!"
+
+- date: Jan 23, 2025
+  headline: "Great news! Congratulations to my PhD mentor, Prof. Irwin King, on being selected as a <a href='https://www.acm.org/media-center/2025/january/fellows-2024'>2024 ACM Fellow</a>."
+  
+- date: Jan 23, 2025
+  headline: "Two papers accepted to ICLR 2025 conference. Congratulations to all the co-authors!"
+
+- date: Sep 26, 2024
+  headline: "Three papers accepted to NeurIPS 2024 conference (2 main + 1 benchmark). Congratulations to all the co-authors!"
+
+- date: Sep 20, 2024
+  headline: "Three papers accepted to EMNLP 2024 main conference. Congratulations to all the co-authors!"
+
+- date: May 16, 2024
+  headline: "Four papers accepted to ACL 2024 (1 main conf, 3 findings). Congratulations to all the co-authors!"
+
+- date: Jan 16, 2024
+  headline: "Two papers accepted to ICLR 2024. PsychoBench is selected as an Oral presentation (1.2%). Congratulations to all the co-authors!"
+
+- date: Oct 19, 2023
+  headline: "Gave a tutorial at CCMT 2023 titled <a href='http://sc.cipsc.org.cn/mt/conference/2023/schedule/'>From Machine to Human-like Intelligence: Large-Language Models for Multilinguality, Multimodality, Multi-Agents and Emotion Interaction</a>."
+
+- date: Oct 12, 2023
+  headline: "Two papers accepted to EMNLP 2023 Findings. Congratulations to all the co-authors!"
+
+- date: Aug 15, 2023
+  headline: "Our preprint <a href='https://arxiv.org/abs/2308.06463'>GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher</a> is out. Refer to the Github repo <a href='https://github.com/RobustNLP/CipherChat'>CipherChat</a> and Demo page <a href='https://llmcipherchat.github.io/'>LLMCipherChat</a> for more details."
+
+- date: Aug 08, 2023
+  headline: "Our preprint <a href='https://arxiv.org/abs/2308.03656'>Emotionally Numb or Empathetic? Evaluating How LLMs Feel Using EmotionBench</a> is out. Refer to the Github repo for <a href='https://github.com/CUHK-ARISE/EmotionBench'>EmotionBench</a>."
+
+- date: Jul 02, 2023
+  headline: "Onsite talk titled <a href='https://mp.weixin.qq.com/s/lv8fKBf4jUq5hMpr_Vk1bw'>Large Language Models for Machine Translation</a> in the LLM Series Workshops hosted by CIPS."
+
+- date: May 30, 2023
+  headline: "Our preprint <a href='https://arxiv.org/abs/2305.19118'>Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate</a> is out. "
+
+- date: May 23, 2023
+  headline: "Our github project about <a href='https://github.com/Skytliang/Multi-Agents-Debate'>Multi-Agents Debate</a> with LLMs is open now. "
+
+- date: May 09, 2023
+  headline: "Our preprint <a href='https://arxiv.org/abs/2305.04118'>Exploring Human-Like Translation Strategy with Large Language Models</a> is out. "
+
+- date: Apr 23, 2023
+  headline: "Online talk on <a href='https://mp.weixin.qq.com/s/_mR3zMdSXsgrYIkSeEmlkQ'>Multilingual Information Processing in the ChatGPT Era</a> hosted by Harbin Institute of Technology."
+
+- date: Apr 05, 2023
+  headline: "Our preprint <a href='https://arxiv.org/abs/2304.02426'>PARROT: Translating During Chat Using Large Language Models</a> is out. "
+
+- date: Mar 23, 2023
+  headline: "Our reproduced Alpaca-style LLaMA-7b model is pushed to HuggingFace model hub (<a href='https://huggingface.co/wxjiao/alpaca-7b'>wxjiao/alpaca-7b</a>). Evaluation on translation data can also be found at <a href='https://github.com/wxjiao/alpaca-mt'>alpaca-mt</a>. "
+
+- date: Mar 14, 2023
+  headline: "Our preliminary report concerning ChatGPT for GEC is out: <a href='https://www.researchgate.net/publication/369231936_ChatGPT_or_Grammarly_Evaluating_ChatGPT_on_Grammatical_Error_Correction_Benchmark'>ChatGPT or Grammarly? Evaluating ChatGPT on Grammatical Error Correction Benchmark (v1)</a>. "
+
+- date: Jan 22, 2023
+  headline: "One paper about sign language translation accepted to EACL 2023. Congratulations to all the authors!"
+
+- date: Jan 04, 2023
+  headline: "Our technical report concerning ChatGPT for MT is out: <a href='https://www.researchgate.net/publication/367359399_Is_ChatGPT_A_Good_Translator_A_Preliminary_Study'>Is ChatGPT A Good Translator? A Preliminary Study/Yes With GPT-4 As The Engine</a>. "
+
+- date: Nov 23, 2022
+  headline: "Won <b>Best Paper Award</b> at the <a href='https://sigtyp.github.io/ws2022-mrl.html'><b>MRL Workshop</b></a> at EMNLP 2022 for our paper <a href='https://arxiv.org/pdf/2210.13617.pdf'>Adapters for Enhanced Modeling of Multilingual Knowledge and Text</a>. "
+
+- date: Oct 12, 2022
+  headline: "One paper accepted to WMT 2022 for the competition. Congratulations to all the authors!"
+
+- date: Oct 06, 2022
+  headline: "One paper accepted to EMNLP 2022 (Findings). Congratulations to all the authors!"
+  
+- date: Sep 24, 2022
+  headline: "Won <a href='https://www.statmt.org/wmt22/pdf/2022.wmt-1.72.pdf'><b>1st place</b></a> at WMT2022 Large-Scale Machine Translation Evaluation for African Languages (Constrained Track) in terms of both automatic and human evaluation."
+
+- date: Sep 24, 2022
+  headline: "Wenxiang gave an industrial talk at <a href='http://tcci.ccf.org.cn/conference/2022/indtalks.php'><b>NLPCC 2022</b></a>."
+  
+- date: Feb 24, 2022
+  headline: "One paper accepted to ACL 2022. Congratulations to all the authors!"
+  
+- date: Feb 01, 2022
+  headline: "One paper accepted to IEEE Transactions on Audio, Speech and Language Processing. Congratulations to all the authors!"
+
+- date: Nov 02, 2021
+  headline: "Joined Tencent AI Lab as a Senior Researcher. "
+  
+- date: Sep 15, 2021
+  headline: "Won the <a href='https://cloud.tencent.com/developer/article/1879377?from=article.detail.1746685'><b>Technology Innovation Award</b></a> (top 10%) of 2020 Tencent AI Lab Rhino Bird Project!"
+  
+- date: Aug 26, 2021
+  headline: "Just passed my PhD oral defense. Many thanks to my supervisors and committees!"
+  
+- date: Dec 04, 2020
+  headline: "Wenxiang gave a research talk at <a href='https://mp.weixin.qq.com/s/8MuanSkAmhKf5IwM5JUGbA'><b>AI TIME</b></a>."
