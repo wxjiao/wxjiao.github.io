@@ -11,7 +11,7 @@ permalink: /
     <p class="eyebrow">LLMs · Agents · Reasoning · Safety</p>
     <h1>Wenxiang Jiao <span>焦文祥</span></h1>
     <p class="hero-lede">
-      Researcher building evaluations, agents, and alignment methods for more reliable large language models.
+      I build benchmarks, agents, and alignment methods that expose where large language models break — in reasoning, safety, and psychological behavior — and turn the findings into systems that ship.
     </p>
     <div class="hero-meta">
       <span>LLM Application Algorithm Expert, Xiaohongshu</span>
@@ -38,6 +38,9 @@ permalink: /
   <div class="section-body">
     <p>
       My work studies how large language models reason, act, refuse unsafe requests, and portray psychological traits. I turn these questions into benchmarks, open-source systems, and training techniques for robust AI applications.
+    </p>
+    <p>
+      At Xiaohongshu I lead LLM application algorithms — taking research on agents, reasoning, and safety, and turning it into models and systems that serve hundreds of millions of users. I continue to publish and collaborate with academic groups in NLP and AI.
     </p>
     <div class="compact-list">
       <div><strong>Current</strong><span>Xiaohongshu Inc., LLM Application Algorithm Expert, 2025 - Present</span></div>
