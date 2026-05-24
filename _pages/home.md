@@ -69,7 +69,6 @@ permalink: /
     <p class="section-label">Selected Work</p>
   </div>
   {% include spotlight-projects.html %}
-  <p class="section-link"><a href="https://scholar.google.com/citations?hl=zh-CN&user=CvtODukAAAAJ&view_op=list_works&sortby=pubdate">View all publications on Google Scholar</a></p>
 </section>
 
 <section markdown="0" class="section-block research-areas">
