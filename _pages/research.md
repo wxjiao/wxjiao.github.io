@@ -10,12 +10,10 @@ permalink: /research/
   <h1>Research</h1>
 </section>
 
-<section markdown="0" class="section-block">
-  <div class="section-body">
-    <p>
-      My work studies how large language models reason, act, refuse unsafe requests, and portray psychological traits. I turn these questions into benchmarks, open-source systems, and training techniques for more reliable AI applications.
-    </p>
-  </div>
+<section markdown="0" class="section-block intro-block">
+  <p class="page-intro">
+    My research studies how large language models reason, act as agents, refuse unsafe requests, and portray psychological traits. I develop benchmarks, open-source systems, and training/alignment methods to diagnose model failures and build more reliable AI applications.
+  </p>
 </section>
 
 <section markdown="0" class="section-block">
