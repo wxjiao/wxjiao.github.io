@@ -11,7 +11,7 @@ permalink: /
     <p class="eyebrow">LLMs · Agents · Reasoning · Safety</p>
     <h1>Wenxiang Jiao <span>焦文祥</span></h1>
     <p class="hero-lede">
-      I build benchmarks, agents, and alignment methods that expose where large language models break — in reasoning, safety, and psychological behavior — and turn the findings into systems that ship.
+      I study where large language models break — in reasoning, agency, safety, and psychological behavior — and turn those findings into benchmarks, agents, and alignment methods for reliable AI systems.
     </p>
     <div class="hero-links">
       <a href="https://scholar.google.com/citations?hl=zh-CN&user=CvtODukAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
