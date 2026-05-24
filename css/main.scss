@@ -320,19 +320,59 @@ img {
 
 .publication-row {
   display: grid;
-  grid-template-columns: 112px minmax(0, 1fr);
-  gap: 20px;
+  grid-template-columns: 120px minmax(0, 1fr);
+  gap: 22px;
   padding: 18px 0;
   border: 0;
   border-bottom: 1px solid var(--line);
   border-radius: 0;
+  align-items: start;
 }
 
-.publication-meta {
-  color: var(--accent);
+.publication-thumb {
+  position: relative;
+  width: 120px;
+  height: 120px;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  background: var(--soft);
+}
+
+.publication-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.publication-thumb-placeholder {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  background: linear-gradient(135deg, #edf2fb 0%, #dbe7f7 100%);
+  color: var(--accent-strong);
   font-size: 12px;
   font-weight: 800;
-  line-height: 1.45;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 1.25;
+}
+
+.publication-main .venue-chip-inline {
+  display: inline-block;
+  margin-bottom: 8px;
+  padding: 3px 9px;
+  background: #eff6ff;
+  color: #1d4ed8;
+  font-size: 11px;
+  font-weight: 800;
+  border-radius: 999px;
+  letter-spacing: 0.02em;
 }
 
 .publication-row .inline-links {
