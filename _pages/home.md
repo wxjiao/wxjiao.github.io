@@ -98,3 +98,7 @@ permalink: /
     </article>
   </div>
 </section>
+
+<section markdown="0" class="section-block visitor-block">
+  {% include visitor-map.html %}
+</section>
