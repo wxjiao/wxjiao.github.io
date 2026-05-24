@@ -62,8 +62,8 @@ permalink: /research/
     <article class="publication-row">
       <div class="publication-meta">ArXiv 2026</div>
       <div class="publication-main">
-        <h3>OmniGAIA</h3>
-        <p>A benchmark for evaluating omni-modal general AI assistants.</p>
+        <h3>OmniGAIA: Towards Native Omni-Modal AI Agents</h3>
+        <p>A benchmark and foundation agent for omni-modal AI assistants. OmniGAIA synthesizes multi-hop queries across video, audio, and image via an omni-modal event graph; the accompanying OmniAtlas agent uses active omni-modal perception trained with hindsight-guided tree exploration and OmniDPO.</p>
         <div class="inline-links">
           <a href="https://arxiv.org/abs/2602.22897">Paper</a>
           <a href="https://github.com/RUC-NLPIR/OmniGAIA">Code</a>
@@ -110,6 +110,7 @@ permalink: /research/
         <p>A dual-reward RL framework that classifies problems as Simple or Hard in real time and adaptively shortens or extends Chain-of-Thought, improving both accuracy and token efficiency on challenging math benchmarks.</p>
         <div class="inline-links">
           <a href="https://arxiv.org/abs/2510.27419">Paper</a>
+          <a href="https://github.com/Skytliang/DeepCompress">Code</a>
         </div>
       </div>
     </article>

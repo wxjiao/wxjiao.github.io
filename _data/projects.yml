@@ -1,10 +1,10 @@
-- name: OmniGAIA
+- name: "OmniGAIA: Towards Native Omni-Modal AI Agents"
   url: https://github.com/RUC-NLPIR/OmniGAIA
   repo: RUC-NLPIR/OmniGAIA
   venue: ArXiv 2026
   tone: preprint
   paper: https://arxiv.org/abs/2602.22897
-  description: A benchmark for evaluating omni-modal general AI assistants.
+  description: A benchmark and foundation agent for omni-modal AI assistants — multi-hop queries across video, audio, and image, with OmniAtlas trained via hindsight-guided tree exploration and OmniDPO.
 
 - name: DeepAgent
   url: https://github.com/RUC-NLPIR/DeepAgent
