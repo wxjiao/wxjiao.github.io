@@ -140,6 +140,7 @@ permalink: /research/
       <div class="publication-meta">NeurIPS 2025 D&amp;B</div>
       <div class="publication-main">
         <h3>Towards Evaluating Proactive Risk Awareness of Multimodal Language Models</h3>
+        <p>PaSBench evaluates proactive safety across 416 multimodal scenarios in five safety-critical domains. Top models such as Gemini-2.5-pro reach 64–71% accuracy but miss 45–55% of risks under repetition — failure analysis traces this to unstable proactive reasoning rather than missing knowledge.</p>
         <div class="inline-links">
           <a href="https://arxiv.org/abs/2505.17455">Paper</a>
         </div>
@@ -149,6 +150,7 @@ permalink: /research/
       <div class="publication-meta">ACL 2025</div>
       <div class="publication-main">
         <h3>Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training (DeRTa)</h3>
+        <p>Identifies a refusal position bias in safety-tuning data and proposes Decoupled Refusal Training: MLE with a harmful response prefix plus Reinforced Transition Optimization, letting LLaMA-3 and Mistral models refuse at any position throughout a harmful response without hurting performance.</p>
         <div class="inline-links">
           <a href="https://arxiv.org/abs/2407.09121">Paper</a>
           <a href="https://github.com/RobustNLP/DeRTa">Code</a>
@@ -159,6 +161,7 @@ permalink: /research/
       <div class="publication-meta">ACL 2025 (Findings)</div>
       <div class="publication-main">
         <h3>Chain-of-Jailbreak Attack for Image Generation Models via Editing Step by Step</h3>
+        <p>Decomposes a malicious image-generation query into innocuous sub-queries and iteratively edits the output; bypasses safeguards on GPT-4V, GPT-4o, and Gemini 1.5/Pro in over 60% of cases. A companion Think Twice Prompting defense blocks more than 95%.</p>
         <div class="inline-links">
           <a href="https://arxiv.org/abs/2410.03869">Paper</a>
           <a href="https://github.com/Jarviswang94/Chain-of-Jailbreak">Code</a>
@@ -201,7 +204,8 @@ permalink: /research/
     <article class="publication-row">
       <div class="publication-meta">NeurIPS 2024</div>
       <div class="publication-main">
-        <h3>Emotionally Numb or Empathetic? Evaluating How LLMs Feel using EmotionBench</h3>
+        <h3>Apathetic or Empathetic? Evaluating LLMs' Emotional Alignments with Humans</h3>
+        <p>Uses emotion appraisal theory to test how LLMs' feelings shift across 400+ situations grouped into 36 factors, benchmarked against responses from 1,200+ human subjects. Models including GPT-4, Mixtral-8x22B, and LLaMA-3.1 respond appropriately in some cases but fail to align with human emotional behavior or connect similar situations.</p>
         <div class="inline-links">
           <a href="https://arxiv.org/abs/2308.03656">Paper</a>
           <a href="https://github.com/CUHK-ARISE/EmotionBench">Code</a>
@@ -209,12 +213,12 @@ permalink: /research/
       </div>
     </article>
     <article class="publication-row">
-      <div class="publication-meta">Preprint</div>
+      <div class="publication-meta">EMNLP 2024</div>
       <div class="publication-main">
-        <h3>ChatGPT an ENFJ, Bard an ISTJ: Empirical Study on Personalities of Large Language Models</h3>
+        <h3>On the Reliability of Psychological Scales on Large Language Models</h3>
+        <p>Across 2,500 settings per model on GPT-3.5/4, Gemini-Pro, and LLaMA-3.1, shows that LLMs respond consistently to the Big Five Inventory. Further demonstrates GPT-3.5 can emulate diverse personalities and represent specific population groups when given targeted prompts.</p>
         <div class="inline-links">
-          <a href="https://arxiv.org/abs/2305.19926">Paper</a>
-          <a href="https://github.com/cuhk-arise/llmpersonality">Code</a>
+          <a href="https://aclanthology.org/2024.emnlp-main.354/">Paper</a>
         </div>
       </div>
     </article>
