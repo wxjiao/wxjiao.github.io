@@ -154,7 +154,10 @@
   //   freezes the moment the table grows past 1000.
   // - Defensive parsing so a non-2xx response (Supabase returns a
   //   JSON object on error, not an array) doesn't break downstream.
-  fetch(SUPABASE_URL + '/rest/v1/visitor_locations?select=country,city,lat,lng',
+  // order=visited_at.desc so the up-to-1000 dots we render are the
+  // most recent visitors, not the oldest ones (PostgREST otherwise
+  // returns rows in physical insertion order).
+  fetch(SUPABASE_URL + '/rest/v1/visitor_locations?select=country,city,lat,lng&order=visited_at.desc',
         {
           headers: {
             'apikey':        SUPABASE_ANON_KEY,
