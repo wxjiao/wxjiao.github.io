@@ -146,38 +146,54 @@
   };
 
   // Step 1: load existing visitor records, then continue.
-  // cache: 'no-store' bypasses the browser HTTP cache so the count
-  // reflects the latest DB state on every page load.
-  // (No cache-busting query param: PostgREST treats any unknown
-  // query string as a column filter and would 400 the request.)
-  // Defensive parsing so a non-2xx response (Supabase returns a JSON
-  // object on error, not an array) doesn't break .length / .forEach
-  // downstream.
+  // - cache: 'no-store' bypasses the browser HTTP cache.
+  // - Prefer: count=exact tells PostgREST to return the true row
+  //   count in the Content-Range header, even though only up to 1000
+  //   rows (PostgREST's default page size) come back in the body.
+  //   Without this, visitors.length tops out at 1000 and the counter
+  //   freezes the moment the table grows past 1000.
+  // - Defensive parsing so a non-2xx response (Supabase returns a
+  //   JSON object on error, not an array) doesn't break downstream.
   fetch(SUPABASE_URL + '/rest/v1/visitor_locations?select=country,city,lat,lng',
-        { headers: AUTH_HEADERS, cache: 'no-store' })
+        {
+          headers: {
+            'apikey':        SUPABASE_ANON_KEY,
+            'Authorization': 'Bearer ' + SUPABASE_ANON_KEY,
+            'Content-Type':  'application/json',
+            'Prefer':        'count=exact'
+          },
+          cache: 'no-store'
+        })
     .then(function (r) {
       if (!r.ok) {
         console.warn('[visitor-map] read failed:', r.status, r.statusText);
-        return [];
+        return { total: 0, visitors: [] };
       }
-      return r.json();
+      var range = r.headers.get('content-range') || '*/0';
+      var total = parseInt(range.split('/')[1], 10) || 0;
+      return r.json().then(function (visitors) {
+        return { total: total, visitors: visitors };
+      });
     })
     .catch(function (e) {
       console.warn('[visitor-map] read network error:', e);
-      return [];
+      return { total: 0, visitors: [] };
     })
-    .then(function (visitors) {
-      geolocateAndRender(Array.isArray(visitors) ? visitors : []);
+    .then(function (result) {
+      var visitors = Array.isArray(result.visitors) ? result.visitors : [];
+      geolocateAndRender(visitors, result.total || visitors.length);
     });
 
 
-  function geolocateAndRender(visitors) {
+  function geolocateAndRender(visitors, totalCount) {
 
     // Always render the count first using just the historical data,
     // so Safari/ITP blocking the ipapi geolocation call doesn't leave
-    // the count stuck on the "..." placeholder.
+    // the count stuck on the "..." placeholder. Use the exact row
+    // total from PostgREST's Content-Range header, not visitors.length
+    // — that array tops out at the default page size (1000 rows).
     document.getElementById('visitor-count').textContent =
-      visitors.length.toLocaleString();
+      totalCount.toLocaleString();
 
     // Step 2: detect current visitor location via IP
     fetch('https://ipapi.co/json/', { cache: 'no-store' })
@@ -228,10 +244,11 @@
           });
         }
 
-        // Update visitor counter
-        var total = visitors.length + (me ? 1 : 0);
+        // Refresh the counter once we know whether the current view
+        // is being recorded too. Add 1 for "me" so the current visitor
+        // is reflected before the POST round-trips into the next read.
         document.getElementById('visitor-count').textContent =
-          total.toLocaleString();
+          (totalCount + (me ? 1 : 0)).toLocaleString();
 
         drawMap(visitors, me);
       });
