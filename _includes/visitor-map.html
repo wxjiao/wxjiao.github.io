@@ -148,22 +148,49 @@
   // Step 1: load existing visitor records, then continue.
   // cache: 'no-store' + a cache-busting query param so the count
   // reflects the latest DB state on every page load, instead of
-  // replaying a cached response.
+  // replaying a cached response. Defensive parsing so a non-2xx
+  // response (which Supabase returns as a JSON object, not an array)
+  // doesn't break .length / .forEach downstream — Safari hits this
+  // path more often than Chrome.
   fetch(SUPABASE_URL + '/rest/v1/visitor_locations?select=country,city,lat,lng&_t=' + Date.now(),
         { headers: AUTH_HEADERS, cache: 'no-store' })
-    .then(function (r) { return r.json(); })
-    .catch(function ()  { return []; })
+    .then(function (r) {
+      if (!r.ok) {
+        console.warn('[visitor-map] read failed:', r.status, r.statusText);
+        return [];
+      }
+      return r.json();
+    })
+    .catch(function (e) {
+      console.warn('[visitor-map] read network error:', e);
+      return [];
+    })
     .then(function (visitors) {
-      geolocateAndRender(visitors);
+      geolocateAndRender(Array.isArray(visitors) ? visitors : []);
     });
 
 
   function geolocateAndRender(visitors) {
 
+    // Always render the count first using just the historical data,
+    // so Safari/ITP blocking the ipapi geolocation call doesn't leave
+    // the count stuck on the "..." placeholder.
+    document.getElementById('visitor-count').textContent =
+      visitors.length.toLocaleString();
+
     // Step 2: detect current visitor location via IP
-    fetch('https://ipapi.co/json/')
-      .then(function (r) { return r.json(); })
-      .catch(function ()  { return null; })
+    fetch('https://ipapi.co/json/', { cache: 'no-store' })
+      .then(function (r) {
+        if (!r.ok) {
+          console.warn('[visitor-map] geo lookup failed:', r.status);
+          return null;
+        }
+        return r.json();
+      })
+      .catch(function (e)  {
+        console.warn('[visitor-map] geo network error:', e);
+        return null;
+      })
       .then(function (geo) {
 
         var me = null;
