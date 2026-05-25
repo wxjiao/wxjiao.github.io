@@ -146,13 +146,14 @@
   };
 
   // Step 1: load existing visitor records, then continue.
-  // cache: 'no-store' + a cache-busting query param so the count
-  // reflects the latest DB state on every page load, instead of
-  // replaying a cached response. Defensive parsing so a non-2xx
-  // response (which Supabase returns as a JSON object, not an array)
-  // doesn't break .length / .forEach downstream — Safari hits this
-  // path more often than Chrome.
-  fetch(SUPABASE_URL + '/rest/v1/visitor_locations?select=country,city,lat,lng&_t=' + Date.now(),
+  // cache: 'no-store' bypasses the browser HTTP cache so the count
+  // reflects the latest DB state on every page load.
+  // (No cache-busting query param: PostgREST treats any unknown
+  // query string as a column filter and would 400 the request.)
+  // Defensive parsing so a non-2xx response (Supabase returns a JSON
+  // object on error, not an array) doesn't break .length / .forEach
+  // downstream.
+  fetch(SUPABASE_URL + '/rest/v1/visitor_locations?select=country,city,lat,lng',
         { headers: AUTH_HEADERS, cache: 'no-store' })
     .then(function (r) {
       if (!r.ok) {
