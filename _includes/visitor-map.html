@@ -145,9 +145,12 @@
     'Content-Type':  'application/json'
   };
 
-  // Step 1: load existing visitor records, then continue
-  fetch(SUPABASE_URL + '/rest/v1/visitor_locations?select=country,city,lat,lng',
-        { headers: AUTH_HEADERS })
+  // Step 1: load existing visitor records, then continue.
+  // cache: 'no-store' + a cache-busting query param so the count
+  // reflects the latest DB state on every page load, instead of
+  // replaying a cached response.
+  fetch(SUPABASE_URL + '/rest/v1/visitor_locations?select=country,city,lat,lng&_t=' + Date.now(),
+        { headers: AUTH_HEADERS, cache: 'no-store' })
     .then(function (r) { return r.json(); })
     .catch(function ()  { return []; })
     .then(function (visitors) {
@@ -173,9 +176,12 @@
             city:    geo.city
           };
 
-          // Record this visit (fire-and-forget, no await needed)
+          // Record this visit (fire-and-forget). Surface non-2xx
+          // responses to the console so a silent RLS / auth failure
+          // is debuggable instead of looking like the count is stuck.
           fetch(SUPABASE_URL + '/rest/v1/visitor_locations', {
             method:  'POST',
+            cache:   'no-store',
             headers: {
               'apikey':        SUPABASE_ANON_KEY,
               'Authorization': 'Bearer ' + SUPABASE_ANON_KEY,
@@ -183,7 +189,15 @@
               'Prefer':        'return=minimal'
             },
             body: JSON.stringify(me)
-          }).catch(function () {});
+          })
+          .then(function (r) {
+            if (!r.ok) {
+              console.warn('[visitor-map] insert failed:', r.status, r.statusText);
+            }
+          })
+          .catch(function (e) {
+            console.warn('[visitor-map] insert network error:', e);
+          });
         }
 
         // Update visitor counter
