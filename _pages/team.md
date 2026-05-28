@@ -1,227 +1,44 @@
 ---
-title: "Wenxiang Jiao (焦文祥) - Team"
-layout: gridlay
-excerpt: "Team members, collaborators, and students working with Wenxiang Jiao."
+title: "Wenxiang Jiao (焦文祥) - Collaborators & Students"
+layout: homelay
+excerpt: "Researchers and students Wenxiang Jiao has worked with on LLM agents, reasoning, safety, and psychology."
 sitemap: false
 permalink: /team/
 ---
 
-# Group Members
-{% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+<section markdown="0" class="page-header">
+  <h1>Collaborators &amp; Students</h1>
+  <p class="page-intro">Researchers and students I've worked with on LLM agents, reasoning, safety, and psychology.</p>
+</section>
 
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <div style="overflow: hidden">
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}</i> <!--<br>email: <{{ member.email }}></i> -->
-  {% if member.hobbies %}
-  Hobbies: {{ member.hobbies}}
-  {% endif %}
-  {% if member.startyear %}
-  Start year: {{ member.startyear}}
-  {% endif %}
-  {% if member.researchinterest %}
-  Research interest: {{ member.researchinterest}}
-  {% endif %}
-
-  <ul style="overflow: hidden">
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
-
-  </ul>
+<section markdown="0" class="section-block">
+  <div class="people-list">
+    {% for m in site.data.team_members %}
+    <article class="person">
+      <header class="person-head">
+        <h3 class="person-name">{{ m.name }}</h3>
+        {% if m.role %}<span class="person-role">{{ m.role }}</span>{% endif %}
+      </header>
+      {% if m.affiliation %}
+      <p class="person-affiliation">{{ m.affiliation }}</p>
+      {% endif %}
+      {% if m.education and m.education.size > 0 %}
+      <p class="person-edu"><span class="person-meta-label">Education</span>{% for e in m.education %}{{ e }}{% unless forloop.last %} · {% endunless %}{% endfor %}</p>
+      {% endif %}
+      {% if m.research and m.research != "" %}
+      <p class="person-research"><span class="person-meta-label">Research</span>{{ m.research }}</p>
+      {% endif %}
+      {% if m.selected_works and m.selected_works.size > 0 %}
+      <p class="person-works"><span class="person-meta-label">Selected</span>{% for w in m.selected_works %}<a href="{{ w.link }}">{{ w.title }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}</p>
+      {% endif %}
+      {% if m.links.homepage or m.links.scholar or m.links.github %}
+      <p class="person-links inline-links">
+        {% if m.links.homepage %}<a href="{{ m.links.homepage }}">Homepage</a>{% endif %}
+        {% if m.links.scholar %}<a href="{{ m.links.scholar }}">Scholar</a>{% endif %}
+        {% if m.links.github %}<a href="{{ m.links.github }}">GitHub</a>{% endif %}
+      </p>
+      {% endif %}
+    </article>
+    {% endfor %}
   </div>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-
-
-
-{% assign number_printed = 0 %}
-{% for member in site.data.students %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <div style="overflow: hidden">
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
-  <br>Hobbies: {{ member.hobbies}}</i>
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  </ul>
-  </div>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-
-
-
-{% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
-  <br>Hobbies: {{ member.hobbies}}</i>
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-<!-- 
-## Former visitors, BSc/ MSc students
-<div class="row">
-
-<div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-</div>
-
-
-## Administrative Support
-<a href="mailto:paulina.motyka@inf.ethz.ch">Paulina Agata Piotrowska-Motyka</a> is helping us (and other groups) with administration. -->
+</section>
