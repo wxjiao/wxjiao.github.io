@@ -1,55 +1,99 @@
-- name: Wenxiang Jiao
-  photo: wxjiao2016.jpeg
-  info: Senior Researcher, Tencent AI Lab
-  hobbies: Fitness, Mobile games
-  number_educ: 2
-  education1: PhD CUHK
-  education2: BS/MS Nanjing-U
+# Schema:
+#   name:         required
+#   role:         short tag rendered top-right (e.g. "PhD student", "Postdoc", "Asst Prof")
+#   affiliation:  current institution, full name
+#   education:    list of strings; rendered on one line, separated by " · "
+#   research:     one-line focus, e.g. "LLM safety, jailbreak robustness"
+#   links:        any subset of { homepage, scholar, github } as URLs
+#   selected_works: list of { title, link } — usually 1–2 entries
+#
+# All fields except `name` are optional; the template skips empty ones.
 
 - name: Hexuan Deng
-  photo: hexuan.jpg
-  info: PhD student, HIT (SZ)
-  number_educ: 1
-  education1: BS Nankai-U
+  role: PhD student
+  affiliation: Harbin Institute of Technology (Shenzhen)
+  education:
+    - BS Nankai University
+  research:
+  links:
+    homepage: https://hexuandeng.github.io/
+    scholar:
+    github:
+  selected_works: []
 
 - name: Youliang Yuan
-  photo: youliang.jpg
-  info: PhD student, CUHK (SZ)
-  number_educ: 2
-  education1: MS Wuhan-U
-  education2: BS Tongji-U
+  role: PhD student
+  affiliation: The Chinese University of Hong Kong (Shenzhen)
+  education:
+    - MS Wuhan University
+    - BS Tongji University
+  research:
+  links:
+    homepage: https://youliangyuan.github.io/
+    scholar:
+    github:
+  selected_works: []
 
 - name: Jinhui Ye
-  photo: jinhui.jpg
-  info: PhD student, HKUST
-  number_educ: 2
-  education1: MS HKUST (GZ)
-  education2: BS SCUT
-  
+  role: PhD student
+  affiliation: Hong Kong University of Science and Technology
+  education:
+    - MS HKUST (Guangzhou)
+    - BS South China University of Technology
+  research:
+  links:
+    homepage: https://jhuiye.com/
+    scholar:
+    github:
+  selected_works: []
+
 - name: Jen-tse Huang
-  photo: jentse.jpeg
-  info: Post-doc, JHU
-  number_educ: 2
-  education1: PhD CUHK
-  education2: BS Peking-U
+  role: Postdoc
+  affiliation: Johns Hopkins University
+  education:
+    - PhD The Chinese University of Hong Kong
+    - BS Peking University
+  research:
+  links:
+    homepage: https://penguinnnnn.github.io/
+    scholar:
+    github:
+  selected_works: []
 
 - name: Wenxuan Wang
-  photo: wenxuan.jpeg
-  info: Assistant Prof, Renmin-U
-  number_educ: 2
-  education1: PhD CUHK
-  education2: BS HUST
+  role: Assistant Professor
+  affiliation: Renmin University of China
+  education:
+    - PhD The Chinese University of Hong Kong
+    - BS Huazhong University of Science and Technology
+  research:
+  links:
+    homepage: https://jarviswang94.github.io/
+    scholar:
+    github:
+  selected_works: []
 
 - name: Yifan Hou
-  photo: Yifan.jpg
-  info: PhD student, ETH Zurich
-  hobbies: Fitness, PC games, Cycling
-  number_educ: 2
-  education1: MS CUHK
-  education2: BS HUST
+  role: PhD student
+  affiliation: ETH Zürich
+  education:
+    - MS The Chinese University of Hong Kong
+    - BS Huazhong University of Science and Technology
+  research:
+  links:
+    homepage: https://yifan-h.github.io/
+    scholar:
+    github:
+  selected_works: []
 
 - name: Jiarui Li
-  photo: jiarui.jpeg
-  info: MS student, CMU
-  number_educ: 1
-  education1: BS CUHK (SZ)
+  role: MS student
+  affiliation: Carnegie Mellon University
+  education:
+    - BS The Chinese University of Hong Kong (Shenzhen)
+  research:
+  links:
+    homepage: https://yiluli.github.io/
+    scholar:
+    github:
+  selected_works: []
