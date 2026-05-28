@@ -8,16 +8,87 @@
 #   selected_works: list of { title, link } — usually 1–2 entries
 #
 # All fields except `name` are optional; the template skips empty ones.
+# Ordering: most recent collaboration first, earliest at the bottom.
 
-- name: Hexuan Deng
+- name: Xiaoyuan Liu
   role: PhD student
-  affiliation: Harbin Institute of Technology (Shenzhen)
+  affiliation: The Chinese University of Hong Kong (Shenzhen)
+  education:
+    - BEng The Chinese University of Hong Kong (Shenzhen)
+  research: Autonomous LLM agents and reasoning
+  links:
+    homepage: https://xyliu-cs.github.io/
+    scholar:
+    github:
+  selected_works: []
+
+- name: Qingyao Li
+  role: PhD student
+  affiliation: Shanghai Jiao Tong University
+  education:
+    - BS Xi'an Jiao Tong University
+  research: LLM reasoning and code intelligence
+  links:
+    homepage: https://simonlqy.github.io/
+    scholar:
+    github:
+  selected_works: []
+
+- name: Shuai Shao
+  role: MS student
+  affiliation: Shanghai Jiao Tong University
+  education:
+    - BS Shanghai Jiao Tong University
+  research: RL for LLM agents, safety and alignment
+  links:
+    homepage: https://shaoshuai0605.github.io/
+    scholar:
+    github:
+  selected_works: []
+
+- name: Kangning Zhang
+  role: PhD student
+  affiliation: Shanghai Jiao Tong University
+  education:
+    - BS Shanghai Jiao Tong University
+  research: LLM agents, tool calling, multimodal recommendation
+  links:
+    homepage: https://zkangning.github.io/
+    scholar:
+    github:
+  selected_works: []
+
+- name: Xiaoxi Li
+  role: PhD student
+  affiliation: Renmin University of China
   education:
     - BS Nankai University
-  research: NLP, large reasoning models, data-centric AI
+  research: Real-world LLM agents, deep research, retrieval-augmented LLMs
   links:
-    homepage: https://hexuandeng.github.io/
+    homepage: https://xiaoxi-li1.github.io/
     scholar:
+    github:
+  selected_works: []
+
+- name: Shijian Wang
+  role: MS student
+  affiliation: Southeast University
+  education: []
+  research: Data-centric AI, large multimodal models
+  links:
+    homepage: https://shijian2001.github.io/
+    scholar:
+    github:
+  selected_works: []
+
+- name: Yinuo Wang
+  role: MS student
+  affiliation: Tsinghua University
+  education: []
+  research: Diffusion-based RL policies for control, and LLM agents and alignment
+  links:
+    homepage:
+    scholar: https://scholar.google.com/citations?user=3aI_L7sAAAAJ&hl=zh-CN
     github:
   selected_works: []
 
@@ -34,15 +105,14 @@
     github:
   selected_works: []
 
-- name: Jinhui Ye
+- name: Hexuan Deng
   role: PhD student
-  affiliation: Hong Kong University of Science and Technology
+  affiliation: Harbin Institute of Technology (Shenzhen)
   education:
-    - MS HKUST (Guangzhou)
-    - BS South China University of Technology
-  research: Vision-language-action models, robotic manipulation, HRI
+    - BS Nankai University
+  research: NLP, large reasoning models, data-centric AI
   links:
-    homepage: https://jhuiye.com/
+    homepage: https://hexuandeng.github.io/
     scholar:
     github:
   selected_works: []
@@ -73,6 +143,19 @@
     github:
   selected_works: []
 
+- name: Jinhui Ye
+  role: PhD student
+  affiliation: Hong Kong University of Science and Technology
+  education:
+    - MS HKUST (Guangzhou)
+    - BS South China University of Technology
+  research: Vision-language-action models, robotic manipulation, HRI
+  links:
+    homepage: https://jhuiye.com/
+    scholar:
+    github:
+  selected_works: []
+
 - name: Yifan Hou
   role: PhD student
   affiliation: ETH Zürich
@@ -94,88 +177,6 @@
   research: Security and robustness of AI systems in cyber-physical settings
   links:
     homepage: https://yiluli.github.io/
-    scholar:
-    github:
-  selected_works: []
-
-- name: Shuai Shao
-  role: MS student
-  affiliation: Shanghai Jiao Tong University
-  education:
-    - BS Shanghai Jiao Tong University
-  research: RL for LLM agents, safety and alignment
-  links:
-    homepage: https://shaoshuai0605.github.io/
-    scholar:
-    github:
-  selected_works: []
-
-- name: Kangning Zhang
-  role: PhD student
-  affiliation: Shanghai Jiao Tong University
-  education:
-    - BS Shanghai Jiao Tong University
-  research: LLM agents, tool calling, multimodal recommendation
-  links:
-    homepage: https://zkangning.github.io/
-    scholar:
-    github:
-  selected_works: []
-
-- name: Qingyao Li
-  role: PhD student
-  affiliation: Shanghai Jiao Tong University
-  education:
-    - BS Xi'an Jiao Tong University
-  research: LLM reasoning and code intelligence
-  links:
-    homepage: https://simonlqy.github.io/
-    scholar:
-    github:
-  selected_works: []
-
-- name: Xiaoxi Li
-  role: PhD student
-  affiliation: Renmin University of China
-  education:
-    - BS Nankai University
-  research: Real-world LLM agents, deep research, retrieval-augmented LLMs
-  links:
-    homepage: https://xiaoxi-li1.github.io/
-    scholar:
-    github:
-  selected_works: []
-
-- name: Xiaoyuan Liu
-  role: PhD student
-  affiliation: The Chinese University of Hong Kong (Shenzhen)
-  education:
-    - BEng The Chinese University of Hong Kong (Shenzhen)
-  research: Autonomous LLM agents and reasoning
-  links:
-    homepage: https://xyliu-cs.github.io/
-    scholar:
-    github:
-  selected_works: []
-
-- name: Yinuo Wang
-  role: MS student
-  affiliation: Tsinghua University
-  education: []
-  research: Diffusion-based RL policies for control, and LLM agents and alignment
-  links:
-    homepage:
-    scholar: https://scholar.google.com/citations?user=3aI_L7sAAAAJ&hl=zh-CN
-    github:
-  selected_works: []
-
-- name: Shijian Wang
-  role: MS student
-  affiliation: Southeast University
-  education: []
-  research: Data-centric AI, large multimodal models
-  links:
-    homepage: https://shijian2001.github.io/
     scholar:
     github:
   selected_works: []
