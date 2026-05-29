@@ -8,6 +8,7 @@
       </a>
     </div>
     <span class="project-tag project-tag-{{ project.tone }}">{{ project.venue }}</span>
+    {% if project.paper_title %}<p class="project-paper-title">{{ project.paper_title }}</p>{% endif %}
     <p>{{ project.description }}</p>
     <div class="inline-links project-links">
       {% if project.paper %}<a href="{{ project.paper }}">Paper</a>{% endif %}
