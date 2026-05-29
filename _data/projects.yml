@@ -6,6 +6,14 @@
   paper: https://arxiv.org/abs/2602.22897
   description: A benchmark and foundation agent for omni-modal AI assistants — multi-hop queries across video, audio, and image, with OmniAtlas trained via hindsight-guided tree exploration and OmniDPO.
 
+- name: "MMSkills: Towards Multimodal Skills for General Visual Agents"
+  url: https://github.com/DeepExperience/MMSkills
+  repo: DeepExperience/MMSkills
+  venue: ArXiv 2026
+  tone: preprint
+  paper: https://arxiv.org/abs/2605.13527
+  description: Represents reusable multimodal procedures as compact, state-conditioned skill packages — a textual procedure paired with runtime state cards and multi-view keyframes — generated from public trajectories and consulted by a branch-loaded skill agent at runtime.
+
 - name: DeepAgent
   url: https://github.com/RUC-NLPIR/DeepAgent
   repo: RUC-NLPIR/DeepAgent
