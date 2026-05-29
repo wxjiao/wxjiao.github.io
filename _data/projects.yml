@@ -5,7 +5,7 @@
   tone: preprint
   paper: https://arxiv.org/abs/2602.22897
   paper_title: "OmniGAIA: Towards Native Omni-Modal AI Agents"
-  description: A benchmark and foundation agent for omni-modal AI assistants — multi-hop queries across video, audio, and image, with OmniAtlas trained via hindsight-guided tree exploration and OmniDPO.
+  description: Benchmark and foundation agent for omni-modal AI assistants — multi-hop queries across video, audio, and image, with OmniAtlas trained via hindsight-guided tree exploration and OmniDPO.
 
 - name: MMSkills
   url: https://github.com/DeepExperience/MMSkills
@@ -14,7 +14,7 @@
   tone: preprint
   paper: https://arxiv.org/abs/2605.13527
   paper_title: "MMSkills: Towards Multimodal Skills for General Visual Agents"
-  description: Represents reusable multimodal procedures as compact, state-conditioned skill packages — a textual procedure paired with runtime state cards and multi-view keyframes — generated from public trajectories and consulted by a branch-loaded skill agent at runtime.
+  description: Reusable multimodal procedures encoded as state-conditioned skill packages, generated from public trajectories and consulted by a branch-loaded skill agent at runtime.
 
 - name: DeepAgent
   url: https://github.com/RUC-NLPIR/DeepAgent
@@ -23,7 +23,7 @@
   tone: conf
   paper: https://arxiv.org/abs/2510.21618
   paper_title: "DeepAgent: A General Reasoning Agent with Scalable Toolsets"
-  description: A general reasoning agent with scalable toolsets for complex multi-step tasks.
+  description: A reasoning agent that tackles general tasks by searching for and using appropriate tools from over 16,000 RapidAPIs in an end-to-end agentic reasoning process.
 
 - name: Multi-Agent Debate
   url: https://github.com/Skytliang/Multi-Agents-Debate
@@ -32,7 +32,7 @@
   tone: conf
   paper: https://arxiv.org/abs/2305.19118
   paper_title: Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate
-  description: A framework for encouraging divergent thinking in LLMs through structured debate.
+  description: The MAD framework addresses the Degeneration-of-Thought problem in self-reflection and explores divergent chains of thought through structured agent interaction.
 
 - name: CipherChat
   url: https://github.com/RobustNLP/CipherChat
@@ -41,7 +41,7 @@
   tone: conf
   paper: https://arxiv.org/abs/2308.06463
   paper_title: "GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher"
-  description: A safety evaluation framework for stealthy chat with LLMs via cipher encoding.
+  description: Examines whether safety alignment generalizes to non-natural languages such as ciphers; GPT-4 understands ciphers well enough to produce unsafe outputs.
 
 - name: PsychoBench
   url: https://github.com/CUHK-ARISE/PsychoBench
@@ -50,7 +50,7 @@
   tone: oral
   paper: https://arxiv.org/abs/2310.01386
   paper_title: "On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs"
-  description: A benchmark for evaluating psychological portrayals in large language models.
+  description: Evaluates diverse psychological aspects of LLMs, including personality traits, interpersonal relationships, motivational tests, and emotional abilities.
 
 - name: Is ChatGPT A Good Translator
   url: https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator
@@ -59,4 +59,4 @@
   tone: preprint
   paper: https://arxiv.org/abs/2301.08745
   paper_title: "Is ChatGPT A Good Translator? A Preliminary Study"
-  description: A systematic evaluation of ChatGPT translation across languages and domains.
+  description: ChatGPT performs competitively with commercial translation systems on high-resource European languages; GPT-4 further bridges the gap for low-resource and distant languages.
