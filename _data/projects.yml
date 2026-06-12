@@ -8,8 +8,8 @@
   description: Benchmark and foundation agent for omni-modal AI assistants — multi-hop queries across video, audio, and image, with OmniAtlas trained via hindsight-guided tree exploration and OmniDPO.
 
 - name: MMSkills
-  url: https://github.com/DeepExperience/MMSkills
-  repo: DeepExperience/MMSkills
+  url: https://github.com/zkangning/MMSkills_for_Visual_Agents
+  repo: zkangning/MMSkills_for_Visual_Agents
   venue: ArXiv 2026
   tone: preprint
   paper: https://arxiv.org/abs/2605.13527

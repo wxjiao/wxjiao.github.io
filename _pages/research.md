@@ -48,7 +48,7 @@ permalink: /research/
         <div class="inline-links">
           <span class="publication-venue">ArXiv 2026</span>
           <a href="https://arxiv.org/abs/2605.13527">Paper</a>
-          <a href="https://github.com/DeepExperience/MMSkills">Code</a>
+          <a href="https://github.com/zkangning/MMSkills_for_Visual_Agents">Code</a>
         </div>
       </div>
     </article>
