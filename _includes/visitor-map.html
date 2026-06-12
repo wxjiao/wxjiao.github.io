@@ -109,9 +109,9 @@
     animation: pulse-dot 2s ease-out infinite;
   }
   @keyframes pulse-dot {
-    0%   { r: 5px; opacity: 1; }
-    70%  { r: 9px; opacity: 0.3; }
-    100% { r: 5px; opacity: 1; }
+    0%   { r: 7px; opacity: 1; }
+    70%  { r: 12px; opacity: 0.3; }
+    100% { r: 7px; opacity: 1; }
   }
   .recent-halo {
     animation: halo-pulse 2.4s ease-out infinite;
@@ -397,11 +397,11 @@
         // Map age → dot size / colour / opacity. Newer visits render
         // larger, more saturated, and more opaque; older ones fade back.
         function styleFor(d) {
-          if (d <= 2)  return { r: 5,   fill: '#ef4444', op: 0.95 };
-          if (d <= 7)  return { r: 4.3, fill: '#f43f5e', op: 0.85 };
-          if (d <= 30) return { r: 3.6, fill: '#fb7185', op: 0.70 };
-          if (d <= 90) return { r: 3,   fill: '#fca5a5', op: 0.55 };
-          return           { r: 2.6, fill: '#fecaca', op: 0.42 };
+          if (d <= 2)  return { r: 7.5, fill: '#ef4444', op: 0.95 };
+          if (d <= 7)  return { r: 6.5, fill: '#f43f5e', op: 0.88 };
+          if (d <= 30) return { r: 5.5, fill: '#fb7185', op: 0.75 };
+          if (d <= 90) return { r: 4.8, fill: '#fca5a5', op: 0.60 };
+          return           { r: 4.2, fill: '#fecaca', op: 0.48 };
         }
 
         // Helper to add one visitor dot. `opts` carries the recency
@@ -417,13 +417,13 @@
             svg.append('circle')
               .attr('class', 'visitor-dot-ring')
               .attr('cx', x).attr('cy', y)
-              .attr('r', 10);
+              .attr('r', 14);
           } else if (opts.halo) {
             // Pulsing halo marks the most recent arrivals.
             svg.append('circle')
               .attr('class', 'recent-halo')
               .attr('cx', x).attr('cy', y)
-              .attr('r', (opts.style ? opts.style.r : 5) + 5);
+              .attr('r', (opts.style ? opts.style.r : 7.5) + 6);
           }
 
           var dot = svg.append('circle')
@@ -432,7 +432,7 @@
             .style('cursor', 'pointer');
 
           if (isMe) {
-            dot.attr('r', 5).attr('class', 'you-are-here');
+            dot.attr('r', 7).attr('class', 'you-are-here');
           } else {
             var s = opts.style || styleFor(Infinity);
             dot.attr('r', s.r)
