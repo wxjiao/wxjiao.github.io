@@ -278,6 +278,8 @@ img {
 }
 
 .research-topic {
+  display: flex;
+  flex-direction: column;
   padding: 0 16px 0 0;
   border-right: 1px solid var(--line);
 }
@@ -306,7 +308,8 @@ img {
 
 .research-topic span {
   display: block;
-  margin-top: 12px;
+  margin-top: auto;
+  padding-top: 12px;
   color: var(--green);
   font-size: 12px;
   font-weight: 700;
