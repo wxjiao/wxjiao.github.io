@@ -56,17 +56,17 @@
     stroke: #fff;
     stroke-width: 0.5px;
   }
-  .visitor-dot {
-    fill: #ef4444;
-    stroke: #fff;
-    stroke-width: 1.5px;
-    opacity: 0.85;
-  }
   .visitor-dot-ring {
     fill: none;
     stroke: #ef4444;
     stroke-width: 1px;
     opacity: 0.3;
+  }
+  .recent-halo {
+    fill: none;
+    stroke: #dc2626;
+    stroke-width: 1.4px;
+    opacity: 0.55;
   }
   #map-tooltip {
     position: absolute;
@@ -113,6 +113,33 @@
     70%  { r: 9px; opacity: 0.3; }
     100% { r: 5px; opacity: 1; }
   }
+  .recent-halo {
+    animation: halo-pulse 2.4s ease-out infinite;
+  }
+  @keyframes halo-pulse {
+    0%   { opacity: 0.55; }
+    70%  { opacity: 0.12; }
+    100% { opacity: 0.55; }
+  }
+  #map-legend {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 16px;
+    margin-top: 12px;
+    font-size: 0.75rem;
+    color: #94a3b8;
+  }
+  #map-legend .legend-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+  }
+  #map-legend .legend-swatch {
+    display: inline-block;
+    border-radius: 50%;
+    border: 1.5px solid #fff;
+  }
 </style>
 
 <div id="visitor-map-section">
@@ -125,6 +152,20 @@
       <div class="map-spinner"></div> Loading visitor map&hellip;
     </div>
     <div id="map-tooltip"></div>
+  </div>
+  <div id="map-legend" aria-hidden="true">
+    <span class="legend-item">
+      <span class="legend-swatch" style="width:12px;height:12px;background:#ef4444"></span>
+      Recent visitors
+    </span>
+    <span class="legend-item">
+      <span class="legend-swatch" style="width:7px;height:7px;background:#fca5a5;opacity:0.6"></span>
+      Earlier visitors
+    </span>
+    <span class="legend-item">
+      <span class="legend-swatch" style="width:11px;height:11px;background:#f97316"></span>
+      You
+    </span>
   </div>
 </div>
 
@@ -145,39 +186,66 @@
     'Content-Type':  'application/json'
   };
 
-  // Step 1: load existing visitor records, then continue.
+  var PAGE_SIZE = 1000;          // PostgREST's default max rows per response
+  var MAX_PAGES = 50;            // hard safety cap: up to 50k dots
+
+  // Step 1: load ALL existing visitor records via Range-header pagination,
+  // then continue.
+  // - Supabase/PostgREST caps a single response at 1000 rows. To show
+  //   every visitor (not just the most recent 1000) we page through with
+  //   the `Range: <from>-<to>` header until we've pulled the whole table.
   // - cache: 'no-store' bypasses the browser HTTP cache.
-  // - Prefer: count=exact tells PostgREST to return the true row
-  //   count in the Content-Range header, even though only up to 1000
-  //   rows (PostgREST's default page size) come back in the body.
-  //   Without this, visitors.length tops out at 1000 and the counter
-  //   freezes the moment the table grows past 1000.
-  // - Defensive parsing so a non-2xx response (Supabase returns a
-  //   JSON object on error, not an array) doesn't break downstream.
-  // order=visited_at.desc so the up-to-1000 dots we render are the
-  // most recent visitors, not the oldest ones (PostgREST otherwise
-  // returns rows in physical insertion order).
-  fetch(SUPABASE_URL + '/rest/v1/visitor_locations?select=country,city,lat,lng&order=visited_at.desc',
-        {
-          headers: {
-            'apikey':        SUPABASE_ANON_KEY,
-            'Authorization': 'Bearer ' + SUPABASE_ANON_KEY,
-            'Content-Type':  'application/json',
-            'Prefer':        'count=exact'
-          },
-          cache: 'no-store'
-        })
-    .then(function (r) {
-      if (!r.ok) {
-        console.warn('[visitor-map] read failed:', r.status, r.statusText);
-        return { total: 0, visitors: [] };
-      }
-      var range = r.headers.get('content-range') || '*/0';
-      var total = parseInt(range.split('/')[1], 10) || 0;
-      return r.json().then(function (visitors) {
-        return { total: total, visitors: visitors };
+  // - Prefer: count=exact makes PostgREST report the true total row count
+  //   in the Content-Range header (`<from>-<to>/<total>`), so we know both
+  //   the grand total and when to stop paging.
+  // - visited_at is selected so each dot can be styled by recency.
+  // - order=visited_at.desc so page 0 holds the newest visitors; we render
+  //   oldest-first later so recent dots paint on top.
+  function fetchPage(from) {
+    var to = from + PAGE_SIZE - 1;
+    return fetch(SUPABASE_URL + '/rest/v1/visitor_locations?select=country,city,lat,lng,visited_at&order=visited_at.desc',
+          {
+            headers: {
+              'apikey':        SUPABASE_ANON_KEY,
+              'Authorization': 'Bearer ' + SUPABASE_ANON_KEY,
+              'Content-Type':  'application/json',
+              'Prefer':        'count=exact',
+              'Range-Unit':    'items',
+              'Range':         from + '-' + to
+            },
+            cache: 'no-store'
+          })
+      .then(function (r) {
+        if (!r.ok && r.status !== 206) {
+          console.warn('[visitor-map] read failed:', r.status, r.statusText);
+          return { total: 0, rows: [] };
+        }
+        var range = r.headers.get('content-range') || '*/0';
+        var total = parseInt(range.split('/')[1], 10) || 0;
+        return r.json().then(function (rows) {
+          return { total: total, rows: Array.isArray(rows) ? rows : [] };
+        });
       });
-    })
+  }
+
+  function loadAll() {
+    var all = [];
+    function next(from, page) {
+      return fetchPage(from).then(function (res) {
+        all = all.concat(res.rows);
+        var more = res.rows.length === PAGE_SIZE &&
+                   all.length < res.total &&
+                   page + 1 < MAX_PAGES;
+        if (more) {
+          return next(from + PAGE_SIZE, page + 1);
+        }
+        return { total: res.total || all.length, visitors: all };
+      });
+    }
+    return next(0, 0);
+  }
+
+  loadAll()
     .catch(function (e) {
       console.warn('[visitor-map] read network error:', e);
       return { total: 0, visitors: [] };
@@ -305,28 +373,85 @@
 
         var tooltip = document.getElementById('map-tooltip');
 
-        // Helper to add one visitor dot
-        function addDot(lat, lng, city, country, isMe) {
+        var now = Date.now();
+
+        // Age of a visit in days; Infinity if the timestamp is missing
+        // or unparseable, so such rows fall into the faintest tier.
+        function ageDays(v) {
+          if (!v || !v.visited_at) return Infinity;
+          var t = Date.parse(v.visited_at);
+          if (isNaN(t)) return Infinity;
+          return (now - t) / 86400000;
+        }
+
+        // Human-readable recency for the tooltip.
+        function relTime(d) {
+          if (!isFinite(d)) return '';
+          if (d < 1 / 24)  return 'just now';
+          if (d < 1)       return Math.max(1, Math.round(d * 24)) + 'h ago';
+          if (d < 30)      return Math.round(d) + 'd ago';
+          if (d < 365)     return Math.round(d / 30) + 'mo ago';
+          return Math.round(d / 365) + 'y ago';
+        }
+
+        // Map age → dot size / colour / opacity. Newer visits render
+        // larger, more saturated, and more opaque; older ones fade back.
+        function styleFor(d) {
+          if (d <= 2)  return { r: 5,   fill: '#ef4444', op: 0.95 };
+          if (d <= 7)  return { r: 4.3, fill: '#f43f5e', op: 0.85 };
+          if (d <= 30) return { r: 3.6, fill: '#fb7185', op: 0.70 };
+          if (d <= 90) return { r: 3,   fill: '#fca5a5', op: 0.55 };
+          return           { r: 2.6, fill: '#fecaca', op: 0.42 };
+        }
+
+        // Helper to add one visitor dot. `opts` carries the recency
+        // style, a relative-time label, and whether to draw a halo.
+        function addDot(lat, lng, city, country, isMe, opts) {
           var xy = projection([lng, lat]);
           if (!xy) return;
           var x = xy[0];
           var y = xy[1];
+          opts = opts || {};
 
-          svg.append('circle')
-            .attr('class', 'visitor-dot-ring')
-            .attr('cx', x).attr('cy', y)
-            .attr('r', isMe ? 10 : 7);
+          if (isMe) {
+            svg.append('circle')
+              .attr('class', 'visitor-dot-ring')
+              .attr('cx', x).attr('cy', y)
+              .attr('r', 10);
+          } else if (opts.halo) {
+            // Pulsing halo marks the most recent arrivals.
+            svg.append('circle')
+              .attr('class', 'recent-halo')
+              .attr('cx', x).attr('cy', y)
+              .attr('r', (opts.style ? opts.style.r : 5) + 5);
+          }
 
-          svg.append('circle')
+          var dot = svg.append('circle')
             .attr('cx', x).attr('cy', y)
-            .attr('r', isMe ? 5 : 4)
-            .attr('class', isMe ? 'you-are-here' : 'visitor-dot')
             .style('pointer-events', 'all')
-            .style('cursor', 'pointer')
-            .on('mousemove', function (event) {
-              var label = city ? city + ', ' + country : country;
-              var prefix = isMe ? '&#128205; You: ' : '&#128100; ';
-              tooltip.innerHTML  = prefix + label;
+            .style('cursor', 'pointer');
+
+          if (isMe) {
+            dot.attr('r', 5).attr('class', 'you-are-here');
+          } else {
+            var s = opts.style || styleFor(Infinity);
+            dot.attr('r', s.r)
+              .attr('fill', s.fill)
+              .attr('stroke', '#fff')
+              .attr('stroke-width', 1.2)
+              .attr('opacity', s.op);
+          }
+
+          dot.on('mousemove', function (event) {
+              var place = city ? city + ', ' + country : country;
+              var label;
+              if (isMe) {
+                label = '&#128205; You: ' + place;
+              } else {
+                label = '&#128100; ' + place;
+                if (opts.rel) label += ' &middot; ' + opts.rel;
+              }
+              tooltip.innerHTML  = label;
               tooltip.style.display = 'block';
               var rect = container.getBoundingClientRect();
               tooltip.style.left = (event.clientX - rect.left + 12) + 'px';
@@ -337,16 +462,26 @@
             });
         }
 
-        // Draw all historical visitors first
-        visitors.forEach(function (v) {
-          if (v.lat && v.lng) {
-            addDot(v.lat, v.lng, v.city, v.country, false);
-          }
+        // visitors is ordered newest-first. Halo the most recent few,
+        // then draw oldest-first so recent dots paint on top.
+        var RECENT_HALO = 6;
+        var drawable = visitors.filter(function (v) { return v.lat && v.lng; });
+
+        drawable.forEach(function (v, i) {
+          v.__halo  = i < RECENT_HALO;
+          v.__style = styleFor(ageDays(v));
+          v.__rel   = relTime(ageDays(v));
         });
+
+        for (var i = drawable.length - 1; i >= 0; i--) {
+          var v = drawable[i];
+          addDot(v.lat, v.lng, v.city, v.country, false,
+                 { halo: v.__halo, style: v.__style, rel: v.__rel });
+        }
 
         // Draw current visitor on top
         if (me) {
-          addDot(me.lat, me.lng, me.city, me.country, true);
+          addDot(me.lat, me.lng, me.city, me.country, true, {});
         }
 
         document.getElementById('map-loading').remove();
