@@ -1,3 +1,12 @@
+- name: Harness-R1
+  url: https://github.com/DeepExperience/Harness-R1
+  repo: DeepExperience/Harness-R1
+  venue: ArXiv 2026
+  tone: preprint
+  paper: https://arxiv.org/abs/2608.02276
+  paper_title: "Harness-R1: Learning to Edit Executable Runtime Harnesses from Agent Failure Trajectories"
+  description: Trains a 9B harness engineer via RL to patch runtime harnesses from agent failure trajectories, lifting task success from 44.3% to 53.6%.
+
 - name: OmniGAIA
   url: https://github.com/RUC-NLPIR/OmniGAIA
   repo: RUC-NLPIR/OmniGAIA
