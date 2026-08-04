@@ -70,6 +70,17 @@
     github:
   selected_works: []
 
+- name: Mengkang Hu
+  role: PhD student
+  affiliation: The University of Hong Kong
+  education: []
+  research: General-purpose LLM agents and world models
+  links:
+    homepage: https://aaron617.github.io/
+    scholar:
+    github:
+  selected_works: []
+
 - name: Shijian Wang
   role: MS student
   affiliation: Southeast University
