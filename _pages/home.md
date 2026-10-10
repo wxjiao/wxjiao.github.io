@@ -8,10 +8,10 @@ permalink: /
 
 <section markdown="0" class="home-hero">
   <div class="home-hero-copy">
-    <p class="eyebrow">LLMs · Agents · Reasoning · Safety</p>
+    <p class="eyebrow">LLMs · Reasoning · Agents</p>
     <h1>Wenxiang Jiao <span>焦文祥</span></h1>
     <p class="hero-lede">
-      I study where large language models break — in reasoning, agency, safety, and psychological behavior — and turn those findings into benchmarks, agents, and alignment methods for reliable AI systems.
+      I study how LLMs and agents learn from data and interaction, reason deeply, and evolve — from capability learning to deep reasoning to self-evolving agents. Recent focus: tool and skill learning, Agentic RL, and Harness Engineering.
     </p>
     <div class="hero-links">
       <a href="https://scholar.google.com/citations?hl=zh-CN&user=CvtODukAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
