@@ -19,8 +19,8 @@
 - name: MMSkills
   url: https://github.com/zkangning/MMSkills_for_Visual_Agents
   repo: zkangning/MMSkills_for_Visual_Agents
-  venue: ArXiv 2026
-  tone: preprint
+  venue: NeurIPS 2026
+  tone: conf
   paper: https://arxiv.org/abs/2605.13527
   paper_title: "MMSkills: Towards Multimodal Skills for General Visual Agents"
   description: Reusable multimodal procedures encoded as state-conditioned skill packages, generated from public trajectories and consulted by a branch-loaded skill agent at runtime.
