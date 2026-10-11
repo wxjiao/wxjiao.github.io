@@ -61,6 +61,24 @@
   paper_title: "On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs"
   description: Evaluates diverse psychological aspects of LLMs, including personality traits, interpersonal relationships, motivational tests, and emotional abilities.
 
+- name: WMT22 African MT
+  url: https://github.com/wxjiao/WMT2022-Large-Scale-African
+  repo: wxjiao/WMT2022-Large-Scale-African
+  venue: WMT 2022 · 1st Place
+  tone: conf
+  paper: https://arxiv.org/abs/2210.09644
+  paper_title: "Tencent’s Multilingual Machine Translation System for WMT22 Large-Scale African Languages"
+  description: Tencent’s MNMT system for African languages — data augmentation, distributionally robust optimization, and language-family grouping — ranked 1st place in the WMT22 competition.
+
+- name: Adapters
+  url: https://github.com/yifan-h/Multilingual_Space
+  repo: yifan-h/Multilingual_Space
+  venue: EMNLP 2022 Findings · MRL Best Paper
+  tone: conf
+  paper: https://arxiv.org/abs/2210.13617
+  paper_title: "Adapters for Enhanced Modeling of Multilingual Knowledge and Text"
+  description: Enhances multilingual language models with knowledge from multilingual knowledge graphs, tackling language and knowledge graph tasks across many languages — Best Paper Award at the MRL workshop.
+
 - name: Is ChatGPT A Good Translator
   url: https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator
   repo: wxjiao/Is-ChatGPT-A-Good-Translator
