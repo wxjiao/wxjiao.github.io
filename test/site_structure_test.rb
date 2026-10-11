@@ -12,7 +12,6 @@ class SiteStructureTest < Minitest::Test
 
     refute_includes home, 'id="carousel"'
     assert_includes home, "home-hero"
-    assert_includes home, "research-areas"
     assert_includes home, "latest-news"
     assert_includes home, "section-label"
   end
@@ -32,7 +31,6 @@ class SiteStructureTest < Minitest::Test
 
     assert_operator hero_lede.length, :<=, 240
     refute_includes home, "hero-affiliation"
-    assert_includes home, "research-strip"
   end
 
   def test_home_layout_is_single_content_flow
