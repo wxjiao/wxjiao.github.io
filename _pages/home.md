@@ -41,8 +41,11 @@ permalink: /
           <span class="venue-chip">Nature</span>
           <span class="venue-chip">Nature Machine Intelligence</span>
           <span class="venue-chip">NeurIPS</span>
+          <span class="venue-chip">ICLR</span>
           <span class="venue-chip">ICML</span>
           <span class="venue-chip">ACL</span>
+          <span class="venue-chip">EMNLP</span>
+          <span class="venue-label">etc.</span>
         </span>
       </div>
     </div>
@@ -69,34 +72,6 @@ permalink: /
     <p class="section-label">Selected Work</p>
   </div>
   {% include spotlight-projects.html %}
-</section>
-
-<section markdown="0" class="section-block research-areas">
-  <div class="section-heading">
-    <p class="section-label">Research</p>
-  </div>
-  <div class="research-strip">
-    <article class="research-topic">
-      <h3>General Agents</h3>
-      <p>Multimodal, tool-using, and collaborative agents for complex tasks.</p>
-      <span>DeepAgent · OmniGAIA · MAD</span>
-    </article>
-    <article class="research-topic">
-      <h3>LLM Reasoning</h3>
-      <p>Mathematical, reflective, and efficient long-chain reasoning.</p>
-      <span>DeepCompress · REA-RL</span>
-    </article>
-    <article class="research-topic">
-      <h3>LLM Safety</h3>
-      <p>Risk awareness, jailbreak robustness, multilingual safety, and refusal.</p>
-      <span>CipherChat · DeRTa</span>
-    </article>
-    <article class="research-topic">
-      <h3>LLM Personality</h3>
-      <p>Emotion, personality, and psychological portrayals in conversational AI.</p>
-      <span>PsychoBench · EmotionBench · Fints</span>
-    </article>
-  </div>
 </section>
 
 <section markdown="0" class="section-block visitor-block">
