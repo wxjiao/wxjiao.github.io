@@ -61,6 +61,15 @@
   paper_title: "On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs"
   description: Evaluates diverse psychological aspects of LLMs, including personality traits, interpersonal relationships, motivational tests, and emotional abilities.
 
+- name: Is ChatGPT A Good Translator
+  url: https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator
+  repo: wxjiao/Is-ChatGPT-A-Good-Translator
+  venue: ArXiv 2023
+  tone: preprint
+  paper: https://arxiv.org/abs/2301.08745
+  paper_title: "Is ChatGPT A Good Translator? A Preliminary Study"
+  description: ChatGPT performs competitively with commercial translation systems on high-resource European languages; GPT-4 further bridges the gap for low-resource and distant languages.
+
 - name: WMT22 African MT
   url: https://github.com/wxjiao/WMT2022-Large-Scale-African
   repo: wxjiao/WMT2022-Large-Scale-African
@@ -78,12 +87,3 @@
   paper: https://arxiv.org/abs/2210.13617
   paper_title: "Adapters for Enhanced Modeling of Multilingual Knowledge and Text"
   description: Enhances multilingual language models with knowledge from multilingual knowledge graphs, tackling language and knowledge graph tasks across many languages — Best Paper Award at the MRL workshop.
-
-- name: Is ChatGPT A Good Translator
-  url: https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator
-  repo: wxjiao/Is-ChatGPT-A-Good-Translator
-  venue: ArXiv 2023
-  tone: preprint
-  paper: https://arxiv.org/abs/2301.08745
-  paper_title: "Is ChatGPT A Good Translator? A Preliminary Study"
-  description: ChatGPT performs competitively with commercial translation systems on high-resource European languages; GPT-4 further bridges the gap for low-resource and distant languages.
