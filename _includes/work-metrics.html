@@ -1,0 +1,14 @@
+{% if include.project.impact %}
+<div class="work-metrics" aria-label="Research impact">
+  {% if include.project.impact.citations %}
+  <a class="metric-badge metric-citations" href="{{ include.project.impact.scholar_url | escape }}" title="Google Scholar citations, checked {{ include.project.impact.checked }}" aria-label="{{ include.project.title | escape }}: {{ include.project.impact.citations }} Google Scholar citations, checked {{ include.project.impact.checked }}">
+    <span>Scholar citations</span><strong>{{ include.project.impact.citations_display }}</strong>
+  </a>
+  {% endif %}
+  {% if include.project.impact.stars %}
+  <a class="metric-badge metric-stars" href="{{ include.project.code }}/stargazers" title="GitHub stars, checked {{ include.project.impact.checked }}" aria-label="{{ include.project.title | escape }}: {{ include.project.impact.stars }} GitHub stars, checked {{ include.project.impact.checked }}">
+    <span><span aria-hidden="true">★</span> GitHub stars</span><strong>{{ include.project.impact.stars_display }}</strong>
+  </a>
+  {% endif %}
+</div>
+{% endif %}

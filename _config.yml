@@ -2,14 +2,21 @@
 title: Wenxiang Jiao
 email: wenxiangjiaonju@gmail.com
 description: >
-  Wenxiang Jiao is a researcher working on large language models, AI agents,
-  reasoning, safety, and the psychological properties of conversational AI.
+  Wenxiang Jiao studies capability learning, deep reasoning, and self-evolving
+  agents, with a focus on tool and skill learning, Agentic RL, and Harness Engineering.
 baseurl: ""
 url: "https://wxjiao.github.io"
 
 include:
   - .htaccess
   - _pages
+
+# Local reference documents and development files are not public site assets.
+exclude:
+  - CV_wxjiao_1104.pdf
+  - CLAUDE.md
+  - README.md
+  - test
 
 sass:
   sass_dir: _sass

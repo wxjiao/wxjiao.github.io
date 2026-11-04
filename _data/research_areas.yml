@@ -1,0 +1,21 @@
+- id: agents
+  number: '01'
+  title: Agents & Self-Evolution
+  question: How can agents learn from experience and improve themselves?
+  description: My current focus is on general agents that discover tools, acquire reusable skills, and improve their
+    own runtime mechanisms through interaction and reinforcement learning.
+  topics: Tool & skill learning · Agentic RL · Harness Engineering
+- id: reasoning
+  number: '02'
+  title: Deep Reasoning
+  question: How can models reason more deeply and efficiently?
+  description: I study collaborative reasoning, reflection-aware learning, and the cognitive and psychological properties
+    of language models, connecting stronger problem solving with a better understanding of model behavior.
+  topics: Multi-agent collaboration · Efficient reasoning · LLM psychology
+- id: capabilities
+  number: '03'
+  title: Capability Learning
+  question: How do language models acquire and update their capabilities?
+  description: My earlier work spans multilingual pretraining, machine translation, and continual model improvement,
+    alongside studies of how safety alignment generalizes across languages and forms of interaction.
+  topics: Multilingual learning · Translation · Continual pretraining · Safety
