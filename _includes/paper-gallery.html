@@ -1,0 +1,25 @@
+{% assign gallery_id = include.project.name | slugify | prepend: 'paper-gallery-' %}
+<div class="paper-gallery" data-paper-gallery role="region" aria-roledescription="carousel" aria-label="{{ include.project.name | escape }} paper figures">
+  <div class="paper-gallery-heading">
+    <span class="paper-gallery-label">Inside the paper</span>
+    <div class="paper-gallery-controls" hidden>
+      <button type="button" data-gallery-prev aria-label="Previous figure" aria-controls="{{ gallery_id }}" disabled><span aria-hidden="true">←</span></button>
+      <span class="paper-gallery-count" data-gallery-count aria-live="polite" aria-atomic="true">1 / {{ include.project.gallery.size }}</span>
+      <button type="button" data-gallery-next aria-label="Next figure" aria-controls="{{ gallery_id }}"><span aria-hidden="true">→</span></button>
+    </div>
+  </div>
+  <div class="paper-gallery-track" id="{{ gallery_id }}" tabindex="0" aria-label="Scrollable paper figures; use left and right arrow keys">
+    {% for figure in include.project.gallery %}
+    <figure class="paper-gallery-slide" data-gallery-slide role="group" aria-roledescription="slide" aria-label="{{ forloop.index }} of {{ include.project.gallery.size }}: {{ figure.title | escape }}">
+      <a class="paper-gallery-image" href="{{ figure.src | relative_url }}" data-gallery-expand aria-label="Enlarge {{ figure.title | escape }}" data-figure-title="{{ figure.title | escape }}" data-figure-caption="{{ figure.label | escape }}. {{ figure.caption | escape }}" data-figure-source="{{ figure.source | escape }}">
+        <img src="{{ figure.src | relative_url }}" width="{{ figure.width }}" height="{{ figure.height }}" alt="{{ figure.alt | escape }}" loading="lazy" decoding="async">
+        <span class="paper-gallery-expand" aria-hidden="true">↗ Enlarge</span>
+      </a>
+      <figcaption>
+        <div class="paper-gallery-caption-head"><strong>{{ figure.title }}</strong><a href="{{ figure.source | escape }}">{{ figure.label }} · p. {{ figure.page }} <span aria-hidden="true">↗</span></a></div>
+        <span>{{ figure.caption }}</span>
+      </figcaption>
+    </figure>
+    {% endfor %}
+  </div>
+</div>
