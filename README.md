@@ -81,8 +81,9 @@ Research 的排序设置不影响首页。
 
 ## 论文图表轮播
 
-给首页精选工作添加可选的 `gallery` 列表即可启用；当前六项精选工作均已配置。
-DeepAgent 保留三张图，其余每项展示方法／评测总览与核心结果两张图。
+给首页精选工作添加可选的 `gallery` 列表即可启用；当前七项精选工作均已配置。
+Harness-S、Harness-R1 和 DeepAgent 各展示三张图，其余每项展示方法／评测总览与核心结果两张图。
+Harness-S 和 Harness-R1 的三张图依次为框架总览、Figure 1、核心实验结果。
 图表放在右侧介绍区的链接下方，不会自动出现在 Research 页。
 
 下面是一条实际使用的配置：
@@ -125,9 +126,10 @@ gallery:
 
 | 项目 | arXiv 版本 | 总览图来源 | 核心结果来源 |
 | --- | --- | --- | --- |
+| Harness-S | `2611.04277v1` | `figures/method_framework_text.pdf`，Figure 2 | `figures/introduction_plot.pdf`，Figure 1；论文第 7 页 Table 1 |
 | DeepAgent | `2510.21618v3` | `figures/architecture.pdf` | `figures/radar.pdf`；论文第 5 页 Table 1 |
 | MMSkills | `2605.13527v3` | `Images/Full_Figure.pdf`，Figure 2 | 论文第 6 页 Table 1 |
-| Harness-R1 | `2608.02276v1` | `mainfig_harness_r1.pdf` 第 2 页，按原论文裁边，Figure 2 | 论文第 7 页 Table 1 |
+| Harness-R1 | `2608.02276v1` | `mainfig_harness_r1.pdf` 第 2 页，按原论文裁边，Figure 2 | `figures/FIG_motivation_editing.pdf`，Figure 1；论文第 7 页 Table 1 |
 | Multi-Agent Debate | `2305.19118v4` | `imgs/framework.pdf`，Figure 2 | 论文第 5 页 Table 1 |
 | REA-RL | `2505.19862v2` | `pic/main.pdf`，Figure 2 | 论文第 7 页 Table 2 |
 | PsychoBench | `2310.01386v2` | 论文第 3 页 Figure 1（LaTeX 绘制） | 论文第 10 页 Table 3 |
