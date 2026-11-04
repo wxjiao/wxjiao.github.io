@@ -1,21 +1,21 @@
-<div class="navbar navbar-default navbar-fixed-top site-nav" role="navigation">
+<div class="navbar navbar-default navbar-fixed-top site-nav" role="navigation" aria-label="Main navigation">
   <div class="container-fluid">
 	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false" aria-controls="navbar-collapse-1">
 		<span class="sr-only">Toggle navigation</span>
 		<span class="icon-bar"></span>
 		<span class="icon-bar"></span>
 		<span class="icon-bar"></span>
 	  </button>
 	
-    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">Wenxiang Jiao</a>
+    <a class="navbar-brand" href="{{ site.baseurl }}/">Wenxiang Jiao</a>
 	</div>
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
 	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/research">Research</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">News</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/team">Team</a></li>
+		<li><a href="{{ site.baseurl }}/"{% if page.url == "/" %} aria-current="page"{% endif %}>Home</a></li>
+		<li><a href="{{ site.baseurl }}/research/"{% if page.url == "/research/" %} aria-current="page"{% endif %}>Research</a></li>
+		<li><a href="{{ site.baseurl }}/allnews.html"{% if page.url == "/allnews.html" %} aria-current="page"{% endif %}>News</a></li>
+		<li><a href="{{ site.baseurl }}/team/"{% if page.url == "/team/" %} aria-current="page"{% endif %}>Team</a></li>
 	  </ul>
 	</div>
   </div>

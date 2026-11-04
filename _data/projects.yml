@@ -1,89 +1,386 @@
-- name: Harness-R1
-  url: https://github.com/DeepExperience/Harness-R1
-  repo: DeepExperience/Harness-R1
-  venue: ArXiv 2026
-  tone: preprint
-  paper: https://arxiv.org/abs/2608.02276
-  paper_title: "Harness-R1: Learning to Edit Executable Runtime Harnesses from Agent Failure Trajectories"
-  description: Trains a 9B harness engineer via RL to patch runtime harnesses from agent failure trajectories, lifting task success from 44.3% to 53.6%.
-
-- name: OmniGAIA
-  url: https://github.com/RUC-NLPIR/OmniGAIA
-  repo: RUC-NLPIR/OmniGAIA
-  venue: ArXiv 2026
-  tone: preprint
-  paper: https://arxiv.org/abs/2602.22897
-  paper_title: "OmniGAIA: Towards Native Omni-Modal AI Agents"
-  description: Benchmark and foundation agent for omni-modal AI assistants — multi-hop queries across video, audio, and image, with OmniAtlas trained via hindsight-guided tree exploration and OmniDPO.
-
-- name: MMSkills
-  url: https://github.com/zkangning/MMSkills_for_Visual_Agents
-  repo: zkangning/MMSkills_for_Visual_Agents
-  venue: NeurIPS 2026
-  tone: conf
-  paper: https://arxiv.org/abs/2605.13527
-  paper_title: "MMSkills: Towards Multimodal Skills for General Visual Agents"
-  description: Reusable multimodal procedures encoded as state-conditioned skill packages, generated from public trajectories and consulted by a branch-loaded skill agent at runtime.
-
-- name: DeepAgent
-  url: https://github.com/RUC-NLPIR/DeepAgent
-  repo: RUC-NLPIR/DeepAgent
+- title: 'DeepAgent: A General Reasoning Agent with Scalable Toolsets'
+  description: A general reasoning agent with autonomous tool discovery, memory folding, and tool reinforcement learning
+    across more than 16,000 tools.
   venue: WWW 2026
-  tone: conf
   paper: https://arxiv.org/abs/2510.21618
-  paper_title: "DeepAgent: A General Reasoning Agent with Scalable Toolsets"
-  description: A reasoning agent that tackles general tasks by searching for and using appropriate tools from over 16,000 RapidAPIs in an end-to-end agentic reasoning process.
-
-- name: Multi-Agent Debate
-  url: https://github.com/Skytliang/Multi-Agents-Debate
-  repo: Skytliang/Multi-Agents-Debate
+  code: https://github.com/RUC-NLPIR/DeepAgent
+  name: DeepAgent
+  area: agents
+  featured: true
+  impact:
+    checked: '2026-11-04'
+    citations: 95
+    citations_display: '95'
+    scholar_url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CvtODukAAAAJ&pagesize=100&citation_for_view=CvtODukAAAAJ:9c2xU6iGI7YC
+    stars: 1.1k
+    stars_display: 1.1k
+  year: 2026
+  status: published
+  research_highlight: true
+  research_priority: 1
+  venue_group: WWW
+- title: 'MMSkills: Towards Multimodal Skills for General Visual Agents'
+  description: Builds reusable multimodal skills from interaction trajectories, combining textual procedures, visual
+    state cards, and multi-view keyframes.
+  venue: NeurIPS 2026
+  paper: https://arxiv.org/abs/2605.13527
+  code: https://github.com/zkangning/MMSkills_for_Visual_Agents
+  name: MMSkills
+  area: agents
+  featured: true
+  year: 2026
+  status: published
+  research_highlight: false
+  venue_group: NeurIPS
+- title: 'Harness-R1: Learning to Edit Executable Runtime Harnesses from Agent Failure Trajectories'
+  description: Learns to turn agent failure trajectories into executable runtime patches, using task reruns as reinforcement
+    learning feedback.
+  venue: ArXiv 2026
+  paper: https://arxiv.org/abs/2608.02276
+  code: https://github.com/DeepExperience/Harness-R1
+  name: Harness-R1
+  area: agents
+  featured: true
+  impact:
+    checked: '2026-11-04'
+    citations: 14
+    citations_display: '14'
+    scholar_url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CvtODukAAAAJ&pagesize=100&citation_for_view=CvtODukAAAAJ:F9fV5C73w3QC
+    stars: 123
+    stars_display: '123'
+  year: 2026
+  status: preprint
+  research_highlight: false
+  venue_group: Preprint
+- title: 'SkillGate: Training In-Policy Skill Selection in Long-Horizon Agents'
+  name: SkillGate
+  description: Trains skill selection within the agent policy, separating credit for choosing a skill from credit for
+    executing the task in long-horizon reinforcement learning.
+  venue: ArXiv 2026
+  code: https://github.com/DeepExperience/SkillGate
+  area: agents
+  featured: false
+  paper: https://arxiv.org/abs/2608.18852
+  year: 2026
+  status: preprint
+  research_highlight: false
+  venue_group: Preprint
+- title: 'Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training'
+  name: Harness-S
+  description: Trains a shared agent policy using complementary trajectories from sibling harnesses, transferring successful
+    behaviors back to the original runtime.
+  venue: Preprint 2026
+  code: https://github.com/DeepExperience/Harness-S
+  area: agents
+  featured: false
+  year: 2026
+  status: preprint
+  research_highlight: false
+  venue_group: Preprint
+- title: 'MuSEAgent: A Multimodal Reasoning Agent with Stateful Experiences'
+  description: Abstracts interaction data into atomic decision experiences via hindsight reasoning, then retrieves them
+    at inference through policy-driven wide- and deep-search strategies, improving fine-grained visual perception and
+    multimodal reasoning over trajectory-level retrieval baselines.
+  venue: ArXiv 2026
+  paper: https://arxiv.org/abs/2603.27813
+  code: https://github.com/DeepExperience/MuSEAgent
+  area: agents
+  featured: false
+  year: 2026
+  status: preprint
+  research_highlight: false
+  venue_group: Preprint
+- title: 'OmniGAIA: Towards Native Omni-Modal AI Agents'
+  description: A benchmark and foundation agent for omni-modal AI assistants. OmniGAIA synthesizes multi-hop queries
+    across video, audio, and image via an omni-modal event graph; the accompanying OmniAtlas agent uses active omni-modal
+    perception trained with hindsight-guided tree exploration and OmniDPO.
+  venue: ArXiv 2026
+  paper: https://arxiv.org/abs/2602.22897
+  code: https://github.com/RUC-NLPIR/OmniGAIA
+  name: OmniGAIA
+  area: agents
+  featured: false
+  impact:
+    checked: '2026-11-04'
+    citations: 21
+    citations_display: '21'
+    scholar_url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CvtODukAAAAJ&pagesize=100&citation_for_view=CvtODukAAAAJ:yFnVuubrUp4C
+    stars: 148
+    stars_display: '148'
+  year: 2026
+  status: preprint
+  research_highlight: false
+  venue_group: Preprint
+- title: 'LoopTool: Closing the Data–Training Loop for Robust LLM Tool Calls'
+  name: LoopTool
+  description: Connects tool-use data generation and training in a feedback loop to improve robust tool calling.
+  venue: ACL 2026
+  area: agents
+  featured: false
+  code: https://github.com/DeepExperience/LoopTool
+  year: 2026
+  status: published
+  research_highlight: false
+  venue_group: ACL
+- title: 'Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback'
+  name: Agent2World
+  description: Explores how adaptive multi-agent feedback can guide the learning and iterative improvement of symbolic
+    world models.
+  venue: NeurIPS 2026
+  area: agents
+  featured: false
+  code: https://github.com/DeepExperience/agent2world
+  year: 2026
+  status: published
+  research_highlight: false
+  venue_group: NeurIPS
+- title: Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate
+  description: Studies degeneration of thought in self-reflection and uses multi-agent debate to encourage divergent
+    reasoning.
   venue: EMNLP 2024
-  tone: conf
   paper: https://arxiv.org/abs/2305.19118
-  paper_title: Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate
-  description: The MAD framework addresses the Degeneration-of-Thought problem in self-reflection and explores divergent chains of thought through structured agent interaction.
-
-- name: CipherChat
-  url: https://github.com/RobustNLP/CipherChat
-  repo: RobustNLP/CipherChat
-  venue: ICLR 2024
-  tone: conf
-  paper: https://arxiv.org/abs/2308.06463
-  paper_title: "GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher"
-  description: Examines whether safety alignment generalizes to non-natural languages such as ciphers; GPT-4 understands ciphers well enough to produce unsafe outputs.
-
-- name: PsychoBench
-  url: https://github.com/CUHK-ARISE/PsychoBench
-  repo: CUHK-ARISE/PsychoBench
+  code: https://github.com/Skytliang/Multi-Agents-Debate
+  area: reasoning
+  featured: true
+  name: Multi-Agent Debate
+  impact:
+    checked: '2026-11-04'
+    citations: 1815
+    citations_display: 1,815
+    scholar_url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CvtODukAAAAJ&pagesize=100&citation_for_view=CvtODukAAAAJ:ZfRJV9d4-WMC
+    stars: 621
+    stars_display: '621'
+  year: 2024
+  status: published
+  research_highlight: true
+  research_priority: 1
+  venue_group: EMNLP
+- title: 'REA-RL: Reflection-Aware Online Reinforcement Learning for Efficient Large Reasoning Models'
+  description: Reflection-aware reinforcement learning for more efficient reasoning, retaining reflective ability while
+    reducing inference cost.
+  venue: ICLR 2026
+  paper: https://arxiv.org/abs/2505.19862
+  code: https://github.com/hexuandeng/REA-RL
+  area: reasoning
+  name: REA-RL
+  featured: true
+  year: 2026
+  status: published
+  research_highlight: false
+  venue_group: ICLR
+- title: 'DeepCompress: A Dual Reward Strategy for Dynamically Exploring and Compressing Reasoning Chains'
+  description: A dual-reward RL framework that classifies problems as Simple or Hard in real time and adaptively shortens
+    or extends Chain-of-Thought, improving both accuracy and token efficiency on challenging math benchmarks.
+  venue: ICLR 2026
+  paper: https://arxiv.org/abs/2510.27419
+  code: https://github.com/Skytliang/DeepCompress
+  area: reasoning
+  featured: false
+  year: 2026
+  status: published
+  research_highlight: false
+  venue_group: ICLR
+- title: 'On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs'
+  description: A systematic evaluation of LLM psychological portrayals across personality, relationships, motivation,
+    and emotional abilities.
   venue: ICLR 2024 Oral
-  tone: oral
   paper: https://arxiv.org/abs/2310.01386
-  paper_title: "On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs"
-  description: Evaluates diverse psychological aspects of LLMs, including personality traits, interpersonal relationships, motivational tests, and emotional abilities.
-
-- name: Is ChatGPT A Good Translator
-  url: https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator
-  repo: wxjiao/Is-ChatGPT-A-Good-Translator
+  code: https://github.com/CUHK-ARISE/PsychoBench
+  name: PsychoBench
+  area: reasoning
+  featured: true
+  impact:
+    checked: '2026-11-04'
+    citations: 188
+    citations_display: '188'
+    scholar_url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CvtODukAAAAJ&pagesize=100&citation_for_view=CvtODukAAAAJ:z_wVstp3MssC
+    stars: 140
+    stars_display: '140'
+  year: 2024
+  status: published
+  research_highlight: false
+  venue_group: ICLR
+- title: Towards Evaluating Proactive Risk Awareness of Multimodal Language Models
+  description: PaSBench evaluates proactive safety across 416 multimodal scenarios in five safety-critical domains. Top
+    models such as Gemini-2.5-pro reach 64–71% accuracy but miss 45–55% of risks under repetition — failure analysis
+    traces this to unstable proactive reasoning rather than missing knowledge.
+  venue: NeurIPS 2025 D&B
+  paper: https://arxiv.org/abs/2505.17455
+  area: capabilities
+  featured: false
+  year: 2025
+  status: published
+  research_highlight: false
+  venue_group: NeurIPS
+- title: 'Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training (DeRTa)'
+  description: 'Identifies a refusal position bias in safety-tuning data and proposes Decoupled Refusal Training: MLE
+    with a harmful response prefix plus Reinforced Transition Optimization, letting LLaMA-3 and Mistral models refuse
+    at any position throughout a harmful response without hurting performance.'
+  venue: ACL 2025
+  paper: https://arxiv.org/abs/2407.09121
+  code: https://github.com/RobustNLP/DeRTa
+  area: capabilities
+  featured: false
+  impact:
+    checked: '2026-11-04'
+    citations: 103
+    citations_display: '103'
+    scholar_url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CvtODukAAAAJ&pagesize=100&citation_for_view=CvtODukAAAAJ:ILKRHgRFtOwC
+    stars: 73
+    stars_display: '73'
+  year: 2025
+  status: published
+  research_highlight: false
+  venue_group: ACL
+- title: Chain-of-Jailbreak Attack for Image Generation Models via Editing Step by Step
+  description: Decomposes a malicious image-generation query into innocuous sub-queries and iteratively edits the output;
+    bypasses safeguards on GPT-4V, GPT-4o, and Gemini 1.5/Pro in over 60% of cases. A companion Think Twice Prompting
+    defense blocks more than 95%.
+  venue: ACL 2025 (Findings)
+  paper: https://arxiv.org/abs/2410.03869
+  code: https://github.com/Jarviswang94/Chain-of-Jailbreak
+  area: capabilities
+  featured: false
+  year: 2025
+  status: published
+  research_highlight: false
+  venue_group: ACL
+- title: 'GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher'
+  description: CipherChat examines whether safety alignment generalizes to non-natural languages such as ciphers; GPT-4
+    understands ciphers well enough to produce unsafe outputs.
+  venue: ICLR 2024
+  paper: https://arxiv.org/abs/2308.06463
+  project: https://llmcipherchat.github.io/
+  name: CipherChat
+  area: capabilities
+  featured: false
+  code: https://github.com/RobustNLP/CipherChat
+  impact:
+    checked: '2026-11-04'
+    citations: 619
+    citations_display: '619'
+    scholar_url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CvtODukAAAAJ&pagesize=100&citation_for_view=CvtODukAAAAJ:j8SEvjWlNXcC
+    stars: 628
+    stars_display: '628'
+  year: 2024
+  status: published
+  research_highlight: true
+  research_priority: 2
+  venue_group: ICLR
+- title: Apathetic or Empathetic? Evaluating LLMs' Emotional Alignments with Humans
+  description: Uses emotion appraisal theory to test how LLMs' feelings shift across 400+ situations grouped into 36
+    factors, benchmarked against responses from 1,200+ human subjects. Models including GPT-4, Mixtral-8x22B, and LLaMA-3.1
+    respond appropriately in some cases but fail to align with human emotional behavior or connect similar situations.
+  venue: NeurIPS 2024
+  paper: https://arxiv.org/abs/2308.03656
+  code: https://github.com/CUHK-ARISE/EmotionBench
+  area: reasoning
+  featured: false
+  impact:
+    checked: '2026-11-04'
+    citations: 195
+    citations_display: '195'
+    scholar_url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CvtODukAAAAJ&pagesize=100&citation_for_view=CvtODukAAAAJ:fEOibwPWpKIC
+    stars: 124
+    stars_display: '124'
+  year: 2024
+  status: published
+  research_highlight: false
+  venue_group: NeurIPS
+- title: On the Reliability of Psychological Scales on Large Language Models
+  description: Across 2,500 settings per model on GPT-3.5/4, Gemini-Pro, and LLaMA-3.1, shows that LLMs respond consistently
+    to the Big Five Inventory. Further demonstrates GPT-3.5 can emulate diverse personalities and represent specific
+    population groups when given targeted prompts.
+  venue: EMNLP 2024
+  paper: https://aclanthology.org/2024.emnlp-main.354/
+  area: reasoning
+  featured: false
+  impact:
+    checked: '2026-11-04'
+    citations: 103
+    citations_display: '103'
+    scholar_url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CvtODukAAAAJ&pagesize=100&citation_for_view=CvtODukAAAAJ:k8Z6L05lTy4C
+  year: 2024
+  status: published
+  research_highlight: false
+  venue_group: EMNLP
+- title: Is ChatGPT A Good Translator? A Preliminary Study
+  description: ChatGPT performs competitively with commercial translation systems on high-resource European languages;
+    GPT-4 further bridges the gap for low-resource and distant languages.
   venue: ArXiv 2023
-  tone: preprint
   paper: https://arxiv.org/abs/2301.08745
-  paper_title: "Is ChatGPT A Good Translator? A Preliminary Study"
-  description: ChatGPT performs competitively with commercial translation systems on high-resource European languages; GPT-4 further bridges the gap for low-resource and distant languages.
-
-- name: WMT22 African MT
-  url: https://github.com/wxjiao/WMT2022-Large-Scale-African
-  repo: wxjiao/WMT2022-Large-Scale-African
-  venue: WMT 2022 · 1st Place
-  tone: conf
+  code: https://github.com/wxjiao/Is-ChatGPT-A-Good-Translator
+  name: ChatGPT Translator
+  area: capabilities
+  featured: false
+  impact:
+    checked: '2026-11-04'
+    citations: 1546
+    citations_display: 1,546
+    scholar_url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CvtODukAAAAJ&pagesize=100&citation_for_view=CvtODukAAAAJ:35r97b3x0nAC
+    stars: 248
+    stars_display: '248'
+  year: 2023
+  status: preprint
+  research_highlight: true
+  research_priority: 1
+  venue_group: Preprint
+- title: Tencent’s Multilingual Machine Translation System for WMT22 Large-Scale African Languages
+  description: Tencent’s MNMT system for African languages — data augmentation, distributionally robust optimization,
+    and language-family grouping — ranked 1st place in the WMT22 competition.
+  venue: WMT 2022 · 1st Place (constrained track)
   paper: https://arxiv.org/abs/2210.09644
-  paper_title: "Tencent’s Multilingual Machine Translation System for WMT22 Large-Scale African Languages"
-  description: Tencent’s MNMT system for African languages — data augmentation, distributionally robust optimization, and language-family grouping — ranked 1st place in the WMT22 competition.
-
-- name: Adapters
-  url: https://github.com/yifan-h/Multilingual_Space
-  repo: yifan-h/Multilingual_Space
-  venue: EMNLP 2022 Findings · MRL Best Paper
-  tone: conf
+  code: https://github.com/wxjiao/WMT2022-Large-Scale-African
+  name: WMT22 African MT
+  area: capabilities
+  featured: false
+  year: 2022
+  status: published
+  research_highlight: false
+  venue_group: WMT
+- title: Adapters for Enhanced Modeling of Multilingual Knowledge and Text
+  description: Enhances multilingual language models with knowledge from multilingual knowledge graphs, tackling language
+    and knowledge graph tasks across many languages — Best Paper Award at the MRL workshop.
+  venue: Findings of EMNLP 2022 · MRL Best Paper
   paper: https://arxiv.org/abs/2210.13617
-  paper_title: "Adapters for Enhanced Modeling of Multilingual Knowledge and Text"
-  description: Enhances multilingual language models with knowledge from multilingual knowledge graphs, tackling language and knowledge graph tasks across many languages — Best Paper Award at the MRL workshop.
+  code: https://github.com/yifan-h/Multilingual_Space
+  name: Adapters
+  area: capabilities
+  featured: false
+  year: 2022
+  status: published
+  research_highlight: false
+  venue_group: EMNLP
+- title: 'NewTerm: Benchmarking Real-Time New Terms for Large Language Models with Annual Updates'
+  description: Evaluates how well language models understand newly emerging terms, with annual benchmark updates.
+  venue: NeurIPS 2024 Datasets & Benchmarks
+  paper: https://arxiv.org/abs/2405.14312
+  code: https://github.com/hexuandeng/NewTerm
+  area: capabilities
+  featured: false
+  year: 2024
+  status: published
+  research_highlight: false
+  venue_group: NeurIPS
+- title: 'DRPruning: Efficient Large Language Model Pruning through Distributionally Robust Optimization'
+  description: Studies efficient model pruning and continual pretraining through distributionally robust optimization.
+  venue: ACL 2025
+  paper: https://arxiv.org/abs/2411.14055
+  code: https://github.com/hexuandeng/DRPruning
+  area: capabilities
+  featured: false
+  year: 2025
+  status: published
+  research_highlight: false
+  venue_group: ACL
+- title: Self-training Sampling with Monolingual Data Uncertainty for Neural Machine Translation
+  description: Uses uncertainty to select monolingual examples for more effective self-training in machine translation.
+  venue: ACL 2021
+  paper: https://aclanthology.org/2021.acl-long.221.pdf
+  code: https://github.com/wxjiao/UncSamp
+  area: capabilities
+  featured: false
+  year: 2021
+  status: published
+  research_highlight: false
+  venue_group: ACL
