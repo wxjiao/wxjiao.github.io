@@ -15,6 +15,7 @@
         {% if project.paper %}<a href="{{ project.paper }}" aria-label="{{ project.name }} paper">Paper <span aria-hidden="true">↗</span></a>{% endif %}
         {% if project.code %}<a href="{{ project.code }}" aria-label="{{ project.name }} code">Code <span aria-hidden="true">↗</span></a>{% endif %}
       </div>
+      {% if project.gallery %}{% include paper-gallery.html project=project %}{% endif %}
     </div>
   </article>
   {% endif %}

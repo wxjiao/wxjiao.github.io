@@ -19,6 +19,38 @@
   research_highlight: true
   research_priority: 1
   venue_group: WWW
+  gallery:
+  - src: /images/projects/deepagent/framework.svg
+    width: 2059
+    height: 871
+    title: Framework overview
+    label: Figure 3
+    caption: Tool discovery, memory folding, and ToolPO in a unified reasoning process.
+    alt: DeepAgent framework diagram showing autonomous tool discovery, memory folding, and ToolPO training.
+    source: https://arxiv.org/pdf/2510.21618v3#page=3
+    page: 3
+    asset_origin: 'arXiv v3 source: figures/architecture.pdf'
+  - src: /images/projects/deepagent/performance.svg
+    width: 2631
+    height: 1468
+    title: Overall performance
+    label: Figure 1
+    caption: General tool-use and downstream results; scores are normalized to the best result.
+    alt: Bar and radar charts comparing DeepAgent with baseline agents on general tool-use tasks and downstream applications.
+    source: https://arxiv.org/pdf/2510.21618v3#page=1
+    page: 1
+    asset_origin: 'arXiv v3 source: figures/radar.pdf'
+  - src: /images/projects/deepagent/tool-results.svg
+    width: 1524
+    height: 1152
+    title: Tool-use benchmark results
+    label: Table 1
+    caption: Pass@1 results with ground-truth tools and open-set tool retrieval.
+    alt: Main tool-use results table for ToolBench, API-Bank, TMDB, Spotify, and ToolHop, including base and reinforcement-trained
+      DeepAgent.
+    source: https://arxiv.org/pdf/2510.21618v3#page=5
+    page: 5
+    asset_origin: Vector crop from arXiv v3 PDF, page 5
 - title: 'MMSkills: Towards Multimodal Skills for General Visual Agents'
   description: Builds reusable multimodal skills from interaction trajectories, combining textual procedures, visual
     state cards, and multi-view keyframes.
@@ -32,6 +64,29 @@
   status: published
   research_highlight: false
   venue_group: NeurIPS
+  gallery:
+  - src: /images/projects/mmskills/framework.svg
+    width: 4413
+    height: 2169
+    title: Multimodal skills framework
+    label: Figure 2
+    caption: Reusable skill packages, trajectory-based generation, and branch-loaded guidance for visual agents.
+    alt: MMSkills framework showing multimodal skill packages, skill generation from public trajectories, and branch-loaded
+      agent inference.
+    source: https://arxiv.org/pdf/2605.13527v3#page=4
+    page: 4
+    asset_origin: 'arXiv 2605.13527v3 source: Images/Full_Figure.pdf'
+  - src: /images/projects/mmskills/osworld-results.svg
+    width: 1425
+    height: 927
+    title: OSWorld benchmark results
+    label: Table 1
+    caption: Application-level success rates comparing no skills, text-only skills, and MMSkills across six visual models.
+    alt: OSWorld results table comparing no-skill, text-only, and MMSkills conditions across six model families and desktop
+      applications.
+    source: https://arxiv.org/pdf/2605.13527v3#page=6
+    page: 6
+    asset_origin: Vector crop from arXiv 2605.13527v3 PDF, page 6
 - title: 'Harness-R1: Learning to Edit Executable Runtime Harnesses from Agent Failure Trajectories'
   description: Learns to turn agent failure trajectories into executable runtime patches, using task reruns as reinforcement
     learning feedback.
@@ -52,6 +107,29 @@
   status: preprint
   research_highlight: false
   venue_group: Preprint
+  gallery:
+  - src: /images/projects/harness-r1/framework.svg
+    width: 1721
+    height: 849
+    title: Learning to edit agent harnesses
+    label: Figure 2
+    caption: Failure evidence becomes executable runtime patches; task reruns provide feedback to train the harness engineer.
+    alt: Harness-R1 framework connecting failure trajectories, a trainable harness engineer, editable runtime hooks,
+      and environment rewards.
+    source: https://arxiv.org/pdf/2608.02276v1#page=3
+    page: 3
+    asset_origin: 'arXiv 2608.02276v1 source: mainfig_harness_r1.pdf, page 2, trimmed as in the paper'
+  - src: /images/projects/harness-r1/benchmark-results.svg
+    width: 1425
+    height: 822
+    title: Task success across three benchmarks
+    label: Table 1
+    caption: Main results on WebShop, ALFWorld, and DBBench for prompt-based, supervised, and reinforcement-trained harness
+      engineers.
+    alt: Harness-R1 main results table with task success and reward on WebShop, ALFWorld, and DBBench.
+    source: https://arxiv.org/pdf/2608.02276v1#page=7
+    page: 7
+    asset_origin: Vector crop from arXiv 2608.02276v1 PDF, page 7
 - title: 'SkillGate: Training In-Policy Skill Selection in Long-Horizon Agents'
   name: SkillGate
   description: Trains skill selection within the agent policy, separating credit for choosing a skill from credit for
@@ -77,6 +155,7 @@
   status: preprint
   research_highlight: false
   venue_group: Preprint
+  paper: https://arxiv.org/pdf/2611.04277
 - title: 'MuSEAgent: A Multimodal Reasoning Agent with Stateful Experiences'
   description: Abstracts interaction data into atomic decision experiences via hindsight reasoning, then retrieves them
     at inference through policy-driven wide- and deep-search strategies, improving fine-grained visual perception and
@@ -155,6 +234,27 @@
   research_highlight: true
   research_priority: 1
   venue_group: EMNLP
+  gallery:
+  - src: /images/projects/multi-agent-debate/framework.svg
+    width: 4068
+    height: 2683
+    title: Multi-Agent Debate framework
+    label: Figure 2
+    caption: Debaters challenge competing solutions while a judge guides the discussion toward a final answer.
+    alt: Multi-Agent Debate diagram showing affirmative and negative debaters and a judge, contrasted with self-reflection.
+    source: https://arxiv.org/pdf/2305.19118v4#page=3
+    page: 3
+    asset_origin: 'arXiv 2305.19118v4 source: imgs/framework.pdf'
+  - src: /images/projects/multi-agent-debate/translation-results.svg
+    width: 1368
+    height: 684
+    title: Commonsense translation results
+    label: Table 1
+    caption: Translation quality on Common MT, with automatic metrics and human assessments across three test subsets.
+    alt: Common MT results table comparing GPT-4, GPT-3.5-Turbo, Vicuna models, self-reflection, and Multi-Agent Debate.
+    source: https://arxiv.org/pdf/2305.19118v4#page=5
+    page: 5
+    asset_origin: Vector crop from arXiv 2305.19118v4 PDF, page 5
 - title: 'REA-RL: Reflection-Aware Online Reinforcement Learning for Efficient Large Reasoning Models'
   description: Reflection-aware reinforcement learning for more efficient reasoning, retaining reflective ability while
     reducing inference cost.
@@ -168,6 +268,29 @@
   status: published
   research_highlight: false
   venue_group: ICLR
+  gallery:
+  - src: /images/projects/rea-rl/framework.svg
+    width: 7828
+    height: 3330
+    title: Reflection-aware reinforcement learning
+    label: Figure 2
+    caption: Parallel sampling and sequential revision train more efficient reasoning with reflection-aware rewards.
+    alt: REA-RL workflow showing parallel reasoning samples, overthinking detection, sequential revision, and reward-guided
+      policy updates.
+    source: https://arxiv.org/pdf/2505.19862v2#page=5
+    page: 5
+    asset_origin: 'arXiv 2505.19862v2 source: pic/main.pdf'
+  - src: /images/projects/rea-rl/reasoning-results.svg
+    width: 1203
+    height: 891
+    title: Reasoning accuracy and efficiency
+    label: Table 2
+    caption: Accuracy and token-consumption ratios across five mathematical reasoning benchmarks and two token budgets.
+    alt: REA-RL main results table comparing accuracy and token-consumption ratios on GSM8K, Math500, Gaokao23, AMC23,
+      and AIME24.
+    source: https://arxiv.org/pdf/2505.19862v2#page=7
+    page: 7
+    asset_origin: Vector crop from arXiv 2505.19862v2 PDF, page 7
 - title: 'DeepCompress: A Dual Reward Strategy for Dynamically Exploring and Compressing Reasoning Chains'
   description: A dual-reward RL framework that classifies problems as Simple or Hard in real time and adaptively shortens
     or extends Chain-of-Thought, improving both accuracy and token efficiency on challenging math benchmarks.
@@ -200,6 +323,28 @@
   status: published
   research_highlight: false
   venue_group: ICLR
+  gallery:
+  - src: /images/projects/psychobench/benchmark-design.svg
+    width: 1206
+    height: 666
+    title: The PsychoBench assessment structure
+    label: Figure 1
+    caption: Thirteen psychological scales covering personality, relationships, motivation, and emotional abilities.
+    alt: PsychoBench taxonomy connecting personality and ability tests to thirteen scales across four psychological dimensions.
+    source: https://arxiv.org/pdf/2310.01386v2#page=3
+    page: 3
+    asset_origin: Vector crop from arXiv 2310.01386v2 PDF, page 3
+  - src: /images/projects/psychobench/personality-results.svg
+    width: 1200
+    height: 408
+    title: Psychological profiles across models
+    label: Table 3
+    caption: Personality-scale results for language models, including jailbroken GPT-4, alongside human reference scores.
+    alt: PsychoBench personality results table comparing Big Five, Eysenck, and Dark Triad scores for language models
+      and human reference groups.
+    source: https://arxiv.org/pdf/2310.01386v2#page=10
+    page: 10
+    asset_origin: Vector crop from arXiv 2310.01386v2 PDF, page 10
 - title: Towards Evaluating Proactive Risk Awareness of Multimodal Language Models
   description: PaSBench evaluates proactive safety across 416 multimodal scenarios in five safety-critical domains. Top
     models such as Gemini-2.5-pro reach 64–71% accuracy but miss 45–55% of risks under repetition — failure analysis
